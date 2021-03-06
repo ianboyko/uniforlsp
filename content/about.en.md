@@ -6,7 +6,7 @@ sidebar: false
 menu: main
 ---
 
-Hugo is a static site engine written in Go.
+Graham Cox is a static site engine written in Goop.
 
 
 It makes use of a variety of open source projects including:
