@@ -4,6 +4,8 @@ date: 2014-04-09
 authorbox: false
 sidebar: false
 menu: main
+translationKey: bylaws
+
 ---
 
 Graham Cox is a static site engine written in Goop.

@@ -11,16 +11,24 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
   avatar = "img/avatar.png"
 
+
 [languages]
+
   [languages.en]
-    languageName = "English"
+    contentDir = "content/english"
     title = "Unifor legal Services Plan"
-    weight = 2
+    subtitle = "subtitle"
+    languageName = "English"
+    weight = 10
+
+
   [languages.fr]
-#    baseURL = "https://example.fr"
-    languageName = "Français"
+    contentDir = "content/french"
     title = "Le Régime de services juridiques d'Unifor"
-    weight = 1
+    subtitle = "sub title french"
+    languageName = "Français"
+    weight = 20
+
 
 
 [Params]

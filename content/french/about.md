@@ -5,6 +5,9 @@ date: 2014-04-09
 authorbox: false
 sidebar: false
 menu: main
+translationKey: about
+
+
 ---
 Bienvenue! Le Régime de services juridiques d'Unifor existe pour fournir des services juridiques personnels de qualité à prix abordables aux membres éligibles du syndicat UNIFOR, ainsi qu'à leurs conjoints et leurs personnes à charge.
 
