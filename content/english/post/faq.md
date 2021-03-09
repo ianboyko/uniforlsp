@@ -6,6 +6,8 @@ categories:
   - "About"
 tags:
   - ""
+menu: main
+
 ---
 
 # Frequently Asked Questions (FAQ)
