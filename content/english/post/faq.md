@@ -10,33 +10,33 @@ menu: main
 
 ---
 
-# Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-This page contains the answers to common questions about the Unifor Legal Services Plan.
+This page contains the answers to common questions about the Unifor Legal Services Plan.  
 
-## 1. What is it?
+### 1. What is it?
 
 The Plan is a self-administered, non-profit trust. It provides quality legal services at affordable prices to eligible Unifor members and their families.
 
 The Plan is established by collective agreements negotiated between each sponsoring company and Unifor.
 
-## 2. Who runs it?
+### 2. Who runs it?
 
 Each separate Plan agreement establishes a Board of Trustees called the Administrative Committee. Each Committee has equal company and union representation and an independent chairperson.
 
 In order to achieve significant cost savings, each separate plan uses the same central administration, run on a day-to-day basis by an Executive Director who reports to the trustees.
 
-## 3. How is it financed?
+### 3. How is it financed?
 
 Plan benefits and administrative expenses are paid from a trust fund. Contributions to this fund are made by the sponsoring companies in amounts established through collective bargaining.
 
-## 4. Who is eligible?
+### 4. Who is eligible?
 
 Each separate Plan agreement has its own eligibility requirements. Most provide eligibility for bargaining unit employees (in most cases with at least one year of seniority) and retirees. Eligibility ceases in most cases if the employee has been continuously laid off for 18 months.
 
 In most cases, spouses and surviving spouses of employees and retirees are also eligible, as are unmarried, dependent children, under age 26, who reside at home.
 
-## 5. When does coverage start?[Coverage Information](#)
+### 5. When does coverage start?[Coverage Information](#)
 
 The effective date of Plan coverage varies for each sponsoring company. Check your collective agreement or call a [Staff Office](#) near you to find out when your coverage commenced.
 
@@ -54,7 +54,7 @@ The effective date of Plan coverage varies for each sponsoring company. Check yo
 
   d) Benefit changes only apply to cases that start on or after the effective date of the change.
 
-## 6. How do I use it?
+### 6. How do I use it?
 
 CALL THE PLAN FIRST! When you call, be sure you have your social insurance number, employee number and seniority date available. Your eligibility will be checked and the Plan coverage for the legal service that you require will be explained. The addresses and telephone numbers of all Plan offices are displayed on the Staff Offices page.
 
@@ -67,11 +67,11 @@ M4V 3C3
 >(416) 960-2410  
 (800) 268-7573  
 
-## 7. What if I have a complaint?
+### 7. What if I have a complaint?
 
 Please notify our Head Office in Toronto by calling 1-800-268-7573 or [contact us](#).
 
-## 8. What is excluded from Plan Coverage?
+### 8. What is excluded from Plan Coverage?
 
 The Plan will not provide benefits or in any other manner pay for the following:
 - fines and penalties, whether civil or criminal
@@ -89,11 +89,11 @@ The Plan will not provide benefits or in any other manner pay for the following:
 - proceedings against or arising from any benefit Plan established or maintained by the Participant's employer, including proceedings against any trust or - insurance carrier through which such benefits are provided to the employer, its employees or retirees including any dispute involving the Plan
 - Workers' Compensation or Employment Insurance matters involving the Participant's employer
 
-## 9. What about GST, HST and other taxes?
+### 9. What about GST, HST and other taxes?
 
 The Plan does not pay sales or any other taxes related to lawyer or notary fees.
 
-## 10. How is the service delivered?
+### 10. How is the service delivered?
 
 CALL THE PLAN FIRST! Plan Participants must contact the Staff Office located nearest them or the Head Office in Toronto to determine their eligibility and benefits under the Plan. Participants may go to a Staff Lawyer in the Staff Office, a Co-operating Lawyer or Notary or Non-co-operating Lawyer or Notary for their legal services.
 
@@ -107,13 +107,13 @@ Non-co-operating Lawyers and Notaries are in private practice and have not contr
 
 No matter what kind of lawyer or notary you use, it is important to CALL THE PLAN FIRST to determine your eligibility and the benefit available to you under the Plan.
 
-## 11. Who pays?
+### 11. Who pays?
 
 For legal fees paid by the Plan (see "Prepaid" and "Mixed" below) the Plan will pay directly for the services of Staff Lawyers or Co-operating Lawyers or Notaries. If you choose to use a non-co-operating lawyer or notary you pay him or her directly and submit the account to the Head Office in Toronto. The Plan will reimburse you up to the amount of the Plan fee schedule.
 
 For legal fees that are your responsibility (see "Mixed" and "Referral" below) you pay the lawyer or notary directly. If you so choose and if available, the Plan will refer you to a Co-operating Lawyer or Notary who will only charge you in accordance with the current Plan fee schedule. For most cases, you will be charged an hourly rate; for others (e.g. Probate and some uncontested Family matters) you will be charged a fixed amount.
 
-## 12. What types of benefits are provided?
+### 12. What types of benefits are provided?
 
 There are three types of benefits available:
 
