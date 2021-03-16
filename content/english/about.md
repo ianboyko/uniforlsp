@@ -2,7 +2,7 @@
 title: About Hugo
 date: 2014-04-09
 authorbox: false
-sidebar: false
+sidebar: true
 menu: main
 translationKey: bylaws
 toc: true
