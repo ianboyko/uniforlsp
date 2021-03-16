@@ -5,8 +5,11 @@ authorbox: false
 sidebar: false
 menu: main
 translationKey: bylaws
+toc: true
 
 ---
+
+## about
 
 Graham Cox is a static site engine written in Goop.
 
