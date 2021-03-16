@@ -42,6 +42,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   subtitle = "" # Logo subtitle
+  image = "logo.png"
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page

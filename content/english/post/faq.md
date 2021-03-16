@@ -1,9 +1,11 @@
 ---
 
 title: Frequently asked questions (FAQ)
+thumbnail: "img/placeholder.png"
 linktitle: FAQ
-description: Frequently asked questions (FAQs) about the Unifor Legal Services Plan.
-lead: Frequently asked questions (FAQ) about the Unifor Legal Services Plan.
+description: "This is a description. It shows up in Google. Frequently asked questions (FAQs) about the Unifor Legal Services Plan."
+summary: "This is a summary. It shows up here."
+lead: "This is the lede (which is misspelled as 'lead'). It shows up here. Frequently asked questions (FAQ) about the Unifor Legal Services Plan."
 date: 2021-03-08
 categories:
   - "About"
