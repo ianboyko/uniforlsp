@@ -1,16 +1,16 @@
 ---
-title: Contact Information
-linktitle: Contact
-description: Contact the Unifor Legal Services Plan
-lead: Contact the Unifor Legal Services Plan
+title: About the organization
+linktitle: About
+description: About Unifor Legal Services 
+lead: Unifor Legal Services
 summary: Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them.
 date: 2021-03-13
 categories:
-  - "Contact"
+  - ""
 tags:
   - ""
 menu: main
-translationKey: contactinfo
+translationKey: about
 toc: true
 
 ---
