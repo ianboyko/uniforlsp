@@ -83,3 +83,34 @@ N8W 4J1
 (519) 944-5222  
 (800) 381-2209  
 Fax: (519) 944-5077  
+
+## Corporate and union sponsors
+
+The Unifor Legal Services Plan is funded by contributions from the Corporate Sponsors listed below. Contributions are based on formulas established during the collective bargaining process. All eligible Plan Participants are active employees or retirees (or their spouses or dependents) of the Sponsoring Companies:  
+- 3M Canada
+- ABB Ltd.
+- Accuride Canada Inc.
+- ArcelorMittal
+- BWXT Nuclear Energy Canada Inc.
+- CAMI Automotive Inc.
+- Camions Montreal
+- Continental Automotive Canada
+- Durham Region Transit
+- FCA Canada Inc.
+- Ford Motor Company of Canada, Limited
+- General Dynamics Land Systems Canada
+- General Electric
+- General Motors of Canada Limited
+- IACNA
+- Integram Windsor Seating
+- Leadec (CA) Corp.
+- Lear Corporation Canada Ltd.
+- Mahle Filter Systems Canada
+- Mississauga Seating Systems
+- PACCAR du Canada Ltée
+- PepsiCo Foods Canada Inc.
+- Qualtech Seating
+- Securitas Canada Limited
+- TRW Kelsey-Hayes Canada
+- Unifor
+- Windsor Modules 
