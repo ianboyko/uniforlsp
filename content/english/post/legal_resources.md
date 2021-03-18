@@ -20,15 +20,15 @@ toc: true
 The following documents, written by our own lawyers, give you information about a variety of legal issues and situations.
 
 ### Consumer law
-- Protect Your Credit Rating  
-- Debt Problems? A Credit Counsellor Might Help  
-- Ontario's Consumer Protection Act  
-- Offers to Settle and Costs  
-- Beware of Salespersons Knocking at your Door - DO NOT LET THEM IN  
-- But for The Plan (Collection Agency Letters-Don't Take Them at Face Value)  
-- But for The Plan (Trailer Parks in the United States - Sometimes a Canadian Lawyer Can Help)
-- But for The Plan (Renovation Issues and Contractors Who Walk Away)
-- But for The Plan (Furnace Rental Agreements - Beware)
+- [Protect Your Credit Rating](../../../static/pdf/Protect_your_credit_rating-en.pdf)
+- [Debt Problems? A Credit Counsellor Might Help](../../../static/pdf/Debt_problems-en.pdf)  
+- [Ontario's Consumer Protection Act](../../../static/pdf/Ontario_Consumer_Protection_Act-en.pdf)
+- [Offers to Settle and Costs](../../../static/pdf/Offers%20to%20Settle%20and%20Costs.pdf)  
+- [Beware of Salespersons Knocking at your Door - DO NOT LET THEM IN](../../../static/pdf/2019%20Paul%20-%20Beware%20the%20Salespersons.pdf)
+- [But for The Plan (Collection Agency Letters-Don't Take Them at Face Value)](../../../static/pdf/2018%20Jonathon%20-%20Collection%20Agency%20Letters.pdf)
+- [But for The Plan (Trailer Parks in the United States - Sometimes a Canadian Lawyer Can Help)](../../../static/pdf/BUT%20FOR%20THE%20PLAN,%20Trailer%20Parks%20in%20the%20United%20States.pdf)
+- [But for The Plan (Renovation Issues and Contractors Who Walk Away)](../../../static/pdf/BUT%20FOR%20THE%20PLAN%202019%20Bill%20-%20Renovation%20Issues.pdf)
+- [But for The Plan (Furnace Rental Agreements - Beware)](../../../static/pdf/BUT%20FOR%20THE%20PLAN%202018%20Frank%20Furnace%20Rental%20Agreements.pdf)
 - But for The Plan (Life Insurance Company's Initial Refusal to Pay - Successfully Challenged)
 - But for The Plan (Joining a Class Action)
 - But for The Plan (Telephone Sales)
@@ -69,48 +69,46 @@ the Original Obligations)
 
 ### Immigration
 
-But for The Plan
-(Performance Bond)
+- But for The Plan (Performance Bond)
 
 ### Litigation
 
-The Duty to Settle
-But for The Plan
-(Debts: Saved by the Limitation Act)
+- The Duty to Settle
+- But for The Plan (Debts: Saved by the Limitation Act)
 
 ### Motor vehicle
 
-But for the Plan (When You Drive Your Child's Car Without Permission)
-But for the Plan (When Your Child Drives Your Car Without Permission)
-But for the Plan (Driver's Licence - Medical Suspension - Reinstatement Prior to the Appeal Hearing is Possible)
+- But for the Plan (When You Drive Your Child's Car Without Permission)
+- But for the Plan (When Your Child Drives Your Car Without Permission)
+- But for the Plan (Driver's Licence - Medical Suspension - Reinstatement Prior to the Appeal Hearing is Possible)
 
 ### Real estate
 
-Dealing with Neighbours
-But for the Plan (Real Estate Sale - When the Buyer Can't Close on Time)
-But for the Plan (Water in the Basement)
-But for The Plan (Exclusive Listing Agreements - Get Legal Advice Before You Sign)
-But for the Plan (City Expropriation - Street Widening)
-But for the Plan (The Addition Over the Septic Tank)
-But for the Plan (The Retiree and the Business Next Door)
-But for the Plan (Buying Real Estate with Children? Stay on Title!)
-Two Types of Co-Ownership in Real Estate
-But for the Plan (When your Deed is in the Name of a Stranger)
-Protect Yourself From the Builder’s Big Bite
-Mortgage in Default? Don't Hand Over Your Keys to the Bank
+- Dealing with Neighbours
+- But for the Plan (Real Estate Sale - When the Buyer Can't Close on Time)
+- But for the Plan (Water in the Basement)
+- But for The Plan (Exclusive Listing Agreements - Get Legal Advice Before You Sign)
+- But for the Plan (City Expropriation - Street Widening)
+- But for the Plan (The Addition Over the Septic Tank)
+- But for the Plan (The Retiree and the Business Next Door)
+- But for the Plan (Buying Real Estate with Children? Stay on Title!)
+- Two Types of Co-Ownership in Real Estate
+- But for the Plan (When your Deed is in the Name of a Stranger)
+- Protect Yourself From the Builder’s Big Bite
+- Mortgage in Default? Don't Hand Over Your Keys to the Bank
 
 ### Wills and estates
 
-But for the Plan (Lost Will Validated: $300,000 Charitable Gift Saved)
-But for the Plan (Estate Work Costs Much Less at the Plan)
-But for the Plan (Making a Will? Check the Title to Your Real Estate)
-But for the Plan (Estate Debts - Collection Agency Letters - Limitations Act Defences)
-But for the Plan (Estates-Estranged Daughter)
-But for the Plan (Estates-Only the Estate is Obliged to Pay for the Debts of the Deceased)
-But for the Plan (Estates-The Joint Account May Not Belong to the Named Survivor
-But for the Plan (Estate Work - "Probate Fees" Avoided)
-Beware of the "Do-It-Yourself" Will
-Estates - Plan Coverage
-A Practical Guide for Planning Your Will
-Instructions to Wills Clients
-Instructions to Estate Trustees
+- But for the Plan (Lost Will Validated: $300,000 Charitable Gift Saved)
+- But for the Plan (Estate Work Costs Much Less at the Plan)
+- But for the Plan (Making a Will? Check the Title to Your Real Estate)
+- But for the Plan (Estate Debts - Collection Agency Letters - Limitations Act Defences)
+- But for the Plan (Estates-Estranged Daughter)
+- But for the Plan (Estates-Only the Estate is Obliged to Pay for the Debts of the Deceased)
+- But for the Plan (Estates-The Joint Account May Not Belong to the Named Survivor
+- But for the Plan (Estate Work - "Probate Fees" Avoided)
+- Beware of the "Do-It-Yourself" Will
+- Estates - Plan Coverage
+- A Practical Guide for Planning Your Will
+- Instructions to Wills Clients
+- Instructions to Estate Trustees
