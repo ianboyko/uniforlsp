@@ -1,7 +1,7 @@
 ---
 
 title: Legal Resources
-linktitle: Legal
+linktitle: Legal_resources
 description: "Legal resources organized by category."
 summary: "Help navigate legal issues with these resources."
 lead: "Legal resources to download."
