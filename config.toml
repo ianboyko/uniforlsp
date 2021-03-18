@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Unifor legal Services Plan"
+title = "Unifor Legal Services Plan"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
