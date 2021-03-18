@@ -15,11 +15,29 @@ toc: true
 
 ---
 
-## Staff Offices  
+### Contact us
+
+Disclaimer:  
+*Contacting the Plan by e-mail does not create a lawyer-client relationship. A person does not become a client unless and until a specific lawyer agrees to act for the person and that representation is confirmed in a retainer agreement or letter. Unless you are an existing client, no information provided to the Plan will be considered confidential. Even if you are an existing client, you should only e-mail your lawyer if there is a prior agreement to do so.*
+
+#### Real estate agents and financial institutions:  
+**Do not** email documents to these email addresses.  
+
+#### Lawyers and notaries:  
+If you are a lawyer or a Quebec notary and would like information about joining our panel, or if you are an existing Co-operating lawyer or Notary (Quebec) whose address, telephone or other contact information has changed,contact us at: [lawyer@uniforlsp.com](mailto:lawyer@uniforlsp.com)  
+
+The following is a general mailbox only and **cannot** be used to ask about specific legal problems. 
+> If you need immediate legal assistance, including booking appointments, please call 1-800-268-7573.  
+
+For further information about the Plan or if you wish to comment about the Plan, contact us at: [information@uniforlsp.com](mailto:information@uniforlsp.com)  
+
+We value your opinion and invite you to fill out a [Client Satisfaction Survey form](/pdf/CSQ2.pdf), and send it to us.
+
+### Staff Offices  
 
 Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them (see below). Participants who live elsewhere should contact our Head Office Intake Centre at 1-800-268-7573. To see a map, click on the name of the locations below.
 
-#### Head Office  
+### Head Office  
 Suite 600  
 1 St. Clair Avenue West  
 Toronto, Ontario  
@@ -84,7 +102,7 @@ N8W 4J1
 (800) 381-2209  
 Fax: (519) 944-5077  
 
-## Corporate and union sponsors
+### Corporate and union sponsors
 
 The Unifor Legal Services Plan is funded by contributions from the Corporate Sponsors listed below. Contributions are based on formulas established during the collective bargaining process. All eligible Plan Participants are active employees or retirees (or their spouses or dependents) of the Sponsoring Companies:  
 - 3M Canada
@@ -115,7 +133,7 @@ The Unifor Legal Services Plan is funded by contributions from the Corporate Spo
 - Unifor
 - Windsor Modules 
 
-## Co-operating lawyers
+### Co-operating lawyers
 
 Co-operating Lawyers (and Co-operating Notaries in Quebec)are in private practice and have contracted with the Plan to provide legal services to Participants according to the Plan Fee Schedule.  
 Canadian lawyers (as well as Quebec notaries) who are considering affiliation with the Plan may review the Co-operating Lawyer Agreement (and its appendices) by following the links below:  
@@ -127,7 +145,7 @@ If you would like to become a Co-operating Lawyer, please complete and sign two 
 
 The Plan has almost 1,100 Co-operating Lawyers and Notaries in locations across the country. For further information contact us or call 1-800-268-7573. 
 
-## Endorsements
+### Endorsements
 
 These comments are verbatim. If you would like to submit your own comments, please contact us.  
 Here's what our Plan Participants are saying...
