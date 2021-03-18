@@ -10,7 +10,6 @@ categories:
   - ""
 tags:
   - ""
-menu: main
 toc: true
 
 ---
