@@ -16,8 +16,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
   [languages.en]
     contentDir = "content/english"
-    title = "Unifor legal Services Plan"
-    subtitle = "subtitle"
+    title = ""
+    subtitle = ""
     languageName = "English"
     weight = 10
 
