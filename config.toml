@@ -9,7 +9,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Author]
   name = ""
   bio = ""
-  avatar = "img/avatar.png"
+  avatar = ""
 
 
 [languages]
@@ -32,7 +32,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "Legal assistance for member of Unifor" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
