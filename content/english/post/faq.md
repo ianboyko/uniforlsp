@@ -1,11 +1,11 @@
 ---
 
 title: Frequently asked questions (FAQ)
-thumbnail: "img/placeholder.png"
+# thumbnail: "img/placeholder.png"
 linktitle: FAQ
-description: "This is a description. It shows up in Google. Frequently asked questions (FAQs) about the Unifor Legal Services Plan."
+description: "Frequently asked questions (FAQs) about the Unifor Legal Services Plan."
 summary: "This is a summary. It shows up here."
-lead: "This is the lede (which is misspelled as 'lead'). It shows up here. Frequently asked questions (FAQ) about the Unifor Legal Services Plan."
+lead: "Frequently asked questions about the Unifor Legal Services Plan."
 date: 2021-03-08
 categories:
   - "About"
@@ -40,7 +40,7 @@ In most cases, spouses and surviving spouses of employees and retirees are also 
 
 ## 5. When does coverage start? (Coverage Information)
 
-The effective date of Plan coverage varies for each sponsoring company. Check your collective agreement or call a [Staff Office](#) near you to find out when your coverage commenced.
+The effective date of [Plan coverage](/post/coverage) varies for each sponsoring company. Check your collective agreement or call a [Staff Office](/post/about/#staff-offices) near you to find out when your coverage commenced.
 
 *Please note: Any matter that started before your commencement date is not covered.*
 
@@ -60,7 +60,7 @@ The effective date of Plan coverage varies for each sponsoring company. Check yo
 
 CALL THE PLAN FIRST! When you call, be sure you have your social insurance number, employee number and seniority date available. Your eligibility will be checked and the Plan coverage for the legal service that you require will be explained. The addresses and telephone numbers of all Plan offices are displayed on the Staff Offices page.
 
-Call the [Staff Office](#) nearest to you. If there is no Staff Office near you, call the national office in Toronto.
+Call the [Staff Office](/post/about/#staff-offices) nearest to you. If there is no Staff Office near you, call the national office in Toronto.
 > 1 St. Clair West Ave.  
 Suite 600  
 Toronto, Ontario  
@@ -71,7 +71,7 @@ M4V 3C3
 
 ## 7. What if I have a complaint?
 
-Please notify our Head Office in Toronto by calling 1-800-268-7573 or [contact us](#).
+Please notify our Head Office in Toronto by calling 1-800-268-7573 or [contact us](/post/about/#contact-us).
 
 ## 8. What is excluded from Plan Coverage?
 
@@ -97,7 +97,7 @@ The Plan does not pay sales or any other taxes related to lawyer or notary fees.
 
 ## 10. How is the service delivered?
 
-CALL THE PLAN FIRST! Plan Participants must contact the Staff Office located nearest them or the Head Office in Toronto to determine their eligibility and benefits under the Plan. Participants may go to a Staff Lawyer in the Staff Office, a Co-operating Lawyer or Notary or Non-co-operating Lawyer or Notary for their legal services.
+CALL THE PLAN FIRST! Plan Participants must contact the [Staff Office](/post/about/#staff-offices) located nearest them or the Head Office in Toronto to determine their eligibility and benefits under the Plan. Participants may go to a Staff Lawyer in the Staff Office, a [Co-operating Lawyer](/post/about/#co-operating-lawyers) or Notary or Non-co-operating Lawyer or Notary for their legal services.
 
 Staff Lawyers are employed by the Plan, work in Staff Offices and provide legal services to Participants according to the Plan fee schedule.
 

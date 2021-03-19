@@ -6,29 +6,33 @@ description: "Find out what is covered by the LSP."
 summary: ""
 
 date: 2021-03-13
-categories:
-  - "Coverage"
-tags:
-  - ""
+# categories:
+#  - "Coverage"
+# tags:
+#  - ""
 menu: main
 
 ---
-## Coverage Information
 
 In addition to our Full Benefit Package, we also offer Entry-Level and Mid-Level benefit packages. Click on the title to view the benefit schedule for each package.  
-The Benefit Schedule is a detailed list of services and fees. It only applies to those who use Staff Lawyers or Co-operating Lawyers (or Co-operating Notaries in Quebec).  
-[Entry-Level Benefits](#)  
-Wills and Estates (includes Powers of Attorney)  
-Summary Advice  
-- two-hour limit per case
-- real estate transactions and appeals excluded  
-[Mid-Level Benefits](#)  
-Wills and Estates (includes Powers of Attorney)  
-Real Estate  
-Summary Advice  
-- two-hour limit per case
-- real estate transactions and appeals excluded
-[Full Benefit Package](#)  
+The Benefit Schedule is a detailed list of services and fees. It only applies to those who use Staff Lawyers or Co-operating Lawyers (or Co-operating Notaries in Quebec).
+## Entry-Level Benefits 
+[Download](/pdf/Benefit%20Schedule%20(ENTRY)%202020_01_01.pdf)  
+- Wills and Estates (includes Powers of Attorney)    
+- Summary Advice    
+  - two-hour limit per case  
+  - real estate transactions and appeals excluded    
+
+## Mid-Level Benefits
+[Download](/pdf/Benefit%20Schedule%20(MID-LEVEL)%202020_01_01.pdf)  
+- Wills and Estates (includes Powers of Attorney)  
+- Real Estate  
+- Summary Advice  
+  - two-hour limit per case
+  - real estate transactions and appeals excluded
+
+## Full-Benefit Package
+[Download](/pdf/Benefit%20Schedule%20(FULL)%202020_01_01.pdf)  
 - Wills and Estates (includes Powers of Attorney)
 - Real Estate
 - Tenant's Rights
@@ -37,5 +41,8 @@ Summary Advice
 - Criminal and Motor Vehicle
 - Consumer/Debtor
 - Administrative Law  
-[Divorces and Domestic Contracts](#)
-[Estates](#)
+  
+The following documents contain additional coverage information about specific areas of law. Some of the terminology may be different for the province in which you live. If you have a legal problem, please call your nearest Intake Centre immediately, and we will refer you to a lawyer who will answer your questions.  
+
+[Divorces and Domestic Contracts](/pdf/divorce%202013.pdf)  
+[Estates](/pdf/estates%202013.pdf)

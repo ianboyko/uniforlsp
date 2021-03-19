@@ -5,10 +5,10 @@ description: About Unifor Legal Services
 lead: Unifor Legal Services
 summary: Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them.
 date: 2021-03-13
-categories:
-  - ""
-tags:
-  - ""
+# categories:
+#   - ""
+# tags:
+#   - ""
 menu: main
 translationKey: about
 toc: true
@@ -20,11 +20,9 @@ toc: true
 Disclaimer:  
 *Contacting the Plan by e-mail does not create a lawyer-client relationship. A person does not become a client unless and until a specific lawyer agrees to act for the person and that representation is confirmed in a retainer agreement or letter. Unless you are an existing client, no information provided to the Plan will be considered confidential. Even if you are an existing client, you should only e-mail your lawyer if there is a prior agreement to do so.*
 
-#### Real estate agents and financial institutions:  
-**Do not** email documents to these email addresses.  
+**Real estate agents and financial institutions:** Do not email documents to these email addresses.  
 
-#### Lawyers and notaries:  
-If you are a lawyer or a Quebec notary and would like information about joining our panel, or if you are an existing Co-operating lawyer or Notary (Quebec) whose address, telephone or other contact information has changed,contact us at: [lawyer@uniforlsp.com](mailto:lawyer@uniforlsp.com)  
+**Lawyers and notaries:** If you are a lawyer or a Quebec notary and would like information about joining our panel, or if you are an existing Co-operating lawyer or Notary (Quebec) whose address, telephone or other contact information has changed,contact us at: [lawyer@uniforlsp.com](mailto:lawyer@uniforlsp.com)  
 
 The following is a general mailbox only and **cannot** be used to ask about specific legal problems. 
 > If you need immediate legal assistance, including booking appointments, please call 1-800-268-7573.  
@@ -35,7 +33,7 @@ We value your opinion and invite you to fill out a [Client Satisfaction Survey f
 
 ### Staff Offices  
 
-Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them (see below). Participants who live elsewhere should contact our Head Office Intake Centre at 1-800-268-7573. To see a map, click on the name of the locations below.
+Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them (see below). Participants who live elsewhere should contact our Head Office Intake Centre at 1-800-268-7573.
 
 ### Head Office  
 Suite 600  
