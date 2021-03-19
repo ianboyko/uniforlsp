@@ -6,10 +6,10 @@ theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
-[Author]
-  name = ""
-  bio = ""
-  avatar = ""
+# [Author]
+#   name = ""
+#   bio = ""
+#   avatar = ""
 
 
 [languages]
@@ -36,7 +36,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
-  authorbox = true
+  # authorbox = true
   pager = true
   post_meta = ["date", "categories","translations"] # Order of post meta information
 
