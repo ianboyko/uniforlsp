@@ -58,18 +58,18 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
-  telegram = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  email = "example@example.com"
+  # facebook = "username"
+  # twitter = "username"
+  # instagram = "username"
+  # linkedin = "username"
+  # telegram = "username"
+  # github = "username"
+  # gitlab = "username"
+  # bitbucket = "username"
+  email = "information@uniforlsp.com"
 
 
 [[Params.widgets.social.custom]]
-  title = " Call: 555-555-5555"
-  url = "tel:555-555-5555"
+  title = " Call: 1-800-268-7573"
+  url = "tel:1-800-268-7573"
   icon = "svg/phone.svg" # Optional. Path relative to "layouts/partials"
