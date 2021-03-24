@@ -24,7 +24,8 @@ Disclaimer:
 
 **Lawyers and notaries:** If you are a lawyer or a Quebec notary and would like information about joining our panel, or if you are an existing Co-operating lawyer or Notary (Quebec) whose address, telephone or other contact information has changed,contact us at: [lawyer@uniforlsp.com](mailto:lawyer@uniforlsp.com)  
 
-The following is a general mailbox only and **cannot** be used to ask about specific legal problems. 
+The following is a general mailbox only and **cannot** be used to ask about specific legal problems.  
+
 > If you need immediate legal assistance, including booking appointments, please call 1-800-268-7573.  
 
 For further information about the Plan or if you wish to comment about the Plan, contact us at: [information@uniforlsp.com](mailto:information@uniforlsp.com)  
@@ -103,33 +104,33 @@ Fax: (519) 944-5077
 ### Corporate and union sponsors
 
 The Unifor Legal Services Plan is funded by contributions from the Corporate Sponsors listed below. Contributions are based on formulas established during the collective bargaining process. All eligible Plan Participants are active employees or retirees (or their spouses or dependents) of the Sponsoring Companies:  
-- 3M Canada
-- ABB Ltd.
-- Accuride Canada Inc.
-- ArcelorMittal
-- BWXT Nuclear Energy Canada Inc.
-- CAMI Automotive Inc.
-- Camions Montreal
-- Continental Automotive Canada
-- Durham Region Transit
-- FCA Canada Inc.
-- Ford Motor Company of Canada, Limited
-- General Dynamics Land Systems Canada
-- General Electric
-- General Motors of Canada Limited
-- IACNA
-- Integram Windsor Seating
-- Leadec (CA) Corp.
-- Lear Corporation Canada Ltd.
-- Mahle Filter Systems Canada
-- Mississauga Seating Systems
-- PACCAR du Canada Ltée
-- PepsiCo Foods Canada Inc.
-- Qualtech Seating
-- Securitas Canada Limited
-- TRW Kelsey-Hayes Canada
-- Unifor
-- Windsor Modules 
+- 3M Canada  
+- ABB Ltd.  
+- Accuride Canada Inc.  
+- ArcelorMittal  
+- BWXT Nuclear Energy Canada Inc.  
+- CAMI Automotive Inc.  
+- Camions Montreal  
+- Continental Automotive Canada  
+- Durham Region Transit  
+- FCA Canada Inc.  
+- Ford Motor Company of Canada, Limited  
+- General Dynamics Land Systems Canada  
+- General Electric  
+- General Motors of Canada Limited  
+- IACNA  
+- Integram Windsor Seating  
+- Leadec (CA) Corp.  
+- Lear Corporation Canada Ltd.  
+- Mahle Filter Systems Canada  
+- Mississauga Seating Systems  
+- PACCAR du Canada Ltée  
+- PepsiCo Foods Canada Inc.  
+- Qualtech Seating  
+- Securitas Canada Limited  
+- TRW Kelsey-Hayes Canada  
+- Unifor  
+- Windsor Modules   
 
 ### Co-operating lawyers
 
