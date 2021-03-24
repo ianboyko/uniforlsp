@@ -38,7 +38,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   readmore = false # Show "Read more" button in list if true
   # authorbox = true
   pager = false
-  post_meta = ["date", "categories","translations"] # Order of post meta information
+  post_meta = ["translations"] # Order of post meta information
 
 [Params.logo]
   subtitle = "" # Logo subtitle
@@ -49,7 +49,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "languages"]
+  widgets = ["search", "languages"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
