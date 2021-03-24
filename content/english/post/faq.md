@@ -4,13 +4,13 @@ title: Frequently asked questions (FAQ)
 # thumbnail: "img/placeholder.png"
 linktitle: FAQ
 description: "Frequently asked questions (FAQs) about the Unifor Legal Services Plan."
-summary: "This is a summary. It shows up here."
+summary: ""
 lead: "Frequently asked questions about the Unifor Legal Services Plan."
 date: 2021-03-08
-categories:
-  - "About"
-tags:
-  - ""
+#categories:
+#  - "About"
+#tags:
+#  - ""
 menu: main
 toc: true
 
@@ -60,13 +60,13 @@ The effective date of [Plan coverage](/post/coverage) varies for each sponsoring
 
 CALL THE PLAN FIRST! When you call, be sure you have your social insurance number, employee number and seniority date available. Your eligibility will be checked and the Plan coverage for the legal service that you require will be explained. The addresses and telephone numbers of all Plan offices are displayed on the Staff Offices page.
 
-Call the [Staff Office](/post/about/#staff-offices) nearest to you. If there is no Staff Office near you, call the national office in Toronto.
-> 1 St. Clair West Ave.  
+Call the [Staff Office](/post/about/#staff-offices) nearest to you. If there is no Staff Office near you, call the national office in Toronto.  
+1 St. Clair West Ave.  
 Suite 600  
 Toronto, Ontario  
 M4V 3C3  
 
->(416) 960-2410  
+(416) 960-2410  
 (800) 268-7573  
 
 ## 7. What if I have a complaint?
