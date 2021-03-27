@@ -122,11 +122,11 @@ There are three types of benefits available:
   **Prepaid (P)**: means that the Plan will pay all legal fees, except title search fees, at the Plan fee schedule rate. You are responsible for all disbursements and taxes (e.g. GST, HST).
 
   **Mixed (M)**: means that the Plan pays for the first part of the legal fees (except taxes and GST, HST) at the Plan fee schedule rate. Payment for subsequent legal fees is your responsibility. There are five types of Mixed Benefits.
-  - M-2: The Plan pays for the first two hours.
-  - M-4: The Plan pays for the first four hours.
-  - M-10: The Plan pays for the first ten hours.
-  - M-12: The Plan pays for the first twelve hours.
-  - M-20: The Plan pays for the first twenty hours.
+  - M-2: The Plan pays for the first two hours.  
+  - M-4: The Plan pays for the first four hours.  
+  - M-10: The Plan pays for the first ten hours.  
+  - M-12: The Plan pays for the first twelve hours.  
+  - M-20: The Plan pays for the first twenty hours.  
 
   **Referral (R)**: means that, if you so choose and if available, the Plan will refer you to a Co-operating Lawyer or Notary or to a Staff Lawyer who will only charge you in accordance with the current Plan fee schedule rate. You are responsible for all fees, taxes and disbursements.
 
