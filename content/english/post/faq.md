@@ -76,20 +76,20 @@ Please notify our Head Office in Toronto by calling 1-800-268-7573 or [contact u
 ## 8. What is excluded from Plan Coverage?
 
 The Plan will not provide benefits or in any other manner pay for the following:
-- fines and penalties, whether civil or criminal
-- any judgment for civil damages, including judicially awarded costs
-- costs attendant to the purchase or sale of real estate, such as registration fees, land transfer taxes, surveys, real estate agent commissions, title insurance, premiums, and fees for title searches
-- all disbursements such as court filing fees, process serving, transcripts, expert witnesses, etc.
-- legal services outside of Canada or the U.S.A.
-- services provided by non-lawyers, except Notaries in Quebec and British Columbia
-- legal services which are for a Participant's business
-- matters involving federal, provincial, municipal or local election to any public office
-- any proceeding against the Participant's employer, its subsidiaries, dealers, directors, officers or agents
-- any proceeding against the Participant's union, its subordinate or affiliated bodies or the officers or agents of such, or any labour union or association representing employees of the Participant's employer
-- any proceeding arising under applicable labour relations acts, labour codes or labour standards acts
-- any bankruptcy proceeding that would result in discharge of a debt owed to the Participant's employer, its subsidiaries, dealers, directors, officers or agents, the Participant's union or any benefit plan or trust established or maintained by the employer
-- proceedings against or arising from any benefit Plan established or maintained by the Participant's employer, including proceedings against any trust or - insurance carrier through which such benefits are provided to the employer, its employees or retirees including any dispute involving the Plan
-- Workers' Compensation or Employment Insurance matters involving the Participant's employer
+- fines and penalties, whether civil or criminal  
+- any judgment for civil damages, including judicially awarded costsvv
+- costs attendant to the purchase or sale of real estate, such as registration fees, land transfer taxes, surveys, real estate agent commissions, title insurance, premiums, and fees for title searches  
+- all disbursements such as court filing fees, process serving, transcripts, expert witnesses, etc.  
+- legal services outside of Canada or the U.S.A.  
+- services provided by non-lawyers, except Notaries in Quebec and British Columbia  
+- legal services which are for a Participant's business  
+- matters involving federal, provincial, municipal or local election to any public office  
+- any proceeding against the Participant's employer, its subsidiaries, dealers, directors, officers or agents  
+- any proceeding against the Participant's union, its subordinate or affiliated bodies or the officers or agents of such, or any labour union or association representing employees of the Participant's employer  
+- any proceeding arising under applicable labour relations acts, labour codes or labour standards acts  
+- any bankruptcy proceeding that would result in discharge of a debt owed to the Participant's employer, its subsidiaries, dealers, directors, officers or agents, the Participant's union or any benefit plan or trust established or maintained by the employer  
+- proceedings against or arising from any benefit Plan established or maintained by the Participant's employer, including proceedings against any trust or - insurance carrier through which such benefits are provided to the employer, its employees or retirees including any dispute involving the Plan  
+- Workers' Compensation or Employment Insurance matters involving the Participant's employer  
 
 ## 9. What about GST, HST and other taxes?
 
