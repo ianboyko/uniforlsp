@@ -1200,9 +1200,11 @@ textarea {
 		margin: 0 auto;
 	}
 
-	.wrapper,
+	.wrapper {
+		padding: 20px
+	}
 	.logo {
-		padding: 20px;
+		padding: 0px;
 	}
 
 	.widget {
