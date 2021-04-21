@@ -2,7 +2,6 @@
 title: About the organization
 linktitle: About
 description: About Unifor Legal Services 
-lead: Unifor Legal Services
 summary: Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them.
 date: 2021-03-13
 # categories:
@@ -10,6 +9,7 @@ date: 2021-03-13
 # tags:
 #   - ""
 menu: main
+weight: 3
 translationKey: about
 toc: true
 
@@ -159,7 +159,7 @@ The Unifor Legal Services Plan is funded by contributions from the Corporate Spo
 
 - Windsor Modules   
 
-### Co-operating lawyers
+<!-- ### Co-operating lawyers
 
 Co-operating Lawyers (and Co-operating Notaries in Quebec)are in private practice and have contracted with the Plan to provide legal services to Participants according to the Plan Fee Schedule.  
 Canadian lawyers (as well as Quebec notaries) who are considering affiliation with the Plan may review the Co-operating Lawyer Agreement (and its appendices) by following the links below:  
@@ -170,7 +170,7 @@ If you would like to become a Co-operating Lawyer, please complete and sign two 
 
 - [Benefit schedule](/pdf/Benefit_schedule-en.pdf)
 
-The Plan has almost 1,100 Co-operating Lawyers and Notaries in locations across the country. For further information [contact us](/post/about/#contact-us) or call 1-800-268-7573. 
+The Plan has almost 1,100 Co-operating Lawyers and Notaries in locations across the country. For further information [contact us](/post/about/#contact-us) or call 1-800-268-7573. -->
 
 ### Endorsements
 
