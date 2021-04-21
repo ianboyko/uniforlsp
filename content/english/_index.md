@@ -1,11 +1,13 @@
 ---
-title: Welcome
+title: Home
 description: Introduction to the Unifor Legal Services Plan.
 date: 2021-03-08
 # categories:
 #   - "About"
 # tags:
 #   - ""
+menu: main
+weight: 1
 
 
 ---
