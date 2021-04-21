@@ -17,7 +17,7 @@ toc: true
 ---
 
 
-### Consumer law  
+## Consumer law  
 #### Articles
 - [Protect Your Credit Rating](/pdf/Protect%20Your%20Credit%20Rating.pdf)
 - [Debt Problems? A Credit Counsellor Might Help](/pdf/Debt%20Problems%202008.pdf)
