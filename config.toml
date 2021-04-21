@@ -73,3 +73,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   title = " Call: 1-800-268-7573"
   url = "tel:1-800-268-7573"
   icon = "svg/phone.svg" # Optional. Path relative to "layouts/partials"
+
+
+[markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
