@@ -76,6 +76,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 
 [markup.tableOfContents]
-    endLevel = 2
+    endLevel = 3
     ordered = false
     startLevel = 2
