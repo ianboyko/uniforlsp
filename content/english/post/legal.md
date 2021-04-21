@@ -23,7 +23,7 @@ toc: true
 - [Debt Problems? A Credit Counsellor Might Help](/pdf/Debt%20Problems%202008.pdf)
 - [Ontario 's Consumer Protection Act](/pdf/Ontario%20Consumer%20Protection%20Act.pdf)
 - [Offers to Settle and Costs](/pdf/Offers%20to%20Settle%20and%20Costs.pdf)
-- [Beware of Salespersons Knocking at your Door - DO NOT LET THEM IN](/pdf/2019%20Paul%20-%20Beware%20the%20Salespersons.pdf)
+- [Beware of Salespersons Knocking at your Door - DO NOT LET THEM IN](/pdf/2019%20Paul%20-%20Beware%20the%20Salespersons.pdf)  
 #### But for the plan
 - [But for The Plan (Collection Agency Letters-Don 't Take Them at Face Value)](/pdf/2018%20Jonathon%20-%20Collection%20Agency%20Letters.pdf)
 - [But for The Plan (Trailer Parks in the United States - Sometimes a Canadian Lawyer Can Help)](/pdf/BUT%20FOR%20THE%20PLAN,%20Trailer%20Parks%20in%20the%20United%20States.pdf)
@@ -73,7 +73,7 @@ toc: true
 
 ### Litigation 
 #### Articles   
-- [The Duty to Settle](/pdf/2016%20The%20Duty%20to%20Settle.pdf)
+- [The Duty to Settle](/pdf/2016%20The%20Duty%20to%20Settle.pdf)  
 #### But for the Plan  
 - [But for The Plan (Debts: Saved by the Limitation Act)](/pdf/But%20for%20the%20Plan%202016%20Ron-Debts_Saved%20by%20Limitation%20Act.pdf)
 

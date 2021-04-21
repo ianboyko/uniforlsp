@@ -396,7 +396,7 @@ select {
 }
 
 .logo {
-	padding: 25px;
+	padding: 1	px;
 }
 
 .logo__link {
@@ -409,7 +409,7 @@ select {
 }
 
 .logo__img {
-	max-height: 125px;
+	max-height: 425px;
 }
 
 .logo__text {
