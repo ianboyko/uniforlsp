@@ -59,7 +59,13 @@ The effective date of [Plan coverage](/post/coverage) varies for each sponsoring
 
 ## 6. How do I use it?
 
+<<<<<<< HEAD
 [CALL THE PLAN FIRST!](../../post/about/#contact-us) When you call, be sure you have your social insurance number, employee number and seniority date available. Your eligibility will be checked and the Plan coverage for the legal service that you require will be explained. The addresses and telephone numbers of all Plan offices are displayed on the Staff Offices page.
+=======
+
+**CALL THE PLAN FIRST!**  
+When you call, be sure you have your social insurance number, employee number and seniority date available. Your eligibility will be checked and the Plan coverage for the legal service that you require will be explained. The addresses and telephone numbers of all Plan offices are displayed on the Staff Offices page.
+>>>>>>> c7c177a79e019b8bc791f3086eee333506068ddc
 
 Call the [Staff Office](/post/about/#staff-offices) nearest to you. If there is no Staff Office near you, call the national office in Toronto.  
 1 St. Clair West Ave.  
