@@ -17,7 +17,7 @@ toc: true
 ---
 
 
-## Consumer law  
+## Consumer Law  
 #### Articles
 - [Protect Your Credit Rating](/pdf/Protect%20Your%20Credit%20Rating.pdf)
 - [Debt Problems? A Credit Counsellor Might Help](/pdf/Debt%20Problems%202008.pdf)
@@ -47,12 +47,12 @@ toc: true
 - [But for The Plan (Canada Pension Disability Claim)](/pdf/But%20for%20the%20Plan%202008%20Ron%20CP%20Disability.pdf)  
 - [But for The Plan (USA Consumer Problem)](/pdf/But%20for%20the%20Plan%20February%202011.pdf)  
 
-### Family law 
+### Family Law 
 #### Articles  
 - [Tips for Keeping Your Family Lawyer's Fees Down](/pdf/2016%20Tips%20For%20Keeping%20Your%20Family%20Lawyer's%20Legal%20Fees%20Down.pdf)  
 - [Pension Division: The New Reality](/pdf/Pension%20Division.pdf) 
 - [Spousal Support and Early Retirement](/pdf/2015%20Wendy%20Spousal%20Support%20%20and%20Early%20Rtirement.pdf)  
-- [A Short Common Law Relationship Can Change Pension Rights](/pdf/2019%20Wendy%20A%20Short%20Common%20Law%20Relationship%20.pdf)  
+- [A Short Common Law Relationship Can Change Pension Rights](/pdf/2019%20Wendy%20A%20Short%20Common%20Law%20Relationship.pdf)  
 - [Child Support Guidelines](/pdf/Child%20Support%20Guidelines%202012.pdf) 
 - [Limited Retainer Agreements](/pdf/2012%20John%20Limited%20Retainer.pdf) 
 - [Collaborative Family Law](/pdf/Collaborative%20Family%20Law.pdf)  
@@ -77,13 +77,13 @@ toc: true
 #### But for the Plan  
 - [But for The Plan (Debts: Saved by the Limitation Act)](/pdf/But%20for%20the%20Plan%202016%20Ron-Debts_Saved%20by%20Limitation%20Act.pdf)
 
-### Motor vehicle 
+### Motor Vehicle 
 
 - [But for the Plan (When You Drive Your Child 's Car Without Permission)](/pdf/But%20for%20the%20Plan%202013%20Frank%20(CAR).pdf) 
 - [But for the Plan (When Your Child Drives Your Car Without Permission)](/pdf/But%20for%20the%20Plan%202013%20Paul%20(CAR).pdf) 
 - [But for the Plan (Driver 's Licence - Medical Suspension - Reinstatement Prior to the Appeal Hearing is Possible)](/pdf/But%20for%20the%20Plan%202018%20Ron%20-%20Driver's%20Licence%20Medical%20Suspension.pdf) 
   
-### Real estate 
+### Real Estate 
 #### Articles  
 - [Dealing with Neighbours](/pdf/2019%20Frank-Dealing%20With%20Neighbours.pdf)  [But for the Plan (Real Estate Sale - When the Buyer Can 't Close on Time)](/pdf/But%20for%20the%20Plan%202018%20Gorycki%20and%20Banik.pdf) 
 - [Two Types of Co-Ownership in Real Estate](/pdf/Two%20types%20of%20Co-Ownership%20in%20Real%20Estate.pdf)  
@@ -98,7 +98,7 @@ toc: true
 - [But for the Plan (Buying Real Estate with Children? Stay on Title!)](/pdf/But%20for%20the%20Plan%202014%20Kathleen%20Buying%20Real%20Estate%20with%20Children.pdf)  
 - [But for the Plan (When your Deed is in the Name of a Stranger)](/pdf/But%20for%20the%20Plan%202015%20Kathleen%20Deed.pdf)  
 
-### Wills and estates
+### Wills and Estates
 #### Articles
 - [Estates - Plan Coverage](/pdf/Estates%20Plan%20Coverage%202018,%20July%201st%20revision.pdf) 
 - [A Practical Guide for Planning Your Will](/pdf/A%20practical%20guide%20for%20planning%20your%20will.pdf) 
