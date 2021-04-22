@@ -27,7 +27,7 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
   - real estate transactions and appeals excluded    
 
 ## Mid-Level Benefits
-[Download](/pdf/Benefit%20Schedule%20(MID-LEVEL)%202020_01_01.pdf)  
+[Download](/pdf/Benefit%20Schedule%20(MID-LEVEL)%202020_07_01.pdf)  
 - Wills and Estates (includes Powers of Attorney)  
 - Real Estate  
 - Summary Advice  
@@ -35,7 +35,7 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
   - real estate transactions and appeals excluded
 
 ## Full-Benefit Package
-[Download](/pdf/Benefit%20Schedule%20(FULL)%202020_01_01.pdf)  
+[Download](/pdf/Benefit%20Schedule%20(FULL)%202020_07_01.pdf)  
 - Wills and Estates (includes Powers of Attorney)  
 - Real Estate  
 - Tenant's Rights  
