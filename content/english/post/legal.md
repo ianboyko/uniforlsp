@@ -19,9 +19,9 @@ toc: true
 
 ## Consumer Law  
 #### Articles
-- [Protect Your Credit Rating](/pdf/Protect%20Your%20Credit%20Rating.pdf)
-- [Debt Problems? A Credit Counsellor Might Help](/pdf/Debt%20Problems%202008.pdf)
-- [Ontario 's Consumer Protection Act](/pdf/Ontario%20Consumer%20Protection%20Act.pdf)
+- [Protect Your Credit Rating](/pdf/Protect_your_credit_rating-en.pdf)
+- [Debt Problems? A Credit Counsellor Might Help](/pdf/Debt_problems-en.pdf)
+- [Ontario 's Consumer Protection Act](/pdf/Ontario_Consumer_Protection_Act-en.pdf)
 - [Offers to Settle and Costs](/pdf/Offers%20to%20Settle%20and%20Costs.pdf)
 - [Beware of Salespersons Knocking at your Door - DO NOT LET THEM IN](/pdf/2019%20Paul%20-%20Beware%20the%20Salespersons.pdf)  
 #### But for the plan
