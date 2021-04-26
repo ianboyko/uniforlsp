@@ -1,14 +1,16 @@
 ---
 title: Accueil
-description: 
-date: 2021-03-08
+slug: accueil
+date: 2014-04-09
+authorbox: false
+sidebar: false
+menu: main
+translationKey: about
 # categories:
 #   - "About"
 # tags:
 #   - ""
-menu: main
 weight: 1
-
 
 ---
 
