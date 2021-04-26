@@ -10,25 +10,21 @@ menu: main
 
 ---
 
-# Frequently Asked Questions (FAQ)
+# Questions et Réponses au Sujet de Votre Régime de Services Juridiques
 
-This page contains the answers to common questions about the Unifor Legal Services Plan.
+<!--This page contains the answers to common questions about the Unifor Legal Services Plan.-->
 
-## 1. What is it?
+## 1. De quoi s'agit-il?
 
-The Plan is a self-administered, non-profit trust. It provides quality legal services at affordable prices to eligible Unifor members and their families.
+Le Régime est une fiducie administrée de façon autonome et sans but lucratif. Il fournit des services juridiques de qualité à des prix abordables aux membres admissibles d'Unifor et à leurs familles. Le Régime est établi par des conventions collectives négociées entre chacun des employeurs participants et les membres d'Unifor.
 
-The Plan is established by collective agreements negotiated between each sponsoring company and Unifor.
+## 2. Qui l'administre?
 
-## 2. Who runs it?
+Chaque couverture distincte du Régime établit un conseil d'administration de FIDUCIAIRES, appelé le COMITÉ ADMINISTRATIF. Chaque comité compte un nombre égal de représentants patronaux et syndicaux, ainsi qu'un(e) président(e) indépendant(e). Afin de réaliser d'importantes épargnes de frais, chaque Régime distinct utilise la même administration centrale, gérée sur une base quotidienne par un directeur exécutif qui fait rapport aux fiduciaires.
 
-Each separate Plan agreement establishes a Board of Trustees called the Administrative Committee. Each Committee has equal company and union representation and an independent chairperson.
+## 3. Comment est-il financé?
 
-In order to achieve significant cost savings, each separate plan uses the same central administration, run on a day-to-day basis by an Executive Director who reports to the trustees.
-
-## 3. How is it financed?
-
-Plan benefits and administrative expenses are paid from a trust fund. Contributions to this fund are made by the sponsoring companies in amounts established through collective bargaining.
+Les bénéfices et les frais d'administration du Régime sont payés par un FONDS EN FIDUCIE. Les contributions à ce fonds sont versées par les employeurs, dont le montant est établi par négociation collective.
 
 ## 4. Who is eligible?
 
