@@ -1,16 +1,13 @@
 ---
-title: FAQ
-description: Frequently asked questions (FAQ) about the Unifor Legal Services Plan.
+title: QFD
+description: La régime QFD
 date: 2021-03-08
-categories:
-  - "About"
-tags:
-  - ""
+linktitle: QFD
 menu: main
 
 ---
 
-# Questions et Réponses au Sujet de Votre Régime de Services Juridiques
+<!--# Questions et Réponses au Sujet de Votre Régime de Services Juridiques-->
 
 <!--This page contains the answers to common questions about the Unifor Legal Services Plan.-->
 
