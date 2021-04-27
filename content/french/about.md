@@ -1,6 +1,6 @@
 ---
-title: Accueil
-slug: accueil
+title: À propos
+slug: apropos
 date: 2014-04-09
 authorbox: false
 sidebar: false

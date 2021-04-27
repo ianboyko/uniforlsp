@@ -8,7 +8,7 @@ date: 2021-03-08
 #   - ""
 menu: main
 weight: 1
-
+translationKey: home
 
 ---
 
