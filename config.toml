@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Unifor Legal Services Plan"
+title = "Unifor Legal Services Plan/Le Régime de services juridiques d'Unifor"
 languageCode = "en-us"
 paginate = "1" # Number of posts per page
 theme = "mainroad"
@@ -20,15 +20,20 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     subtitle = ""
     languageName = "English"
     weight = 10
+    [languages.en.Params.logo]
+    image = "logo.png"
 
 
   [languages.fr]
     contentDir = "content/french"
-    title = "Le Régime de services juridiques d'Unifor"
-    subtitle = "sub title french"
+    title = ""
+#    title = "Le Régime de services juridiques d'Unifor"
+#    subtitle = "sub title french"
     languageName = "Français"
     weight = 20
 
+    [languages.fr.Params.logo]
+    image = "logo-old.png"
 
 
 [Params]
