@@ -1,9 +1,8 @@
 ---
-title: About the organization
-linktitle: About
-description: About Unifor Legal Services 
-summary: Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them.
-date: 2021-03-13
+title: Contactez-nous
+linktitle: Contactez-nous
+# description: About Unifor Legal Services 
+date: 2021-05-06
 # categories:
 #   - ""
 # tags:
@@ -15,39 +14,36 @@ toc: true
 
 ---
 
-### Contact us
+### Contactez-nous
 
-Disclaimer:  
-*Contacting the Plan by e-mail does not create a lawyer-client relationship. A person does not become a client unless and until a specific lawyer agrees to act for the person and that representation is confirmed in a retainer agreement or letter. Unless you are an existing client, no information provided to the Plan will be considered confidential. Even if you are an existing client, you should only e-mail your lawyer if there is a prior agreement to do so.*
+Avertissement:  
+*Communiquer avec le Régime par voie de courriel ne crée pas de relation avocat-client. Une personne ne devient une cliente que si et jusqu'à ce qu'un avocat spécifique accepte d'agir pour la personne et que cette représentation soit confirmée dans un contrat de mandat ou une lettre. À moins que vous ne soyez un client existant, aucune information fournie au Régime ne sera considérée comme confidentielle. Même si vous êtes un client existant, vous ne devez envoyer un courriel à votre avocat que s'il existe un accord préalable.*
 
-**Real estate agents and financial institutions:** Do not email documents to these email addresses.  
+**AGENTS IMMOBILIERS et INSTITUTIONS FINANCIÈRES:**
+Ne PAS envoyer de documents à ces adresses électroniques.
 
-**Lawyers and notaries:** If you are a lawyer or a Quebec notary and would like information about joining our panel, or if you are an existing Co-operating lawyer or Notary (Quebec) whose address, telephone or other contact information has changed,contact us at: [lawyer@uniforlsp.com](mailto:lawyer@uniforlsp.com)  
+**AVOCATS et NOTAIRES:**
+Si vous êtes un avocat ou un notaire du Québec et que vous souhaitez obtenir des informations sur l'adhésion à notre liste de coopérants, ou si vous êtes un avocat coopérant ou un notaire coopérant (Québec) dont l'adresse, le téléphone ou d'autres coordonnées ont changés, contactez-nous au: [lawyer@uniforlsp.com](mailto:lawyer@uniforlsp.com)  
 
-The following is a general mailbox only and **cannot** be used to ask about specific legal problems.  
+L'adresse électronique ci-bas est d'usage général uniquement et **ne peut pas** être utilisée pour poser des questions sur des problèmes juridiques spécifiques. Si vous avez besoin d'une assistance juridique immédiate, y compris la prise de rendez-vous, veuillez appeler le 1-800-268-7573.
 
-> If you need immediate legal assistance, including booking appointments, please call 1-800-268-7573.  
+> Si vous avez besoin de plus amples renseignements sur le Régime ou que vous voulez faire des commentaires quant au Régime, contactez-nous à: [information@uniforlsp.com](mailto:information@uniforlsp.com)  
+ 
 
-For further information about the Plan or if you wish to comment about the Plan, contact us at: [information@uniforlsp.com](mailto:information@uniforlsp.com)  
+### Bureaux régionaux
 
-We value your opinion and invite you to fill out a [Client Satisfaction Survey form](/pdf/CSQ2.pdf), and send it to us.
+Les bureaux régionaux sont des bureaux d'avocats détenus et opérés par le Régime. Les participants éligibles qui l'ont ainsi choisi peuvent recevoir des services juridiques à ces endroits par des avocats employés du Régime. Les bureaux régionaux sont aussi des centres d'admissibilité du Régime. Les participants qui veulent s'informer de leurs droits quant à la couverture, ou prendre des dispositions quant au système de références ou encore pour obtenir des remboursements, doivent contacter le bureau régional le plus près chez eux (voir ci-dessous). Les participants qui demeurent dans une autre région doivent communiquer avec notre siège social au 1-800-268-7573. Pour voir la carte, cliquez sur le nom des emplacements ci-dessous.
 
-### Staff Offices  
+### Le Siège Social  
+1 ouest, avenue St. Clair, bureau 600
+Toronto, Ontario M4V 3C3
+(416) 960-2410
+1-800-268-757
+Télécopieur: (416) 960-8047
 
-Staff Offices are law offices owned and operated by the Plan. Eligible Participants who so choose can receive legal services at these locations from Staff Lawyers, who are employed by the Plan. Staff Offices are also the Plan's Intake Centres. Participants who wish to be informed about their coverage entitlements and to arrange for referral or reimbursement should contact the Staff Offices closest to them (see below). Participants who live elsewhere should contact our Head Office Intake Centre at 1-800-268-7573.
+### Bureaux régionaux
 
-### Head Office  
-Suite 600  
-1 St. Clair Avenue West  
-Toronto, Ontario  
-M4V 3C3  
-(416) 960-2410  
-(800) 268-7573  
-Fax: (416) 960-8047  
-
-### Locations  
-
-#### Brampton Office
+#### Brampton 
 Suite 2  
 23 Regan Road  
 Brampton, Ontario  
@@ -56,7 +52,7 @@ L7A 1B2
 (877) 332-2444  
 Fax: (905) 790-2625  
 
-#### Oakville Office  
+#### Oakville   
 Suite 406  
 700 Dorval Drive  
 Oakville, Ontario  
@@ -65,7 +61,7 @@ L6K 3V3
 (800) 465-9701  
 Fax: (905) 842-1389  
 
-#### Oshawa Office
+#### Oshawa 
 Oshawa Shopping Centre  
 Oshawa Executive Tower  
 Suite 603  
@@ -76,7 +72,7 @@ L1J 2K5
 (800) 387-6592  
 Fax: (905) 433-0641  
 
-#### Quebec Office  
+#### Quebec   
 13, St-Charles  
 Sainte-Thérèse (Québec)  
 J7E 2A3  
@@ -84,7 +80,7 @@ J7E 2A3
 (800) 880-7959  
 Fax: (450) 437-4884  
 
-#### St. Catharines Office
+#### St. Catharines 
 Suite 206  
 55 King Street  
 St. Catharines, Ontario  
@@ -93,7 +89,7 @@ L2R 3H5
 (800) 318-0782  
 Fax: (905) 641-0967  
 
-#### Windsor Office
+#### Windsor 
 2345 Central Avenue  
 Windsor, Ontario  
 N8W 4J1  
