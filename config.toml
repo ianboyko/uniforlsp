@@ -33,7 +33,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     weight = 20
 
     [languages.fr.Params.logo]
-    image = "old-logo.png"
+    image = "logo.png"
 
 
 [Params]

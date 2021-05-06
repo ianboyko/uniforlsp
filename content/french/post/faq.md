@@ -23,110 +23,97 @@ Chaque couverture distincte du Régime établit un conseil d'administration de F
 
 Les bénéfices et les frais d'administration du Régime sont payés par un FONDS EN FIDUCIE. Les contributions à ce fonds sont versées par les employeurs, dont le montant est établi par négociation collective.
 
-## 4. Who is eligible?
+## 4. Qui est admissible?
 
-Each separate Plan agreement has its own eligibility requirements. Most provide eligibility for bargaining unit employees (in most cases with at least one year of seniority) and retirees. Eligibility ceases in most cases if the employee has been continuously laid off for 18 months.
+Chaque convention distincte du Régime a ses propres critères d'admissibilité, lesquels sont habituellement les mêmes que ceux établis en vertu des soins de santé. La plupart d'entre elles rendent admissibles les employés de l'unité de négociation et les retraités. Dans la plupart des cas, les conjoints et conjoints survivants des employés et retraités sont aussi admissibles, tout comme les enfants à charge non mariés, de moins de 26 ans, qui résident à la maison.  
 
-In most cases, spouses and surviving spouses of employees and retirees are also eligible, as are unmarried, dependent children, under age 26, who reside at home.
+## 5. Quand la couverture commence-t-elle?  
 
-## 5. When does coverage start?[Coverage Information](#)
+La date d'entrée en vigueur de la couverture du Régime varie pour chacun des employeurs. Pour savoir à quel moment votre couverture a commencé, consultez votre convention collective ou téléphonez au bureau régional du Régime le plus près de chez vous. Toute affaire qui a débuté avant votre date d'entrée en vigueur est exclue de la couverture du Régime.
 
-The effective date of Plan coverage varies for each sponsoring company. Check your collective agreement or call a [Staff Office](#) near you to find out when your coverage commenced.
+Les dossiers en droit immobilier débutent à compter de la date de signature de l'offre d'achat, ou à compter de la date de signature de l'acte d'hypothèque. Les autres dossiers débutent lorsque vous retenez les services d'un avocat ou d'un notaire.  
 
-*Please note: Any matter that started before your commencement date is not covered.*
+## 6. Comment puis-je m'en servir?  
 
-  **Real Estate:**
+APPELEZ D'ABORD LE BUREAU DU RÉGIME.
+Au moment d'appeler, assurez-vous d'avoir à portée de la main votre numéro d'employé et votre date d'ancienneté. Nous vérifierons votre admissibilité et nous vous expliquerons la couverture offerte par le Régime pour les services juridiques dont vous avez besoin.
 
-  a) There is no coverage for purchases or sales if the Agreement of Purchase and Sale was signed prior to the date on which you became eligible for the Legal Services Plan benefit.
+Les adresses et numéros de téléphone de tous les bureaux du Régime sont affichés sur la page Personnel de bureaux. Appelez le bureau du personnel le plus proche de chez vous. S'il n'y a pas de bureau du personnel près de chez vous, appelez le siège social à Toronto.
 
-  b) There is no coverage for Mortgages if the letter of commitment to the lender was signed prior to the date on which you became eligible for the Legal Services Plan benefit.
+> Le Siège Social
+1 ouest, avenue St. Clair, bureau 600
+Toronto, Ontario M4V 3C3
 
-  **Other Matters:**
+> (416) 960-2410
+1-800-268-757
 
-  c) There is no coverage if you hired the lawyer prior to the date on which you became eligible for the Legal Services Plan benefit.
+## 7. Que dois-je faire si j'ai une plainte à l'égard du régime?  
 
-  d) Benefit changes only apply to cases that start on or after the effective date of the change.
+Tout participant insatisfait du Régime pour quelque raison que ce soit doit appeler au siège social à Toronto.
 
-## 6. How do I use it?
+## 8. Quels sont les services exclus de la couverture de régime?  
 
-CALL THE PLAN FIRST! When you call, be sure you have your social insurance number, employee number and seniority date available. Your eligibility will be checked and the Plan coverage for the legal service that you require will be explained. The addresses and telephone numbers of all Plan offices are displayed on the Staff Offices page.
+Le Régime ne fournit aucun bénéfice ni ne verse quoi que ce soit pour ce qui suit:
 
-Call the [Staff Office](#) nearest to you. If there is no Staff Office near you, call the national office in Toronto.
-> 1 St. Clair West Ave.  
-Suite 600  
-Toronto, Ontario  
-M4V 3C3  
+- Les amende et les pénalités, qu'elles soient civiles ou criminelles;
+- Tout jugement pour des dommages-intérêts civils, y compris les frais accordés par la cour;
+- Les frais reliés à l'achat ou à la vente d'un bien immobilier, comme des primes d'assurances titres, des frais d'enregistrement ou de publication, des taxes de transfert de propriété, des frais d'arpentage, des honoraires d'agent immobilier, et des frais de recherche de titres;
+- Tous les déboursés comme les frais de timbre judiciaire, de signification par huissier, de transcription, de témoin-expert, etc;
+- Les services juridiques à l'extérieur du Canada ou des États-Unis;
+- Les services fournis par des non-avocats, sauf les notaires au Québec et en Colombie-Britannique;
+- Les services juridiques reliés à une entreprise commerciale du participant;
+- Toute affaire reliée à une élection et à une charge publique aux niveaux fédéral, provincial, municipal ou local;
+- Toute procédure impliquant l'employeur du participant, ses filiales, vendeurs, directeurs, dirigeants ou agents;
+- Toute procédure impliquant le syndicat du participant, ses organismes subordonnés ou affiliés, ou ses dirigeants ou agents, ou tout syndicat ouvrier ou une association représentant des employés de l'employeur du participant;
+- Toute procédure intentée en vertu des lois de relations du travail, codes du travail, ou lois des normes du travail applicables;
+- Toute procédure en faillite qui entraînerait l'acquittement d'une dette due à l'employeur du participant, ses filiales, vendeurs, directeurs, dirigeants ou agents, au syndicat du participant, à tout Régime d'avantages sociaux ou fonds en fiducie établis ou maintenus par l'employeur;
+- Toute procédure contre ou découlant de tout Régime d'avantages sociaux établi ou maintenu par l'employeur du participant, y compris des procédures contre toute fiducie ou assureur par l'intermédiaire desquels ces avantages sociaux sont fournis à l'employeur, à ses employés, ou retraités, y compris tout différend mettant en cause le Régime;
+- Tout cas d'accident du travail ou d'assurance-d'emploi mettant en cause l'employeur du participant.
 
->(416) 960-2410  
-(800) 268-7573  
+## 9. Que se passe-t-il au sujet de la TPS et de la TVQ?  
 
-## 7. What if I have a complaint?
+En général, le Régime ne paie aucune taxe de vente ou autre taxe reliée aux honoraires d'avocats ou de notaires.
 
-Please notify our Head Office in Toronto by calling 1-800-268-7573 or [contact us](#).
+## 10. Comment les services sont-ils fournis? 
 
-## 8. What is excluded from Plan Coverage?
+APPELEZ D'ABORD UN BUREAU DU RÉGIME.
+Les participants doivent communiquer avec le bureau régional du Régime situé le plus près de chez eux, ou avec le siège social à Toronto, pour établir leur admissibilité et les bénéfices couverts en vertu du Régime. Les participants peuvent s'adresser à un avocat du Régime au bureau régional, à un avocat ou notaire coopérant ou à un avocat ou notaire non coopérant pour obtenir leurs services juridiques.
 
-The Plan will not provide benefits or in any other manner pay for the following:
-- fines and penalties, whether civil or criminal
-- any judgment for civil damages, including judicially awarded costs
-- costs attendant to the purchase or sale of real estate, such as registration fees, land transfer taxes, surveys, real estate agent commissions, title insurance, premiums, and fees for title searches
-- all disbursements such as court filing fees, process serving, transcripts, expert witnesses, etc.
-- legal services outside of Canada or the U.S.A.
-- services provided by non-lawyers, except Notaries in Quebec and British Columbia
-- legal services which are for a Participant's business
-- matters involving federal, provincial, municipal or local election to any public office
-- any proceeding against the Participant's employer, its subsidiaries, dealers, directors, officers or agents
-- any proceeding against the Participant's union, its subordinate or affiliated bodies or the officers or agents of such, or any labour union or association representing employees of the Participant's employer
-- any proceeding arising under applicable labour relations acts, labour codes or labour standards acts
-- any bankruptcy proceeding that would result in discharge of a debt owed to the Participant's employer, its subsidiaries, dealers, directors, officers or agents, the Participant's union or any benefit plan or trust established or maintained by the employer
-- proceedings against or arising from any benefit Plan established or maintained by the Participant's employer, including proceedings against any trust or - insurance carrier through which such benefits are provided to the employer, its employees or retirees including any dispute involving the Plan
-- Workers' Compensation or Employment Insurance matters involving the Participant's employer
+Les avocats du Régime sont employés par le Régime, travaillent dans ses bureaux régionaux et fournissent aux participants des services juridiques conformément à la cédule d'honoraires du Régime.
 
-## 9. What about GST, HST and other taxes?
+Les avocats et notaires coopérants sont des avocats et notaires de pratique privée qui ont conclu une convention avec le Régime dans le but de fournir aux participants des services juridiques conformément à la cédule d'honoraires du Régime.
 
-The Plan does not pay sales or any other taxes related to lawyer or notary fees.
+Les avocats et notaires non coopérants sont des avocats et notaires de pratique privée qui n'ont pas conclu de convention avec le Régime dans le but de fournir aux participants des services juridiques conformément à la cédule d'honoraires du Régime. Ils peuvent facturer les participants au-delà de la cédule d'honoraires du Régime.
 
-## 10. How is the service delivered?
+Quel que soit le type d'avocat ou de notaire auquel vous ayez recours, il est quand même important d'APPELER D'ABORD LE BUREAU DU RÉGIME pour établir votre admissibilité et les bénéfices auxquels vous avez droit en vertu du Régime.
 
-CALL THE PLAN FIRST! Plan Participants must contact the Staff Office located nearest them or the Head Office in Toronto to determine their eligibility and benefits under the Plan. Participants may go to a Staff Lawyer in the Staff Office, a Co-operating Lawyer or Notary or Non-co-operating Lawyer or Notary for their legal services.
+## 11. Qui paie?
 
-Staff Lawyers are employed by the Plan, work in Staff Offices and provide legal services to Participants according to the Plan fee schedule.
+Pour les honoraires juridiques payés par le Régime (voir les paragraphes PAYÉS et MIXTES, ci-dessous) le Régime paiera directement les services des avocats du Régime et des avocats ou notaires coopérants. Si vous choisissez d'avoir recours à un avocat ou notaire non coopérant, vous le payez directement et vous soumettez son compte au siège social à Toronto. Le Régime vous remboursera jusqu'à concurrence du montant prévu à la cédule d'honoraires du Régime.
 
-Co-operating Lawyers and Notaries are in private practice and have contracted with the Plan to provide legal services to Participants according to the Plan fee schedule.
+Pour les honoraires juridiques dont vous êtes responsable (voir le paragraphe MIXTES et RÉFÉRENCES, ci-dessous) vous payez directement l'avocat ou le notaire. Le Régime vous référera à un avocat ou notaire coopérant ou à un avocat du Régime, si vous choisissez d'agir ainsi et si il y a un avocat ou notaire disponible, qui ne vous facturera qu'en fonction du montant prévu à la cédule d'honoraires en vigueur du Régime. Dans la plupart des cas, vous serez facturé en fonction d'un taux horaire; dans d'autres cas (par exemple, la rédaction d'un testament) vous serez facturé en fonction d'un montant forfaitaire.  
 
-(Please Note: Co-operating Lawyers are not "Plan Lawyers". They are lawyers in private practice in your community who have agreed to bill according to our fee schedule. The Plan is not responsible for any act or omission by any Co-operating Lawyer or Notary.)
+## 12. Quels sont les types de bénéfices fournis?
 
-Non-co-operating Lawyers and Notaries are in private practice and have not contracted with the Plan to provide legal services to Participants according to the Plan fee schedule. They may extra-bill Participants over and above the Plan fee schedule.
+Il y a trois types de bénéfices disponibles:
 
-No matter what kind of lawyer or notary you use, it is important to CALL THE PLAN FIRST to determine your eligibility and the benefit available to you under the Plan.
+PAYÉS (P): Cela signifie que le Régime paiera tous les honoraires juridiques, sauf les frais de recherche de titres, au taux de la cédule d'honoraires du Régime. Vous êtes responsable du paiement de tous les déboursés et toutes les taxes (TPS et TVQ).
 
-## 11. Who pays?
+MIXTES (M): Cela signifie que le Régime paie la première partie des honoraires juridiques (sauf les taxes) au taux de la cédule d'honoraires du Régime. Vous êtes responsable du paiement des honoraires juridiques subséquents. Il y a cinq types de prestations mixtes.
 
-For legal fees paid by the Plan (see "Prepaid" and "Mixed" below) the Plan will pay directly for the services of Staff Lawyers or Co-operating Lawyers or Notaries. If you choose to use a non-co-operating lawyer or notary you pay him or her directly and submit the account to the Head Office in Toronto. The Plan will reimburse you up to the amount of the Plan fee schedule.
+  - M-2: Le Régime paie les deux premières heures.
+  - M-4: Le Régime paie les quatre premières heures
+  - M-10: Le Régime paie les dix premières heures.
+  - M-12: Le Régime paie les douze premières heures
+  - M-20: Le Régime paie les vingt premières heures.
 
-For legal fees that are your responsibility (see "Mixed" and "Referral" below) you pay the lawyer or notary directly. If you so choose and if available, the Plan will refer you to a Co-operating Lawyer or Notary who will only charge you in accordance with the current Plan fee schedule. For most cases, you will be charged an hourly rate; for others (e.g. Probate and some uncontested Family matters) you will be charged a fixed amount.
-
-## 12. What types of benefits are provided?
-
-There are three types of benefits available:
-
-  **Prepaid (P)**: means that the Plan will pay all legal fees, except title search fees, at the Plan fee schedule rate. You are responsible for all disbursements and taxes (e.g. GST, HST).
-
-  **Mixed (M)**: means that the Plan pays for the first part of the legal fees (except taxes and GST, HST) at the Plan fee schedule rate. Payment for subsequent legal fees is your responsibility. There are five types of Mixed Benefits.
-  - M-2: The Plan pays for the first two hours.
-  - M-4: The Plan pays for the first four hours.
-  - M-10: The Plan pays for the first ten hours.
-  - M-12: The Plan pays for the first twelve hours.
-  - M-20: The Plan pays for the first twenty hours.
-
-  **Referral (R)**: means that, if you so choose and if available, the Plan will refer you to a Co-operating Lawyer or Notary or to a Staff Lawyer who will only charge you in accordance with the current Plan fee schedule rate. You are responsible for all fees, taxes and disbursements.
-
-Please Note:
-
-1. The Committee that administers this benefit has the authority to make decisions, from time to time, that affect the benefits and coverage provided to members. Consequently, the information provided here is subject to change. Although every effort will be made to update this website, it is important for you to check with the Plan as to benefit coverage and eligibility whenever legal services are required. ALWAYS CALL THE PLAN FIRST!
+RÉFÉRENCES (R): Le Régime vous référera à un avocat ou notaire coopérant ou à un avocat du Régime, si vous choisissez d'agir ainsi et si il y a un avocat ou notaire disponible, qui ne vous facturera qu'en fonction du montant prévu à la cédule d'honoraires en vigueur du Régime. Vous êtes responsable de tous les frais, taxes et déboursés.
 
 
-2. Co-operating Lawyers are not "Plan Lawyers". They are not employed by the Plan. They are lawyers in private practice in your community who have agreed to bill according to our fee schedule. The Plan is not responsible for any act or omission by any Co-operating Lawyer.
+### Veuillez prendre note  
 
-
-3. In all cases in which there is a conflict of interest between the eligible employee and a spouse or dependent, the Plan coverage provided for the legal services required will extend ONLY to the employee or retiree. The spouse or dependent will be reimbursed for no more than one hour of initial advice and consultation at the Plan fee schedule hourly rate.
+1. Le comité qui administre ces bénéfices a l'autorité de prendre des décisions, de temps en temps, qui affectent les bénéfices et la couverture offerts aux membres. Par conséquent, les renseignements fournis dans cette brochure, concernant les bénéfices offerts, sont sujets à changement. Il est important que vous communiquiez avec le bureau du Régime pour vous informer des bénéfices offerts et de votre admissibilité, chaque fois que vous avez besoin de services juridiques. APPELEZ TOUJOURS D'ABORD LE BUREAU DU RÉGIME.  
+   
+2. Les avocats et les notaires coopérants ne sont pas employés par le Régime. Ils sont des praticiens de pratique privée qui se sont engagés à facturer le Régime et les clients selon notre cédule des bénéfices. Le Régime n'est pas responsable des actes ou omissions des avocat(e)s et notaires coopérant(e)s
+   
+3. Dans tous les cas où il y a un conflit d'intérêts entre l'employé ou le retraité admissible, et son conjoint ou l'une des personnes à charge, la couverture du Régime relativement aux services juridiques requis sera disponible UNIQUEMENT à l'employé ou au retraité. Le conjoint ou la personne à charge ne sera remboursé que pour la première heure de consultation au taux horaire prévu à la cédule d'honoraires.
