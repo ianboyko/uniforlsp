@@ -161,9 +161,9 @@ Les avocats coopérants (et notaires coopérants au Québec) sont des avocats et
 
 Les avocats au Canada (tout comme les notaires du Québec) qui ont conclu une convention avec le Régime peuvent réviser le Contrat de l'avocat/du notaire coopérant (et ses annexes) en suivant les liens ci-dessous.  
 
-- [Co-operating lawyer agreement](/pdf/Co-operating_Lawyer_Agreement-en.pdf)
+- [CONTRAT DE L'AVOCAT(E) COOPÉRANTE(E)](/pdf/Co-operating_Lawyer_Agreement-en.pdf)
 
-- [Benefit schedule](/pdf/Benefit_schedule-en.pdf)
+- [Cédule des Bénéfices](/pdf/Benefit_schedule-en.pdf)
 
 Si vous souhaitez devenir un avocat ou un notaire coopérant, veuillez remplir et signer deux (2) copies de l'entente et deux (2) copies de l'annexe "A" et les retourner par télécopieur ou par la poste à notre siège social. Un exemplaire vous sera retourné une fois qu'il aura été signé à ce bureau.  
 
