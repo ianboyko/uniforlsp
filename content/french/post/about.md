@@ -97,9 +97,9 @@ N8W 4J1
 (800) 381-2209  
 Fax: (519) 944-5077  
 
-### Corporate and union sponsors
+### Commanditaires
 
-The Unifor Legal Services Plan is funded by contributions from the Corporate Sponsors listed below. Contributions are based on formulas established during the collective bargaining process. All eligible Plan Participants are active employees or retirees (or their spouses or dependents) of the Sponsoring Companies:  
+Le Régime de services juridiques UNIFOR est financé par les contributions des commanditaires énumérés ci-dessous. Les contributions sont basées sur les formules établies pendant le processus de négociation. Tous les participants éligibles au Régime sont des employés actifs ou des retraités (ou leurs conjoints ou personnes à charge) des compagnies faisant partie des commanditaires :  
 
 - 3M Canada  
 
@@ -155,20 +155,19 @@ The Unifor Legal Services Plan is funded by contributions from the Corporate Spo
 
 - Windsor Modules   
 
-<!-- ### Co-operating lawyers
+### Avocats/Notaires Coopérants
 
-Co-operating Lawyers (and Co-operating Notaries in Quebec)are in private practice and have contracted with the Plan to provide legal services to Participants according to the Plan Fee Schedule.  
-Canadian lawyers (as well as Quebec notaries) who are considering affiliation with the Plan may review the Co-operating Lawyer Agreement (and its appendices) by following the links below:  
+Les avocats coopérants (et notaires coopérants au Québec) sont des avocats et notaires de pratique privée qui ont conclu une convention avec le Régime dans le but de fournir aux participants des services juridiques conformément à la cédule d'honoraires du Régime.
 
-If you would like to become a Co-operating Lawyer, please complete and sign two (2) copies of the Agreement and two (2) copies of Appendix "A" and return them by fax or mail to our [Head Office](/post/about/#head-office). One copy will be returned to you once it has been signed at this office.  
+Les avocats au Canada (tout comme les notaires du Québec) qui ont conclu une convention avec le Régime peuvent réviser le Contrat de l'avocat/du notaire coopérant (et ses annexes) en suivant les liens ci-dessous.  
 
 - [Co-operating lawyer agreement](/pdf/Co-operating_Lawyer_Agreement-en.pdf)
 
 - [Benefit schedule](/pdf/Benefit_schedule-en.pdf)
 
-The Plan has almost 1,100 Co-operating Lawyers and Notaries in locations across the country. For further information [contact us](/post/about/#contact-us) or call 1-800-268-7573. -->
+Si vous souhaitez devenir un avocat ou un notaire coopérant, veuillez remplir et signer deux (2) copies de l'entente et deux (2) copies de l'annexe "A" et les retourner par télécopieur ou par la poste à notre siège social. Un exemplaire vous sera retourné une fois qu'il aura été signé à ce bureau.  
 
-### Endorsements
+<!--### Endorsements
 
 These comments are verbatim. If you would like to submit your own comments, please contact us.  
 Here's what our Plan Participants are saying...
@@ -212,3 +211,4 @@ Here's what our Plan Participants are saying...
 - Terrific group, very professional! Ennio Micacchi (Real Estate - Woodstock)
 
 - I was very impressed when I received a call from my lawyer directly when my case was coming to a close and told me what I could do next, and delivered my documents to my house as I couldn't find time to come in. Arche Palinka (Administrative Law - Oshawa)
+-->  
