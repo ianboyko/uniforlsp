@@ -19,14 +19,14 @@ En plus de la cédule complète des bénéfices, nous proposons également une c
 La cédule des bénéfices est une list détaillée des services et des frais. Elle n s'applique qu'aux participants qui font appel à des avocats salariés du Régime ou à des avocats coopérants (et à des notaires coopérants au Québec).  
 
 ## Forfait "Couverture de base" des bénéfices 
-[Download](/pdf/FRENCH%20Benefit%20Schedule%20(ENTRY)%202020_01_01.pdf)
+[Télécharger](/pdf/FRENCH%20Benefit%20Schedule%20(ENTRY)%202020_01_01.pdf)
 - Testaments et Vérifications (incluant les procurations et mandats)
 - Opinion sommaire
   - limite de deux (2) heures par cas
   - les transactions immobilieres et appels sont exclus    
 
 ## Forfait "Couverture moyenne" des bénéfices
-[Download](/pdf/FRENCH%20Benefit%20Schedule%20(MID-LEVEL)%202020_01_01.pdf)  
+[Télécharger](/pdf/FRENCH%20Benefit%20Schedule%20(MID-LEVEL)%202020_01_01.pdf)  
 - Testaments et Vérifications (incluant les procurations et mandats)
 - Droit Immobilier
 - Opinion sommaire
@@ -34,7 +34,7 @@ La cédule des bénéfices est une list détaillée des services et des frais. E
   - les transactions immobilieres et appels sont exclus
 
 ## Forfait "Couverture complète" des bénéfices
-[Download](/pdf/FRENCH%20Benefit%20Schedule%20(FULL)%202020_01_01.pdf)  
+[Télécharger](/pdf/FRENCH%20Benefit%20Schedule%20(FULL)%202020_01_01.pdf)  
 - Testaments et Vérifications (incluant les procurations et mandats)  
 - Droit Immobilier  
 - Locataire  
