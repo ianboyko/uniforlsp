@@ -1,5 +1,5 @@
 ---
-title: QFD
+title: Questions et Réponses au Sujet de Votre Régime de Services Juridiques
 description: La régime QFD
 date: 2021-03-08
 # lead: "Frequently asked questions about the Unifor Legal Services Plan."
@@ -10,10 +10,6 @@ toc: true
 
 
 ---
-
-<!--# Questions et Réponses au Sujet de Votre Régime de Services Juridiques-->
-
-<!--This page contains the answers to common questions about the Unifor Legal Services Plan.-->
 
 ## 1. De quoi s'agit-il?
 
