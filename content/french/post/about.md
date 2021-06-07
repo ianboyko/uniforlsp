@@ -1,6 +1,6 @@
 ---
-title: Contactez-nous
-linktitle: Contactez-nous
+title: A propos
+linktitle: A propos
 # description: About Unifor Legal Services 
 date: 2021-05-06
 # categories:
@@ -14,7 +14,7 @@ toc: true
 
 ---
 
-### Contactez-nous
+### A propos
 
 Avertissement:  
 *Communiquer avec le Régime par voie de courriel ne crée pas de relation avocat-client. Une personne ne devient une cliente que si et jusqu'à ce qu'un avocat spécifique accepte d'agir pour la personne et que cette représentation soit confirmée dans un contrat de mandat ou une lettre. À moins que vous ne soyez un client existant, aucune information fournie au Régime ne sera considérée comme confidentielle. Même si vous êtes un client existant, vous ne devez envoyer un courriel à votre avocat que s'il existe un accord préalable.*
@@ -155,17 +155,7 @@ Le Régime de services juridiques UNIFOR est financé par les contributions des 
 
 - Windsor Modules   
 
-### Avocats/Notaires Coopérants
-
-Les avocats coopérants (et notaires coopérants au Québec) sont des avocats et notaires de pratique privée qui ont conclu une convention avec le Régime dans le but de fournir aux participants des services juridiques conformément à la cédule d'honoraires du Régime.
-
-Les avocats au Canada (tout comme les notaires du Québec) qui ont conclu une convention avec le Régime peuvent réviser le Contrat de l'avocat/du notaire coopérant (et ses annexes) en suivant les liens ci-dessous.  
-
-- [CONTRAT DE L'AVOCAT(E) COOPÉRANTE(E)](/pdf/Co-operating_Lawyer_Agreement-en.pdf)
-
-- [Cédule des Bénéfices](/pdf/Benefit_schedule-en.pdf)
-
-Si vous souhaitez devenir un avocat ou un notaire coopérant, veuillez remplir et signer deux (2) copies de l'entente et deux (2) copies de l'annexe "A" et les retourner par télécopieur ou par la poste à notre siège social. Un exemplaire vous sera retourné une fois qu'il aura été signé à ce bureau.  
+  
 
 <!--### Endorsements
 
