@@ -1,4 +1,4 @@
-baseurl = "http://uniforlsp.com/"
+baseurl = "/"
 title = "Unifor Legal Services Plan/Le Régime de services juridiques d'Unifor"
 languageCode = "en-us"
 paginate = "1" # Number of posts per page
