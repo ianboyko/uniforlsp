@@ -16,13 +16,15 @@ fields:
   label: summary
 - type: datetime
   name: date
-  label: date
+  label: Date
+  description: Date of last edit
 - type: number
   name: weight
-  label: weight
+  label: Weight
+  description: Where does this appear in the tab order
 - type: text
   name: translationKey
   label: translationKey
 - type: boolean
   name: toc
-  label: toc
+  label: Table of Contents
