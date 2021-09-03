@@ -1,0 +1,28 @@
+---
+label: template1
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: linktitle
+  label: linktitle
+- type: text
+  name: description
+  label: description
+- type: textarea
+  name: summary
+  label: summary
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: translationKey
+  label: translationKey
+- type: boolean
+  name: toc
+  label: toc
