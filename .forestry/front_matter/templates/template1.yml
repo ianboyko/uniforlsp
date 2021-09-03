@@ -8,6 +8,7 @@ fields:
 - type: text
   name: linktitle
   label: linktitle
+  description: This is the name that appears in a tab at the top of the page
 - type: text
   name: description
   label: description
@@ -25,6 +26,8 @@ fields:
 - type: text
   name: translationKey
   label: translationKey
+  description: The French and English page must share the same text here so users
+    can toggle back and forth
 - type: boolean
   name: toc
   label: Table of Contents
