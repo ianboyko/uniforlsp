@@ -14,7 +14,7 @@ date: 2021-03-08
 menu: main
 weight: 2
 toc: true
-
+translationkey: faq
 ---
 
 ## 1. What is it?
