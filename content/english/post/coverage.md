@@ -12,7 +12,7 @@ date: 2021-03-13
 #  - ""
 menu: main
 weight: 4
-
+translationkey: coverage
 ---
 
 In addition to our Full Benefit Package, we also offer Entry-Level and Mid-Level benefit packages. Click "Download" to view the benefit schedule for each package.  
