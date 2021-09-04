@@ -7,7 +7,7 @@ linktitle: QFD
 menu: main
 weight: 1
 toc: true
-
+translationkey: faq
 
 ---
 
