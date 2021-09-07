@@ -50,5 +50,3 @@ The following documents contain additional coverage information about specific a
 
 [Divorces and Domestic Contracts](/pdf/divorce%202013.pdf)  
 [Estates](/pdf/estates%202013.pdf)
-
-[Instructions to clients](/uploads/01-instructions-to-will-clients-2018.pdf)
