@@ -1,8 +1,8 @@
 +++
-date = ""
-description = ""
+date = 2021-09-14T16:55:00Z
+description = "."
 linktitle = ""
-summary = ""
+summary = "."
 title = "Protect Your Credit Rating"
 toc = false
 translationKey = "protect_credit"

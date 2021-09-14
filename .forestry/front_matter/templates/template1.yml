@@ -1,14 +1,10 @@
 ---
-label: template1
+label: documents_template
 hide_body: false
 fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: linktitle
-  label: tabtitle
-  description: This is the name that appears in a tab at the top of the page
 - type: text
   name: description
   label: description
@@ -17,12 +13,8 @@ fields:
   label: summary
 - type: datetime
   name: date
-  label: Date
+  label: date
   description: Date of last edit
-- type: number
-  name: weight
-  label: Weight
-  description: Where does this appear in the tab order
 - type: text
   name: translationKey
   label: translationKey
@@ -30,6 +22,6 @@ fields:
     can toggle back and forth
 - type: boolean
   name: toc
-  label: Table of Contents
+  label: table of contents
 pages:
 - content/english/documents/consumer_law/protect-your-credit-rating.md
