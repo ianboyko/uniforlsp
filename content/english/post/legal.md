@@ -18,6 +18,7 @@ menu:
 #### Articles
 
 * [Protect Your Credit Rating](/pdf/Protect_your_credit_rating-en.pdf)
+* [Protect Your Credit Rating](/documents/consumer_law/protect_credit)
 * [Debt Problems? A Credit Counsellor Might Help](/pdf/Debt_problems-en.pdf)
 * [Ontario 's Consumer Protection Act](/pdf/Ontario_Consumer_Protection_Act-en.pdf)
 * [Offers to Settle and Costs](/pdf/Offers%20to%20Settle%20and%20Costs.pdf)
@@ -36,7 +37,7 @@ menu:
 * [But for The Plan (Bankruptcy: Changing the Terms of a Conditional Discharge)](/pdf/But%20for%20the%20Plan%202014%20Ron%20Bankruptcy.pdf)
 * [But for The Plan (Bankruptcy and Tax Reassessment Refunds)](/pdf/but%20for%20the%20plan%202012%20Ron%20Bankruptcy.pdf)
 * [But for The Plan (Bankruptcy and Life Insurance Proceeds)](/pdf/Bankruptcy%20and%20Life%20Insurance.pdf)
-* [But for The Plan (Mortgage Insurance Claim: Pre-Existing Illness, but Application Not Fraudulent)](/pdf/But%20for%20the%20Plan%202015(Kathleen%20(Mortgage%20Insurance%20Claim).pdf)
+* \[But for The Plan (Mortgage Insurance Claim: Pre-Existing Illness, but Application Not Fraudulent)\](/pdf/But%20for%20the%20Plan%202015(Kathleen%20(Mortgage%20Insurance%20Claim).pdf)
 * [But for The Plan (Line of Credit Life Insurance - Unilateral Policy Changes)](/pdf/But%20for%20the%20Plan%202012%20Kathleen%20Line%20of%20Credit%20Life%20Insurance.pdf)
 * [But for The Plan (Life Insurance Claim)](/pdf/But%20for%20the%20Plan%20June%202007.pdf)
 * [But for The Plan (A Bad Roofing Job)](/pdf/But%20for%20the%20Plan%202012%20Frank%20(A%20Bad%20Roofing%20Job).pdf)

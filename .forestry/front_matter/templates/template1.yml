@@ -7,7 +7,7 @@ fields:
   label: title
 - type: text
   name: linktitle
-  label: linktitle
+  label: tabtitle
   description: This is the name that appears in a tab at the top of the page
 - type: text
   name: description
@@ -31,3 +31,5 @@ fields:
 - type: boolean
   name: toc
   label: Table of Contents
+pages:
+- content/english/documents/consumer_law/protect-your-credit-rating.md
