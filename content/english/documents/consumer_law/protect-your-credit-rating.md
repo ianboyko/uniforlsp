@@ -2,6 +2,7 @@
 date = 2021-09-14T16:55:00Z
 description = "."
 linktitle = ""
+slug = "protect-your-credit-rating"
 summary = "."
 title = "Protect Your Credit Rating"
 toc = false

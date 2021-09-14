@@ -11,8 +11,8 @@ fields:
     required: true
     min: 3
   label: slug
-  description: this will form part of the website address (url) -- don't use any spaces,
-    use a dash instead
+  description: this will form the end of the website address (url) -- don't use any
+    spaces, use a dash instead
 - type: text
   name: description
   label: description
@@ -33,3 +33,4 @@ fields:
   label: table of contents
 pages:
 - content/english/documents/consumer_law/protect-your-credit-rating.md
+- content/english/documents/consumer_law/this-is-a-test-for-slug.md
