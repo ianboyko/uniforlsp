@@ -5,6 +5,14 @@ fields:
 - type: text
   name: title
   label: title
+- name: slug
+  type: text
+  config:
+    required: true
+    min: 3
+  label: slug
+  description: this will form part of the website address (url) -- don't use any spaces,
+    use a dash instead
 - type: text
   name: description
   label: description
