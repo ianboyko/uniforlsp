@@ -6,7 +6,6 @@ summary = "."
 title = "Protect Your Credit Rating"
 toc = false
 translationKey = "protect_credit"
-weight = nil
 
 +++
 ## Protect Your Credit Rating
