@@ -26,8 +26,8 @@ But it is better to prevent these problems. Check your own credit history from t
 
 You can also call the lawyers at the Unifor Legal Services Plan. We may be able to help!
 
-Submitted by Kathleen Howes,  
-Staff Lawyer  
-Brampton Office
+> > Submitted by Kathleen Howes,  
+> > Staff Lawyer  
+> > Brampton Office
 
 > _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
