@@ -20,7 +20,7 @@ menu:
 * [Protect Your Credit Rating](/documents/consumer_law/protect-your-credit-rating/) [(or PDF)](/pdf/Protect_your_credit_rating-en.pdf)
 * [Debt Problems? A Credit Counsellor Might Help](/documents/consumer_law/debt-problems/) [(or PDF)](/pdf/Debt_problems-en.pdf)
 * [Ontario's Consumer Protection Act](/documents/consumer_law/ont-cp-act/) [(or PDF)](/pdf/Ontario_Consumer_Protection_Act-en.pdf)
-* [Offers to Settle and Costs](/pdf/Offers%20to%20Settle%20and%20Costs.pdf)
+* [Offers to Settle and Costs](/documents/consumer_law/settle-costs/) [(or PDF)](/pdf/Offers%20to%20Settle%20and%20Costs.pdf)
 
 #### But for the plan
 
