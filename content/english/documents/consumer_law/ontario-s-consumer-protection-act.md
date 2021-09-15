@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "ont-cp-act"
 summary = ""
 title = "Ontario's Consumer Protection Act"
