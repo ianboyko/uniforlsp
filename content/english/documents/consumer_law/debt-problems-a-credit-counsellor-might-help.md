@@ -8,9 +8,7 @@ toc = false
 translationKey = "debt-problems"
 
 +++
-### Debt Problems?A Credit Counsellor Might Help
-
-**Credit counsellors assist you to:**
+#### Credit counsellors assist you to:
 
 * **develop a budget**
 * **manage your money**
