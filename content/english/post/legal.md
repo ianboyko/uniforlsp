@@ -17,7 +17,6 @@ menu:
 
 #### Articles
 
-* [Protect Your Credit Rating](/pdf/Protect_your_credit_rating-en.pdf)
 * [Protect Your Credit Rating](/documents/consumer_law/protect-your-credit-rating/) [(or PDF)](/pdf/Protect_your_credit_rating-en.pdf)
 * [Debt Problems? A Credit Counsellor Might Help](/pdf/Debt_problems-en.pdf)
 * [Ontario's Consumer Protection Act](/pdf/Ontario_Consumer_Protection_Act-en.pdf)
