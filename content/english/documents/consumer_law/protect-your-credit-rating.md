@@ -4,7 +4,7 @@ description = "."
 linktitle = ""
 slug = "protect-your-credit-rating"
 summary = "."
-title = "Protect Your Credit Rating"
+title = "Your Credit Rating"
 toc = false
 translationKey = "protect_credit"
 
