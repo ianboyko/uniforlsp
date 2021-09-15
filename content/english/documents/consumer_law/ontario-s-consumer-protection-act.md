@@ -26,7 +26,7 @@ It is important to contact a lawyer within a few days of signing the consumer co
   
 ##### contact your Unifor Legal Services Plan office immediately!
 
-Ron Reaume, Assistant Managing Lawyer, Windsor Office  
+<!--Ron Reaume, Assistant Managing Lawyer, Windsor Office  -->
 2345 Central Avenue  
 519-944-5222 or 1-800-381-2209
 
