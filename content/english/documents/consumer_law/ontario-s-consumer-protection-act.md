@@ -23,12 +23,12 @@ It is important to contact a lawyer within a few days of signing the consumer co
 
 ##### If you enter into a consumer contract and are not sure if it is valid  
   
-or if you wish to cancel it  
+##### or if you wish to cancel it  
   
-contact your Unifor Legal Services Plan office immediately!
+##### contact your Unifor Legal Services Plan office immediately!
 
-Ron Reaume,  
-Assistant Managing Lawyer,  
-Windsor Office  
+Ron Reaume, Assistant Managing Lawyer, Windsor Office  
 2345 Central Avenue  
- 519-944-5222 or 1-800-381-2209
+519-944-5222 or 1-800-381-2209
+
+> _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
