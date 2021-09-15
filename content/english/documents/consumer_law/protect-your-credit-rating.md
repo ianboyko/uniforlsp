@@ -4,14 +4,12 @@ description = "."
 linktitle = ""
 slug = "protect-your-credit-rating"
 summary = "."
-title = "Your Credit Rating"
+title = "Protect Your Credit Rating"
 toc = false
 translationKey = "protect_credit"
 
 +++
-## Protect Your Credit Rating
-
-We all know that our good name is very important, and so is our credit reputation.
+#### We all know that our good name is very important, and so is our credit reputation.
 
 If we run into problems with our bills or get sued for an unpaid account, we can expect to find that our credit rating is affected negatively. More surprising is when we think that we have always paid our bills on time, yet discover a “bad mark” against our credit. Yes, this happens, and unfortunately we often don’t discover the problem until we apply for a loan or mortgage and get turned down.....because of our credit rating.
 
