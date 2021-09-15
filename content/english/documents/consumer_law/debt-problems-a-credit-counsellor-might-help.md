@@ -1,11 +1,11 @@
 +++
 date = ""
 description = ""
-slug = "debt_problems"
+slug = "debt-problems"
 summary = ""
 title = "Debt Problems? A Credit Counsellor Might Help"
 toc = false
-translationKey = "debt_problems"
+translationKey = "debt-problems"
 
 +++
 ### Debt Problems?A Credit Counsellor Might Help
