@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-bank-refunds"
 summary = ""
 title = "But for The Plan (Bankruptcy and Tax Reassessment Refunds)"
