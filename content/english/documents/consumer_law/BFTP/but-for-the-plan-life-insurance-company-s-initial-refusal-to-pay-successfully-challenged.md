@@ -14,9 +14,7 @@ The insurer alleged that the deceased lied about a pre‐existing health issue o
 
 In our correspondence to the insurer, we contended that there was insufficient evidence to conclude that the deceased had a pre‐existing condition requiring disclosure. Furthermore, we contended that the deceased did not misrepresent his condition on the application form.
 
-The process took several months, including an OHIP record search and forensic investigation,
-
-but in the end the insurer paid in full ‐ our client’s mortgage and line of credit, including interest. The total cost to our client was $363.77.
+The process took several months, including an OHIP record search and forensic investigation, but in the end the insurer paid in full ‐ our client’s mortgage and line of credit, including interest. The total cost to our client was $363.77.
 
 But for the Plan, the insurance company’s initial refusal to pay may not have been challenged.
 
