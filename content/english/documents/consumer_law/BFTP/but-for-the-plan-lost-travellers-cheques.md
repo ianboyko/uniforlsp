@@ -17,10 +17,10 @@ The issuing company stated that it would reimburse Mr. Green if he signed an ind
 1. Why should I be responsible if someone fraudulently uses the cheques?
 2. Isn’t the point of using travellers cheques to protect me?
 3. Isn’t the issuing company misrepresenting its services? After all, they advertise:
-_“For peace of mind, carry (our brand)”_
-_“Your money is always safe with Travellers Cheques”_
-_“Protect yourself against identity theft”_
-_“May be refunded if lost or stolen upon proof of ID and proof of purchase”_ 
+ _“For peace of mind, carry (our brand)”_
+ _“Your money is always safe with Travellers Cheques”_
+ _“Protect yourself against identity theft”_
+ _“May be refunded if lost or stolen upon proof of ID and proof of purchase”_ 
 
 Jonathon reviewed the relevant documents, and found no evidence that Mr. Green signed an agreement to indemnify the issuing company at the time of purchase. So, upon receiving Mr. Green’s instructions to proceed, he wrote a series of letters to various representatives of the issuing company.
 
