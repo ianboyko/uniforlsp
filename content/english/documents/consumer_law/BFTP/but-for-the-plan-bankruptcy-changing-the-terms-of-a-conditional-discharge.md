@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-bank-discharge"
 summary = ""
 title = "But for The Plan (Bankruptcy: Changing the Terms of a Conditional Discharge)"
