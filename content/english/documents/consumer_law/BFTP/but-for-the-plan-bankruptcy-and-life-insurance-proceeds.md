@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-bank-proceeds"
 summary = ""
 title = "But for The Plan (Bankruptcy and Life Insurance Proceeds)"
