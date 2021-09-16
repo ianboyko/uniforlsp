@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-collection"
 summary = ""
 title = "But for The Plan (Collection Agency Letters-Don ’t Take Them at Face Value)"
