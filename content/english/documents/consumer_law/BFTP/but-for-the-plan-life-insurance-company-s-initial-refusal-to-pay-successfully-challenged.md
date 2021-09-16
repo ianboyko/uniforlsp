@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-life"
 summary = ""
 title = "But for The Plan (Life Insurance Company ’s Initial Refusal to Pay - Successfully Challenged)"
