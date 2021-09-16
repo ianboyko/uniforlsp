@@ -29,8 +29,8 @@ There are many non-profit credit counseling services. However, most will charge 
 
 If you are having debt problems and are not sure what to do, contact your Unifor Legal Services Plan office immediately !
 
---: Submitted by Kathleen Howes  
---: Staff Lawyer  
---: Metro Toronto Office 
+<div align="right">Submitted by Kathleen Howes</div>
+Staff Lawyer  
+Metro Toronto Office 
 
 > _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
