@@ -32,7 +32,7 @@ menu:
 * [But for The Plan (Joining a Class Action)](/documents/consumer_law/BFTP/BFTP-joining/) [(or PDF)](/pdf/But%20for%20the%20Plan%202017%20Jonathon-Joining%20a%20Class%20Action.pdf)
 * [But for The Plan - (Telephone Sales)](/documents/consumer_law/BFTP/BFTP-telephone/) [(or PDF)](/pdf/But%20for%20the%20Plan%202017%20Jonathon-Telephone%20Sales.pdf)
 * [But for The Plan (Lost Travellers Cheques)](/documents/consumer_law/BFTP/BFTP-lost/) [(or PDF)](/pdf/But%20for%20the%20Plan%202016%20Jonathon%20Lost%20Travellers%20Cheques.pdf)
-* [But for The Plan (The Rogue Financial Advisor)](/pdf/But%20for%20the%20Plan%202014%20Archie%20Rogue%20Advisor.pdf)
+* [But for The Plan (The Rogue Financial Advisor)](/documents/consumer_law/BFTP/BFTP-rogue/) [(or PDF)](/pdf/But%20for%20the%20Plan%202014%20Archie%20Rogue%20Advisor.pdf)
 * [But for The Plan (Bankruptcy: Changing the Terms of a Conditional Discharge)](/pdf/But%20for%20the%20Plan%202014%20Ron%20Bankruptcy.pdf)
 * [But for The Plan (Bankruptcy and Tax Reassessment Refunds)](/pdf/but%20for%20the%20plan%202012%20Ron%20Bankruptcy.pdf)
 * [But for The Plan (Bankruptcy and Life Insurance Proceeds)](/pdf/Bankruptcy%20and%20Life%20Insurance.pdf)
