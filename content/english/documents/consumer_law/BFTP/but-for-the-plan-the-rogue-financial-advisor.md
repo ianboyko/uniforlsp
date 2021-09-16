@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-rogue"
 summary = ""
 title = "But for The Plan (The Rogue Financial Advisor)"
