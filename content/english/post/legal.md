@@ -30,7 +30,7 @@ menu:
 * [But for The Plan (Furnace Rental Agreements - Beware)](/documents/consumer_law/BFTP/BFTP-furnace/) [(or PDF)](/pdf/BUT%20FOR%20THE%20PLAN%202018%20Frank%20Furnace%20Rental%20Agreements.pdf)
 * [But for The Plan (Life Insurance Company 's Initial Refusal to Pay - Successfully Challenged)](/documents/consumer_law/BFTP/BFTP-life/) [(or PDF)](/pdf/BUT%20FOR%20THE%20PLAN%202017%20Life%20Insurance%20Co%20Initial%20Refusal%20to%20Pay%20Jonathan.pdf)
 * [But for The Plan (Joining a Class Action)](/documents/consumer_law/BFTP/BFTP-joining/) [(or PDF)](/pdf/But%20for%20the%20Plan%202017%20Jonathon-Joining%20a%20Class%20Action.pdf)
-* [But for The Plan - (Telephone Sales)](/pdf/But%20for%20the%20Plan%202017%20Jonathon-Telephone%20Sales.pdf)
+* [But for The Plan - (Telephone Sales)](/documents/consumer_law/BFTP/BFTP-telephone/) [(or PDF)](/pdf/But%20for%20the%20Plan%202017%20Jonathon-Telephone%20Sales.pdf)
 * [But for The Plan (Lost Travellers Cheques)](/pdf/But%20for%20the%20Plan%202016%20Jonathon%20Lost%20Travellers%20Cheques.pdf)
 * [But for The Plan (The Rogue Financial Advisor)](/pdf/But%20for%20the%20Plan%202014%20Archie%20Rogue%20Advisor.pdf)
 * [But for The Plan (Bankruptcy: Changing the Terms of a Conditional Discharge)](/pdf/But%20for%20the%20Plan%202014%20Ron%20Bankruptcy.pdf)
