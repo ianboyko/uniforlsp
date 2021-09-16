@@ -16,9 +16,7 @@ Not surprisingly, when Markus and Juanita came to our Oshawa office to meet with
 
 By the time lawyer’s letters were exchanged, there was close to a $60,000 difference ‐ the unpaid balance of the original contract and the extra amount required for the additional work.
 
-Following a few months of negotiations, an action was started in the Ontario Superior
-
-Court of Justice. The matter was settled at a pre‐trial hearing. Not only was our client not required to pay the contractor anything further, the contractor agreed to pay our client back the sum of $20,000.
+Following a few months of negotiations, an action was started in the Ontario Superior Court of Justice. The matter was settled at a pre‐trial hearing. Not only was our client not required to pay the contractor anything further, the contractor agreed to pay our client back the sum of $20,000.
 
 Most of our fees were covered by the Plan benefit. The total bill to our clients was less than $2,000.
 
