@@ -27,7 +27,7 @@ menu:
 * [But for The Plan (Collection Agency Letters-Don 't Take Them at Face Value)](/documents/consumer_law/BFTP/BFTP-collection/) [(or PDF)](/pdf/2018%20Jonathon%20-%20Collection%20Agency%20Letters.pdf)
 * [But for The Plan (Trailer Parks in the United States - Sometimes a Canadian Lawyer Can Help)](/documents/consumer_law/BFTP/BFTP-trailer/) [(or PDF)](/pdf/BUT%20FOR%20THE%20PLAN,%20Trailer%20Parks%20in%20the%20United%20States.pdf)
 * [But for The Plan (Renovation Issues and Contractors Who Walk Away)](/documents/consumer_law/BFTP/BFTP-renovation/) [(or PDF)](/pdf/BUT%20FOR%20THE%20PLAN%202019%20Bill%20-%20Renovation%20Issues.pdf)
-* [But for The Plan (Furnace Rental Agreements - Beware)](/pdf/BUT%20FOR%20THE%20PLAN%202018%20Frank%20Furnace%20Rental%20Agreements.pdf)
+* [But for The Plan (Furnace Rental Agreements - Beware)](/documents/consumer_law/BFTP/BFTP-furnace/) [(or PDF)](/pdf/BUT%20FOR%20THE%20PLAN%202018%20Frank%20Furnace%20Rental%20Agreements.pdf)
 * [But for The Plan (Life Insurance Company 's Initial Refusal to Pay - Successfully Challenged)](/pdf/BUT%20FOR%20THE%20PLAN%202017%20Life%20Insurance%20Co%20Initial%20Refusal%20to%20Pay%20Jonathan.pdf)
 * [But for The Plan (Joining a Class Action)](/pdf/But%20for%20the%20Plan%202017%20Jonathon-Joining%20a%20Class%20Action.pdf)
 * [But for The Plan - (Telephone Sales)](/pdf/But%20for%20the%20Plan%202017%20Jonathon-Telephone%20Sales.pdf)
