@@ -1,6 +1,7 @@
 +++
 date = ""
 description = ""
+draft = true
 slug = "debt-problems"
 summary = ""
 title = "Debt Problems? A Credit Counsellor Might Help"
@@ -29,7 +30,7 @@ There are many non-profit credit counseling services. However, most will charge 
 
 If you are having debt problems and are not sure what to do, contact your Unifor Legal Services Plan office immediately !
 
-<div align="right">Submitted by Kathleen Howes</div>
+Submitted by Kathleen Howes
 Staff Lawyer  
 Metro Toronto Office 
 
