@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-lost"
 summary = ""
 title = "But for The Plan (Lost Travellers Cheques)"
