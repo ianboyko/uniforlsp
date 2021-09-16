@@ -22,9 +22,7 @@ Clients B were fully aware of their Plan coverage and, immediately upon learning
 
 Mrs. B meticulously handled all of the record-keeping, even keeping documents that she was told should be destroyed. She produced several of the promissory notes, together with documentation showing the line of credit and bank drafts payable to Mr. Rogue Advisor personally. In addition, her handwritten notes, made contemporaneously at the meetings held in their home with Mr. Rogue Advisor, were explicit and credible.
 
-Although the investment company’s liability insurer quickly agreed to cover the borrowing
-
-costs on the line of credit, there was considerable dispute as to whether the promised 12% to 24% interest rates should be paid.
+Although the investment company’s liability insurer quickly agreed to cover the borrowing costs on the line of credit, there was considerable dispute as to whether the promised 12% to 24% interest rates should be paid.
 
 After considerable negotiations with formidable legal counsel representing the liability insurers, we were able to obtain a full return of principal, 18% interest, and a small amount of general damages for anxiety and depression Needless to say, Clients B were ecstatic with the results.
 
