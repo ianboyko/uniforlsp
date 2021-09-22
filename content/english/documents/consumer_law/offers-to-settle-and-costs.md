@@ -22,7 +22,7 @@ You may shorten an expensive court case, and maybe avoid a trial completely, by 
 3. **Be prepared to revise it.** As you receive more or updated information it may be advantageous to reconsider and revise your Offer to Settle.
 
 * **Offers to Settle have many technical, legal requirements.**
-* **“Costs” can be used to reward or punish litigants in many ways.
+* **“Costs” can be used to reward or punish litigants in many ways.**
 
 ###### It is important to discuss these legal terms in more detail with your lawyer.
 
