@@ -32,6 +32,8 @@ fields:
   name: toc
   label: table of contents
 pages:
+- content/english/documents/consumer_law/ART/debt-problems-a-credit-counsellor-might-help.md
+- content/english/documents/consumer_law/ART/offers-to-settle-and-costs.md
 - content/english/documents/consumer_law/ART/ontario-s-consumer-protection-act.md
 - content/english/documents/consumer_law/ART/protect-your-credit-rating.md
 - content/english/documents/consumer_law/BFTP/but-for-the-plan-bankruptcy-and-life-insurance-proceeds.md
