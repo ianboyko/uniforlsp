@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-line"
 summary = ""
 title = "But for The Plan (Line of Credit Life Insurance - Unilateral Policy Changes)"
