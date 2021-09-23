@@ -42,7 +42,7 @@ menu:
 * [But for The Plan (A Bad Roofing Job)](/documents/consumer_law/BFTP/BFTP-roofing/) [(or PDF)](/pdf/But%20for%20the%20Plan%202012%20Frank%20(A%20Bad%20Roofing%20Job).pdf)
 * [But for The Plan (The Power of a Lawyer 's Letter)](/documents/consumer_law/BFTP/BFTP-power/) [(or PDF)](/pdf/But%20for%20the%20Plan%202014%20Michael%20(Auto).pdf)
 * [But for The Plan (Timeshare Contract)](/documents/consumer_law/BFTP/BFTP-timeshare/) [(or PDF)](/pdf/But%20for%20the%20Plan%20August%202007.pdf)
-* [But for The Plan (Lost Luggage)](/pdf/But%20for%20the%20Plan%20September%202008.pdf)
+* [But for The Plan (Lost Luggage)](/documents/consumer_law/BFTP/BFTP-luggage/) [(or PDF)](/pdf/But%20for%20the%20Plan%20September%202008.pdf)
 * [But for The Plan (Canada Pension Disability Claim)](/pdf/But%20for%20the%20Plan%202008%20Ron%20CP%20Disability.pdf)
 * [But for The Plan (USA Consumer Problem)](/pdf/But%20for%20the%20Plan%20February%202011.pdf)
 * [But For The Plan (Beware of Salespersons Knocking at your Door- DO NOT LET THEM IN)](/pdf/2019%20Paul%20-%20Beware%20the%20Salespersons.pdf)
