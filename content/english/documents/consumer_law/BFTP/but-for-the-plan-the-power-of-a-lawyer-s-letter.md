@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-power"
 summary = ""
 title = "But for The Plan (The Power of a Lawyer ’s Letter)"
