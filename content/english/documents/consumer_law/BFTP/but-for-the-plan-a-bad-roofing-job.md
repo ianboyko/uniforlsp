@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-roofing"
 summary = ""
 title = "But for The Plan (A Bad Roofing Job)"
