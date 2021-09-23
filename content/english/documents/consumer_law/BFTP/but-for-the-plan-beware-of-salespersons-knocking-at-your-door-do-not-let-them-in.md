@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-beware"
 summary = ""
 title = "But For The Plan (Beware of Salespersons Knocking at your Door- DO NOT LET THEM IN)"
