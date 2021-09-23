@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-pre-existing"
 summary = ""
 title = "But for The Plan (Mortgage Insurance Claim: Pre-Existing Illness, but Application Not Fraudulent)"
