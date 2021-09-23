@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-usa"
 summary = ""
 title = "But for The Plan (USA Consumer Problem)"
