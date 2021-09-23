@@ -1,6 +1,7 @@
 +++
 date = ""
 description = ""
+draft = true
 slug = "BFTP-beware"
 summary = ""
 title = "But For The Plan (Beware of Salespersons Knocking at your Door- DO NOT LET THEM IN)"
@@ -20,9 +21,8 @@ The contracts that she signed obligated her to pay 10 years of high, monthly pay
 
 Although Ontario consumer protection law gives purchasers a 10‐day cooling off period to cancel contracts from most door‐to‐door sales, it was well past the 10 days. But Paul advised Thelma that in certain circumstances she could cancel the contract up to one year after it was signed, and that he found a couple of those circumstances in Thelma’s case.
 
-1\. The rental contract did not inform her, in bold print, that the she had a right to cancel the contract within 10 days.
-
-2\. The equipment was sold using an unfair business practice ‐ the smiling man lied that he was from the gas company.
+1. The rental contract did not inform her, in bold print, that the she had a right to cancel the contract within 10 days.
+2. The equipment was sold using an unfair business practice ‐ the smiling man lied that he was from the gas company.
 
 Paul wrote a letter cancelling the contracts on that basis. The company sued Thelma in Small Claims Court for the full amount of all the rental payments, plus a very high interest rate. Paul defended the claim on Thelma’s behalf. At the initial court hearing, Paul explained to the Judge that the contracts were cancelled, and that Thelma had a legal right to cancel them. The Judge then said that Thelma had a very good defence, and a favourable settlement was reached. Thelma got to keep the equipment, and she paid a small fraction of the amount of the claim. Paul also forced the company to immediately remove the lien registered against her home.
 
@@ -30,11 +30,11 @@ The settlement saved Thelma thousands of dollars!
 
 But for the Plan, Thelma would have overpaid for things that she never asked for, and would have had difficulty selling her home with the lien registered on title.
 
-If someone comes to your door, or calls you saying that they are from the gas company, BEWARE !
+If someone comes to your door, or calls you saying that they are from the gas company, **BEWARE !**
 
-If you are offered a rebate on your furnace, or some other similar offer, DO NOT INVITE THEM IN !
+If you are offered a rebate on your furnace, or some other similar offer, **DO NOT INVITE THEM IN !**
 
-And, DO NOT SIGN ANYTHING UNTIL YOU SPEAK WITH A LAWYER!
+And, **DO NOT SIGN ANYTHING UNTIL YOU SPEAK WITH A LAWYER!**
 
 **And, if you do find that you have been hoodwinked by a smiling man. like Thelma’s, call your nearest Plan office and get some advice, and strong action.**
 
@@ -57,4 +57,3 @@ Those products are:
 Submitted by Paul Vayda,
 Managing Lawyer
 Oakville Office
-
