@@ -38,7 +38,7 @@ menu:
 * [But for The Plan (Bankruptcy and Life Insurance Proceeds)](/documents/consumer_law/BFTP/BFTP-bank-proceeds/) [(or PDF)](/pdf/Bankruptcy%20and%20Life%20Insurance.pdf)
 * [But for The Plan (Mortgage Insurance Claim: Pre-Existing Illness, but Application Not Fraudulent)](/documents/consumer_law/BFTP/BFTP-pre-existing/) [(or PDF)](/uploads/but-for-the-plan-2015-kathleen-mortgage-insurance-claim.pdf) <!-- /pdf/But%20for%20the%20Plan%202015(Kathleen%20(Mortgage%20Insurance%20Claim).pdf)-->
 * [But for The Plan (Line of Credit Life Insurance - Unilateral Policy Changes)](/documents/consumer_law/BFTP/BFTP-line/) [(or PDF)](/pdf/But%20for%20the%20Plan%202012%20Kathleen%20Line%20of%20Credit%20Life%20Insurance.pdf)
-* [But for The Plan (Life Insurance Claim)](/pdf/But%20for%20the%20Plan%20June%202007.pdf)
+* [But for The Plan (Life Insurance Claim)](/documents/consumer_law/BFTP/BFTP-life/) [(or PDF)](/pdf/But%20for%20the%20Plan%20June%202007.pdf)
 * [But for The Plan (A Bad Roofing Job)](/pdf/But%20for%20the%20Plan%202012%20Frank%20(A%20Bad%20Roofing%20Job).pdf)
 * [But for The Plan (The Power of a Lawyer 's Letter)](/pdf/But%20for%20the%20Plan%202014%20Michael%20(Auto).pdf)
 * [But for The Plan (Timeshare Contract)](/pdf/But%20for%20the%20Plan%20August%202007.pdf)
