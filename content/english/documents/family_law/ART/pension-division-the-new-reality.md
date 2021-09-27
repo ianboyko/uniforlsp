@@ -102,3 +102,17 @@ SLE will affect the pension valuation only if an application for SLE is filed pr
 This is a significant departure from the former practice whereby any spouse with a life expectancy that was significantly reduced by a health issue could make an argument, based on medical evidence, to discount the value of a pension to reflect the fact that he or she will not live to collect the full value.
 
 Given the limited time frame of eligibility for taking into account SLE, lawyers seeing a client for the first time must immediately enquire as to whether such circumstances exist for the client or the spouse. The ill client with a pension must understand how making the SLE application might affect the spouse’s equalization entitlement. The client whose spouse is ill must be aware of the effect of the timing of the request for the pension statement.
+
+For all other parties with significant health issues, lawyers must creatively argue the settlement options to strive for fairness of outcome.
+
+#### Pension Plan Changes or Deficiencies in Funding
+
+Special rules exist in a number of circumstances.
+
+If a pension plan is being wound up in whole or in part effective prior to the date of separation, the value will be the commuted value on date of wind up, with interest to the date of separation.
+
+If, before separation, a surplus properly qualifies for payment to members of a pension plan (and the payment has not been made by then), the value of the member’s interest in the surplus is included in the value of the pension interest.
+
+The new rules determining value do not take account of whether a pension plan is underfunded. Underfunding may be a factor for either or both spouses or a court in determining whether or not to settle the equalization payment by a transfer of a lump sum out of the pension plan. The financial health of a pension plan can be determined by reviewing the “Transfer Ratio”, which must be disclosed in the statement of value. A Transfer Ratio is a figure that every pension plan must report to the Superintendent of Financial Institutions every three years. It may be necessary to seek professional assistance in understanding the significance of a Transfer Ratio.
+
+Particulars of a wind up or surplus, as well of details of the Transfer Ratio, must be disclosed in the statement.
