@@ -130,3 +130,37 @@ This choice must be put to the client, who should receive an explanation of the 
 If an actuary believes that a SFLV is not correctly calculated, the lawyer could submit that information to the pension plan, or, if that proves unsuccessful, to the pension industry regulator, the Financial Services Commission of Ontario (FSCO). This scenario is unlikely to be common, especially with the large pension plans, all of which have made considerable investment in developing sophisticated programs and systems, and in training their staff. While error is not unheard of, one would expect most of the problems to be have been detected in the first year of implementing the new law.
 
 The value of a pension must technically be included as an asset in a party’s NFP. However, for practical reasons, it is not uncommon to remove it from the calculation where parties have agreed to divide the pension interest fully, either by means of a lump sum transfer or division of income. The remaining assets and liabilities can then be calculated to determine what other equalization entitlement exists between the parties.
+
+#### Allowing for Income Tax
+
+When including the value of the pension in NFP, a corresponding deduction must be inserted for the assumed future income tax liability the pensioner will incur when the pension goes into pay. Determining the rate of tax involves a projection of what the pensioner’s income from all sources is likely to be after retirement. This, of course, involves much guesswork (since future levels of income producing assets and income tax rates cannot be known with accuracy), so commonly parties negotiate a rate which is a best estimate. Again, the client should instruct as to whether to seek a professional opinion on the issue, or calculate this themselves. Depending on the lawyer’s experience, it may or may not be difficult for the lawyer to assist in estimating a rate, or the parties can simply agree. This is no different than coming up with a rate of tax for other income producing property such as RRSP’s. The greater the income disparity and the more complicated a party’s tax situation is, the more likely that professional help is warranted.
+
+The spouse who will receive a lump sum transfer must have it deposited into a prescribed arrangement, where it is inaccessible until the spouse reaches the age permitted by the Income Tax Act. That Act imposes on the lump sum transfer the same restrictions for converting it into income as apply to the pension itself. The provisions of the pension plan for taking early retirement apply to the ability of the spouse to draw from the “prescribed arrangement” selected by the spouse, unless the funds have been used to buy an annuity. Usually, this could not be possible until at least age 55. Then, when the funds are withdrawn, they become subject to income tax. Therefore, a gross up allowance must also be made for this future tax liability on the part of the spouse receiving the lump sum transfer.
+
+If you are grossing up the lump sum transfer, you must be sure that any such adjustment does not bring the transfer into contravention of the 50% rule. Usually, if a deduction for the member’s tax consequences is made from the pension value first, before adjusting for the spouse’s tax consequences, this can be avoided. However, a problem might arise if the spouse’s tax rate is significantly higher than the member’s.
+
+If the pension value is being fully divided by lump sum transfer and the parties’ future tax rates are not expected to differ greatly, it is not unreasonable for them to omit any tax adjustment for either spouse.
+
+#### PROCEDURE FOR OBTAINING ADMINISTRATOR’S STATEMENT
+
+* Either spouse may apply for the Statement of Family Law Value.
+* The Administrator may charge a fee of $600 for valuing a Defined Benefit Plan, $200 for a Defined Contribution Plan or $800 for a hybrid plan consisting of both types of plans (some pension plans have indicated they will waive the fees, at least initially).
+* The administrator must produce the statement within 60 days and it must be sent to both spouses.
+* Where there is a dispute as to the date of separation, the Administrator may send statements for two different dates, but may charge separate fees for each.
+
+#### SETTLEMENT OF EQUALIZATION ENTITLEMENTS
+
+With certain limitations, parties remain free to settle their equalization differences by means of domestic contract. Failing this they may be resolved by court order or family arbitration award. The available options differ depending on whether or not the pension is being received on the date of separation.
+
+**The options available are as follows:**
+
+1. **When the spouse with a pension interest has not retired before the date of separation, the equalization payment (EP) can be satisfied in one of the following ways:**
+   1. a payment made in cash or by instalments of cash, or for other consideration (e.g. transfer of property) as was previously the case;
+   2. a transfer of a lump sum from the member’s pension to a prescribed (retirement) investment in the name of the spouse;
+   3. a combination of part cash and part lump sum transfer from the pension plan (as in 1 & 2 above);
+2. **Where a pension is in pay at the date of separation, the EP may be satisfied in one of the following ways:**
+   1. a payment made in cash or by instalments of cash, or for other consideration (e.g. transfer of property) as was previously the case
+   2. a division of the pension income
+   3. a combination of part cash and pension income division (as in 1 & 2 above);
+
+A transfer of a lump sum is not available when the pension is in pay on the date of separation and a division of pension income is not available unless the pension is in pay on the date of separation.
