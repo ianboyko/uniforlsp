@@ -85,56 +85,20 @@ It is essential to note that not every component of a pension will necessarily b
 * non-guaranteed (ad hoc) indexing ( to be disclosed for the three years prior to separation, but not included in value);
 * Supplementary Pension Plans (SERPs), which are not governed by the PBA.
 
-Each of the above requires individual attention, and sometimes expert advice.  
-  
+Each of the above requires individual attention, and sometimes expert advice.
+
 There will still be a need for certain interests (such as SERPs) to be valued by an independent expert such as an actuary.
 
 There is some question as to whether administrators of non-PBA regulated pensions will produce the relevant information to enable valuation pursuant to the new PBA rules (they cannot be compelled to). In any event, the new section 10.1(2) requires all non-PBA interests to be valued in accordance with the PBA although the section does make reference to “where reasonably possible” and “with necessary modifications”. If such a plan does not provide a value in accordance with the regulations, an actuary must be retained to prepare a valuation unless the administrator is prepared to value the plan using the PBA formulae.
 
-Remember as well that each spouse is entitled to a deduction for contingent tax liabilities (see the revised definition of NFP in s. 4(1)(a) of the FLA). These will have to be individually determined based on projected future income tax rates for the spouse with the pension.  
-  
+Remember as well that each spouse is entitled to a deduction for contingent tax liabilities (see the revised definition of NFP in s. 4(1)(a) of the FLA). These will have to be individually determined based on projected future income tax rates for the spouse with the pension.
+
 #### Shortened Life Expectancy
 
-One highly debated aspect of the new Regulations is that only very limited
+One highly debated aspect of the new Regulations is that only very limited account will be taken in determining the value of a pension of a person with health issues that affect normal life expectancy. Only when the Shortened Life Expectancy (SLE) provisions of the PBA are engaged will this affect value. SLE is only available where a pension member files medical proof that death will occur within two years. A plan member who qualifies can apply to withdraw the commuted value of the pension.
 
-account will be taken in determining the value of a pension of a person with
+SLE will affect the pension valuation only if an application for SLE is filed prior to separation, or if the application is filed within six months of separation but before the administrator receives an application for a statement of value. In this case, the physician must offer an opinion that the SLE circumstances existed on the date of separation.
 
-health issues that affect normal life expectancy. Only when the Shortened Life
+This is a significant departure from the former practice whereby any spouse with a life expectancy that was significantly reduced by a health issue could make an argument, based on medical evidence, to discount the value of a pension to reflect the fact that he or she will not live to collect the full value.
 
-Expectancy (SLE) provisions of the PBA are engaged will this affect value. SLE
-
-is only available where a pension member files medical proof that death will
-
-occur within two years. A plan member who qualifies can apply to withdraw the
-
-commuted value of the pension.
-
-SLE will affect the pension valuation only if an application for SLE is filed prior to
-
-separation, or if the application is filed within six months of separation but before
-
-the administrator receives an application for a statement of value. In this case,
-
-the physician must offer an opinion that the SLE circumstances existed on the
-
-date of separation.
-
-This is a significant departure from the former practice whereby any spouse with
-
-a life expectancy that was significantly reduced by a health issue could make an
-
-argument, based on medical evidence, to discount the value of a pension to
-
-reflect the fact that he or she will not live to collect the full value.
-
-Given the limited time frame of eligibility for taking into account SLE, lawyers
-
-seeing a client for the first time must immediately enquire as to whether such
-
-circumstances exist for the client or the spouse. The ill client with a pension must
-
-understand how making the SLE application might affect the spouse’s
-
-equalization entitlement. The client whose spouse is ill must be aware of the
-
-effect of the timing of the request for the pension statement.
+Given the limited time frame of eligibility for taking into account SLE, lawyers seeing a client for the first time must immediately enquire as to whether such circumstances exist for the client or the spouse. The ill client with a pension must understand how making the SLE application might affect the spouse’s equalization entitlement. The client whose spouse is ill must be aware of the effect of the timing of the request for the pension statement.
