@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "ART-spousal"
 summary = ""
 title = "Spousal Support and Early Retirement"
