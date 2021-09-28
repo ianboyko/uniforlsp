@@ -248,3 +248,5 @@ The Bill 133 reforms have introduced some welcome changes to this vexing aspect 
 
 **Wendela M. Napier, CAW Legal Services Plan  
 This is an updated and expanded version of a paper originally prepared for the Ontario Bar Association's "Bread and Butter" Issues in Family Law II, September 16, 2011.**
+
+> _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
