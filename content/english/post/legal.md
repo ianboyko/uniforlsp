@@ -52,7 +52,7 @@ menu:
 #### Articles
 
 * [Tips for Keeping Your Family Lawyer's Fees Down](/documents/family_law/ART/ART-tips/) [(or PDF)](/pdf/2016%20Tips%20For%20Keeping%20Your%20Family%20Lawyer's%20Legal%20Fees%20Down.pdf)
-* [Pension Division: The New Reality](/pdf/Pension%20Division.pdf)
+* [Pension Division: The New Reality](/documents/family_law/ART/ART-pension/) [(or PDF)](/pdf/Pension%20Division.pdf)
 * [Spousal Support and Early Retirement](/pdf/2015%20Wendy%20Spousal%20Support%20%20and%20Early%20Rtirement.pdf)
 * [A Short Common Law Relationship Can Change Pension Rights](/pdf/2019%20Wendy%20A%20Short%20Common%20Law%20Relationship.pdf)
 * [Child Support Guidelines](/pdf/Child%20Support%20Guidelines%202012.pdf)
