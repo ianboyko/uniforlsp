@@ -1,6 +1,7 @@
 +++
 date = ""
 description = ""
+draft = true
 slug = "ART-pension"
 summary = ""
 title = "Pension Division: The New Reality"
@@ -162,9 +163,9 @@ With certain limitations, parties remain free to settle their equalization diffe
    2. a division of the pension income
    3. a combination of part cash and pension income division (as in 1 & 2 above);
 
-\**A transfer of a lump sum is not available when the pension is in pay on the date of separation and a division of pension income is not available unless the pension is in pay on the date of separation.
+**A transfer of a lump sum is not available when the pension is in pay on the date of separation and a division of pension income is not available unless the pension is in pay on the date of separation.**
 
-\**Note that income divisions must follow the prescribed rules under the Regulations. No further “if and when” divisions, as took place under the FLA prior to the amendments, are permitted for orders or agreements dated after December 31, 2011.
+**Note that income divisions must follow the prescribed rules under the Regulations. No further “if and when” divisions, as took place under the FLA prior to the amendments, are permitted for orders or agreements dated after December 31, 2011.**
 
 No settlement option involving the pension can be implemented without first obtaining the Statement of Family Law Value. Even when agreeing to divide the pension income, obtaining the SFLV first is a prerequisite.
 
@@ -244,7 +245,7 @@ Since January 1, 2012, pension plans no longer are obliged to implement any new 
 
 #### IN CONCLUSION
 
-The Bill 133 reforms have introduced some welcome changes to this vexing aspect of property division on marriage breakdown, particularly in widening the options for settlement of an equalization entitlement. However, there is still uncertainty as to the application of discretion rules in selecting a method of settlement, and that is likely to persist until caselaw clarifies the rules. In the meantime, many spouses are receiving divergent opinions from their lawyers and this creates obstacles to settlement. The codification of the method of determining the value of pensions is also helpful, but is not the very simple, all inclusive determination that was hoped for, or that might have come with a completely different model (Deferred Settlement, i.e. division if and only when in pay). Valuation of pensions remains a process that may involve considerable costs in ascertaining those components of value that fall outside of the PBA.  
-  
+The Bill 133 reforms have introduced some welcome changes to this vexing aspect of property division on marriage breakdown, particularly in widening the options for settlement of an equalization entitlement. However, there is still uncertainty as to the application of discretion rules in selecting a method of settlement, and that is likely to persist until caselaw clarifies the rules. In the meantime, many spouses are receiving divergent opinions from their lawyers and this creates obstacles to settlement. The codification of the method of determining the value of pensions is also helpful, but is not the very simple, all inclusive determination that was hoped for, or that might have come with a completely different model (Deferred Settlement, i.e. division if and only when in pay). Valuation of pensions remains a process that may involve considerable costs in ascertaining those components of value that fall outside of the PBA.
+
 **Wendela M. Napier, CAW Legal Services Plan  
 This is an updated and expanded version of a paper originally prepared for the Ontario Bar Association's "Bread and Butter" Issues in Family Law II, September 16, 2011.**
