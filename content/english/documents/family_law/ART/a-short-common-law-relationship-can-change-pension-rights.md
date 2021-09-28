@@ -17,15 +17,15 @@ A defined benefit pension is a very valuable asset for many Detroit 3 auto worke
 
 If a member dies before reaching retirement, a lump sum called a Pre‐Retirement Death Benefit (PRDB) must be paid by the pension plan. Who gets it depends on the law and sometimes on choices made by the pension member.
 
-1. If the **member has no spouse** at the time of death, the PRDB is paid to the member’s estate or to beneficiaries who the member has named by signing a designation form.
-2. If a **member has a spouse** at the time of death, the law requires the PRDB to be paid to the spouse, unless the spouse has waived their right to it.
+1. If the **member has no spouse** at the time of death, the PRDB is paid to the member’s estate or to beneficiaries who the member has named by signing a designation form. 
+2. If a **member has a spouse** at the time of death, the law requires the PRDB to be paid to the spouse, unless the spouse has waived their right to it. 
 
-   **A spouse can be a married spouse or a common law spouse.**
+   **A spouse can be a married spouse or a common law spouse. **
 
    **What many members are not aware of is that the Unifor‐Detroit Three collective agreements define a common law “spouse” as someone with whom the member has resided continuously for only one year.**  
-   _\[Note: This overrides the definition of a spouse which is found in the Pension Benefits Act, which requires a three year period of continuous cohabitation, unless there is a child born in a relationship of some permanence, in which case it can be a shorter period than 3 years\]._
+   _\[Note: This overrides the definition of a spouse which is found in the Pension Benefits Act, which requires a three year period of continuous cohabitation, unless there is a child born in a relationship of some permanence, in which case it can be a shorter period than 3 years\]. _
 
-   Therefore, whether your common law cohabitation is serious and enduring, or casual, twelve months after living together, your common law spouse will be solely entitled to the PRDB, even if you may have signed a designation form leaving the PRDB to your children or some other beneficiaries, unless your common law spouse signs a waiver.
+   Therefore, whether your common law cohabitation is serious and enduring, or casual, twelve months after living together, your common law spouse will be solely entitled to the PRDB, even if you may have signed a designation form leaving the PRDB to your children or some other beneficiaries, unless your common law spouse signs a waiver. 
 
    **IMPORTANT**  
    If you want to leave the PDRB to someone other than your spouse, the safest way to do that is to have a domestic contract ‐ either a cohabitation agreement (for common law spouses) or a marriage contract (for married spouses) ‐ preferably before living together or marrying, stipulating that your “spouse”
