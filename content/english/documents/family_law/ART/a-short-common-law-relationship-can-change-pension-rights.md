@@ -49,3 +49,5 @@ If you do not want your “spouse” to get the survivor benefit, you should get
 _If you have a question about how any of the above affects your personal situation, you should consult a family law lawyer through the Unifor Legal Services Plan._
 
 _The Brampton office can be reached at 905‐790‐6400._
+
+> _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
