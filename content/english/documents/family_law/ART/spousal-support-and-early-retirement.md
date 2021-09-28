@@ -48,3 +48,5 @@ _This article is an edited version of an article that appeared in the Unifor Loc
 If you are an eligible Unifor Legal Services Plan member, your coverage for family law matters may include up to 12 hours of prepaid time with a lawyer.
 
 **For further information, please contact the Unifor Legal Services Plan at:  1-800-268-7573**
+
+> _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
