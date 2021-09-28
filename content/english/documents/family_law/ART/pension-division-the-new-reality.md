@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "ART-pension"
 summary = ""
 title = "Pension Division: The New Reality"
