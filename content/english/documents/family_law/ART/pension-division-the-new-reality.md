@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "ART-pension"
 summary = ""
 title = "Pension Division: The New Reality"
@@ -206,3 +205,46 @@ Under s. 67.3(2) of the PBA and s. 27 of the Regulations, the lump sum must go i
 3. a locked-in retirement account (RSP).
 
 The Act contemplated a further option, that the lump sum could in fact be retained in the pension plan to the credit of the spouse, if the administrator agreed and the circumstances were prescribed by regulation. Unfortunately, the Regulation has not yet prescribed such circumstances. It can only be hoped that a revised regulation does follow in the near future, as it is likely that spouses will be able to generate a higher retirement income from a well managed pension plan than options 2 & 3 above. A spouse will want to know when it is that he or she will be able to draw funds from the locked in retirement asset to which the lump sum transfer has been paid. The pension plan administrator will be able to provide this information, since the terms of the pension plan will affect this and it may differ from case to case.
+
+**Division of Pension Income for Pensions in Pay**
+
+Where spouses separate after the retirement of a spouse holding an interest in a pension, no lump sum payment out of the pension plan is available. Instead, pursuant to Sections 10.1(5) of the FLA and 67.4 of the PBA, the parties may divide the income stream into two pensions.
+
+Section 10.1(5) does not include the discretion structuring provisions which are found in Section 10.1(4) for lump sum transfers. Discretion is implied in Section 10.1(5) by the use of the term “may”, but there is no guidance as to when, in what circumstances or why. Presumably, one can make reference to the same policy considerations as prompted the 10.1(4) provisions (which support sensible retirement planning for both spouses and tie the settlement to the assets which underlie the equalization obligation). In other words, a spouse with a pension interest should be able to meet an equalization obligation out of the pension itself before being required to liquidate another asset.
+
+Bill 133 was enacted to remedy (among other problems) the dilemma faced by the pension holder who must pay a cash EP, where that obligation is directly connected to the value of a pension interest, notwithstanding the fact that the pension asset itself cannot be converted into cash to enable the payment to be made. Since a lump sum transfer is not available as a method of settlement with a pension in pay, the default settlement method for sharing the value of a pension in pay should be the division of the pension income, except in exceptional circumstances.
+
+The pension income to be diverted to the spouse can be described as a dollar amount or as a proportion of the regular pension income instalments which the member is receiving. Either way the resulting amount must comply with the 50% rule which creates a cap on the amount of income that can be diverted.
+
+The pension will be paid in two income streams, one to the member and one to the spouse, of their respective interests, until the member dies. Thereafter, the spouse will receive the survivor benefit, unless the spouse has chosen to waive it (a possible component of an EP settlement in a separation agreement).
+
+**_NOTE_**: In the absence of a clear provision to the contrary, the pension plan administrator will automatically adjust to credit the spouse of the pension member for the pension payments that were not divided in the period between the date of separation and the date the final settlement is eventually implemented. Caution must be taken in drafting agreements and orders in those situations where spousal support has been paid after separation and up to the pension income division, to ensure that the member does not effectively pay twice during this period of time.
+
+It is an option for the parties to enter into an agreement which involves a spouse waiving the joint and survivor benefit and merge that interest with the spouse’s share of the member’s interest into a single pension which continues for the spouse’s lifetime (it does not end when the member dies). This option cannot be employed without the consent of the plan administrator.
+
+**Revaluation of Pension after Transfer or Division**
+
+Upon a transfer or division being made, the administrator must adjust the value of the pension payable to the member. If a lump sum transfer or an income division is made, the pension value and hence future pension income of the member is adjusted following prescribed rules.
+
+#### DIVISION OF PENSION INTERESTS ACCRUING OUTSIDE OF MARRIAGE
+
+Where unmarried spouses consent by domestic contract, the spouse without a pension may apply for a lump sum transfer out of the member’s pension or, if the pension is already in pay, for a division of the pension income.
+
+This will occur only in those limited circumstances in which unmarried spouses choose to share pension value even though this cannot be compelled against the wishes of a spouse with a pension interest. For example, a common law spouse who faces an indefinite spousal support obligation, may chose to divert pension income under the PBA provisions. Or a spouse facing a strong trust claim may choose to settle it by either lump sum transfer or pension division, as the case may be.
+
+The parties would, in their agreement, designate the dates for the commencement and end of their cohabitation. Only the member may apply for a statement of value.
+
+Married spouses can also avail themselves of the PBA provisions to expand the period of accrual of pension value so as to include a period of cohabitation prior to marriage, but they cannot be compelled to do so.
+
+#### TRANSITION ISSUES
+
+**Existing “If and When” Provisions**
+
+Since January 1, 2012, pension plans no longer are obliged to implement any new “if and when” agreements or orders. Existing agreements and orders (made before 2012) continue to be honoured. However, some old “if and when” agreements or orders contained poorly drafted provisions that made them difficult to put into force. To address these problems, section 67.6 of the PBA was created. It permits an amendment or variation to be made after January 1, 2012 “to facilitate or effect the division of the party’s interest” in a pension. Such an amendment or variation does not bring the old agreement or order into the new regime, such that the new methods of valuation or settlement can apply. It is not possible to convert an old “if and when” into a lump sum transfer from the pension.
+
+#### IN CONCLUSION
+
+The Bill 133 reforms have introduced some welcome changes to this vexing aspect of property division on marriage breakdown, particularly in widening the options for settlement of an equalization entitlement. However, there is still uncertainty as to the application of discretion rules in selecting a method of settlement, and that is likely to persist until caselaw clarifies the rules. In the meantime, many spouses are receiving divergent opinions from their lawyers and this creates obstacles to settlement. The codification of the method of determining the value of pensions is also helpful, but is not the very simple, all inclusive determination that was hoped for, or that might have come with a completely different model (Deferred Settlement, i.e. division if and only when in pay). Valuation of pensions remains a process that may involve considerable costs in ascertaining those components of value that fall outside of the PBA.  
+  
+**Wendela M. Napier, CAW Legal Services Plan  
+This is an updated and expanded version of a paper originally prepared for the Ontario Bar Association's "Bread and Butter" Issues in Family Law II, September 16, 2011.**
