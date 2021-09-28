@@ -163,4 +163,46 @@ With certain limitations, parties remain free to settle their equalization diffe
    2. a division of the pension income
    3. a combination of part cash and pension income division (as in 1 & 2 above);
 
-A transfer of a lump sum is not available when the pension is in pay on the date of separation and a division of pension income is not available unless the pension is in pay on the date of separation.
+\**A transfer of a lump sum is not available when the pension is in pay on the date of separation and a division of pension income is not available unless the pension is in pay on the date of separation.
+
+\**Note that income divisions must follow the prescribed rules under the Regulations. No further “if and when” divisions, as took place under the FLA prior to the amendments, are permitted for orders or agreements dated after December 31, 2011.
+
+No settlement option involving the pension can be implemented without first obtaining the Statement of Family Law Value. Even when agreeing to divide the pension income, obtaining the SFLV first is a prerequisite.
+
+#### DISCRETION TO DETERMINE THE METHOD OF PAYMENT
+
+**Lump Sum Transfer for Pensions not in pay**
+
+The broadest area of discretion in the entire new regime lies in how to settle an equalization entitlement. This may be the area which generates the most uncertainty and hence conflict at least until some guidance is developed in the caselaw.
+
+Section 10.1(4) of the FLA lays out the following five governing factors regarding when to employ a lump sum transfer:
+
+1. the nature of the assets available to each spouse at the time of the hearing;
+2. the proportion of the spouse’s net family property that consists of the imputed value, for family law purposes, of his or her interest in the pension plan;
+3. the liquidity of the lump sum in the hands of the spouse to whom it would be transferred;
+4. any contingent tax liabilities in respect of the lump sum that would be transferred;
+5. the resources available to each spouse to meet his or her needs in retirement and the desirability of maintaining those resources.
+
+This list is not exhaustive as the section specifically allows for consideration of “such other matters as the court considers appropriate”.
+
+This section allows much room for debate and delivers new tools to ensure certain policy considerations become a factor. For example, it is clear that a spouse does not have to be stripped of all liquid assets to make an EP, and that, where a pension’s value makes up a significant proportion of a spouse’s NFP, there should be a proportional funding of the EP out of the pension.
+
+This new settlement tool places behind us the era during which a pension holding spouse must give up substantial liquid assets (often including a share of a matrimonial home) in order to meet the obligations that arise from the value of a pension. It is no longer the case that a cash EP is the default rule. In fact, it would be fair and in keeping with the language of s. 10.1(4) to assume that the pension’s value should routinely be shared using a lump sum transfer, unless unusual circumstances exist. Most spouses in an intact marriage view a pension as a source of future income security when the couple retires. Now that the pension itself can be more easily shared, there is no reason that each of them should not treat the resulting divided asset (the diminished pension for the pension holder and the locked in retirement vehicle for the spouse) as being earmarked for the same purpose, their individual sources of retirement income. While many spouses are leery of anything except a cash payment, they can come to appreciate the benefits of this future planning. From a public policy perspective, the news has been full of the concerns that Canadians do not save adequately for their retirements and that many face poverty when they leave the workforce. Furthermore, the pressures of demographic change are expected to leave the state increasingly unable to meet the needs of older citizens. The caselaw relating to the exercise of discretion in pension division will hopefully evolve to make a small but positive difference to the lives of individual spouses as well as the country’s fiscal health.
+
+Furthermore, the lump sum transfer can be used to ensure rational retirement planning for both spouses, which is a particularly important factor where there is a prospect of spousal support continuing beyond retirement. This may be a useful tool to avoid a future double dipping dispute.
+
+If there is a concern that the value assigned to the pension is not fair, for any of the reasons mentioned earlier in this paper, there is ample support in the language of this section for an insistence on payment by lump sum transfer in proportion to the pension value as it relates to the total NFP.
+
+The Pension Benefits Act sets out the requirements for a lump sum transfer, which can be made pursuant to an order, domestic contract or arbitration agreement.
+
+The Pension Benefits Act sets out the requirements for a lump sum transfer, which can be made pursuant to an order, domestic contract or arbitration agreement.
+
+The amount to be paid must be set out as either a dollar amount or described as a proportion of the value of the pension interest.
+
+Under s. 67.3(2) of the PBA and s. 27 of the Regulations, the lump sum must go into one of the following:
+
+1. another pension plan;
+2. a life income fund (LIRA);
+3. a locked-in retirement account (RSP).
+
+The Act contemplated a further option, that the lump sum could in fact be retained in the pension plan to the credit of the spouse, if the administrator agreed and the circumstances were prescribed by regulation. Unfortunately, the Regulation has not yet prescribed such circumstances. It can only be hoped that a revised regulation does follow in the near future, as it is likely that spouses will be able to generate a higher retirement income from a well managed pension plan than options 2 & 3 above. A spouse will want to know when it is that he or she will be able to draw funds from the locked in retirement asset to which the lump sum transfer has been paid. The pension plan administrator will be able to provide this information, since the terms of the pension plan will affect this and it may differ from case to case.
