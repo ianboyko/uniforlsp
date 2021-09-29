@@ -79,7 +79,7 @@ menu:
 
 #### Articles
 
-* [The Duty to Settle](/pdf/2016%20The%20Duty%20to%20Settle.pdf)
+* [The Duty to Settle](/documents/litigation/ART/ART-duty/) [(or PDF)](/pdf/2016%20The%20Duty%20to%20Settle.pdf)
 
 #### But for the Plan
 
