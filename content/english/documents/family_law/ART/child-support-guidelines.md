@@ -24,3 +24,5 @@ Brampton Office
 905-790-6400  
 or  
 1-877-332-2444_
+
+> _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
