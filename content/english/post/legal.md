@@ -83,7 +83,7 @@ menu:
 
 #### But for the Plan
 
-* [But for The Plan (Debts: Saved by the Limitation Act)](/pdf/But%20for%20the%20Plan%202016%20Ron-Debts_Saved%20by%20Limitation%20Act.pdf)
+* [But for The Plan (Debts: Saved by the Limitation Act)](/documents/litigation/BFTP/BFTP-debts/) [(or PDF)](/pdf/But%20for%20the%20Plan%202016%20Ron-Debts_Saved%20by%20Limitation%20Act.pdf)
 
 ### Motor Vehicle
 
