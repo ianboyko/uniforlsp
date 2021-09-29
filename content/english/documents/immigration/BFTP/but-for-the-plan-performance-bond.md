@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-bond"
 summary = ""
 title = "But for The Plan (Performance Bond)"
