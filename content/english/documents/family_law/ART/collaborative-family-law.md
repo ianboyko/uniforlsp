@@ -33,4 +33,4 @@ Brampton and Metro Offices
 905-790-6400 or 416-491-121173
 
 Note:  
-Ms. Napier is a member of the Collaborative Family Law Association of Peel Halton and the Toronto Collaborative Association. See collaborativepracticetoronto.com for more information, a list of lawyers, a sample contract and “ground rules”.
+Ms. Napier is a member of the Collaborative Family Law Association of Peel Halton and the Toronto Collaborative Association. See [collaborativepracticetoronto.com](https://collaborativepracticetoronto.com) for more information, a list of lawyers, a sample contract and “ground rules”.
