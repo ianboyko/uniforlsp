@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-debts"
 summary = ""
 title = "But for The Plan (Debts: Saved by the Limitation Act)"
