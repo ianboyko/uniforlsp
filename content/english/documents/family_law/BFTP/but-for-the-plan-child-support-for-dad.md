@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-dad"
 summary = ""
 title = "But for The Plan (Child Support for Dad)"
