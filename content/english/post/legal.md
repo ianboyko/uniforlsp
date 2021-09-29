@@ -65,7 +65,7 @@ menu:
 * [But for The Plan (Separation Agreements - Subsequent Events May Affect the Original Obligations)](/documents/family_law/BFTP/BFTP-separation/) [(or PDF)](/pdf/But%20for%20the%20Plan%202019%20Ron%20-%20Sep%20Agreee%20-%20Subsequent%20Events%20May%20Affect.pdf)
 * [But for The Plan (Clearing Up Pension and Bankruptcy Issues)](/documents/family_law/BFTP/BFTP-clearing/) [(or PDF)](/pdf/But%20for%20the%20Plan%202015%20Paul%20Family%20Law.pdf)
 * [But for The Plan (Child Support - From Self-Represented Litigant to Believer in the Plan)](/documents/family_law/BFTP/BFTP-self/) [(or PDF)](/pdf/But%20for%20the%20Plan%202014%20Wendy%20Child%20Support.pdf)
-* [But for The Plan (The Single Dad and the College Student)](/pdf/But%20for%20the%20Plan%20April%202011.pdf)
+* [But for The Plan (The Single Dad and the College Student)](/documents/family_law/BFTP/BFTP-single/) [(or PDF)](/pdf/But%20for%20the%20Plan%20April%202011.pdf)
 * [But for The Plan (Child Support for Dad)](/pdf/But%20for%20the%20Plan%202009%20John.pdf)
 * [But for The Plan (Child Support for Older Children)](/pdf/But%20for%20the%20Plan%20September%20Wendy%202008.pdf)
 * [But for The Plan (Matrimonial Swimming Pool)](/pdf/But%20for%20the%20Plan%20November%202008.pdf)
