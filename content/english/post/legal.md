@@ -58,7 +58,7 @@ menu:
 * [Child Support Guidelines](/documents/family_law/ART/ART-child/) [(or PDF)](/pdf/Child%20Support%20Guidelines%202012.pdf)
 * [Limited Retainer Agreements](/documents/family_law/ART/ART-limited/) [(or PDF)](/pdf/2012%20John%20Limited%20Retainer.pdf)
 * [Collaborative Family Law](/documents/family_law/ART/ART-collaborative/) [(or PDF)](/pdf/Collaborative%20Family%20Law.pdf)
-* [Separating From Your Spouse: Matters to Consider](/pdf/Separating%20From%20Spouse%20Matters%20to%20Consider.pdf)
+* [Separating From Your Spouse: Matters to Consider](/documents/family_law/ART/ART-separating/) [(or PDF)](/pdf/Separating%20From%20Spouse%20Matters%20to%20Consider.pdf)
 
 #### But for the Plan
 
