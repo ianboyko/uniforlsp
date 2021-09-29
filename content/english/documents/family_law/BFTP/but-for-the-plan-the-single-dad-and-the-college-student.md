@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-single"
 summary = ""
 title = "But for The Plan (The Single Dad and the College Student)"
