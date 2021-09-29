@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-pool"
 summary = ""
 title = "But for The Plan (Matrimonial Swimming Pool)"
