@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-access"
 summary = ""
 title = "But for The Plan (Grandparent Access Rights)"
