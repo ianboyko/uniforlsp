@@ -15,7 +15,7 @@ The Child Support Guidelines were amended, **effective January 1, 2012**, to cha
 
 The law has also changed to require the annual production of income tax returns, to facilitate annual review and adjustment of child support payments. Failure to produce this proof of income can give rise to a claim for a retroactive support increase.
 
-Information on the law relating to child support is available from the Ontario government’s website: (www.attorneygeneral.jus.gov.on.ca)[www.attorneygeneral.jus.gov.on.ca]  
+Information on the law relating to child support is available from the Ontario government’s website: [(www.attorneygeneral.jus.gov.on.ca)](www.attorneygeneral.jus.gov.on.ca)
   
  For advice relating to your personal support obligation or entitlement, call your CAW Legal Services Plan office and ask to speak to a family law lawyer.
 
