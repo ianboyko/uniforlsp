@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-clearing"
 summary = ""
 title = "But for The Plan (Clearing Up Pension and Bankruptcy Issues)"
