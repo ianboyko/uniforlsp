@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-separation"
 summary = ""
 title = "But for The Plan (Separation Agreements - Subsequent Events May Affect the Original Obligations)"
