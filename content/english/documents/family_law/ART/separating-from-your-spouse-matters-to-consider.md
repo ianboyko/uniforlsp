@@ -40,3 +40,5 @@ You should review any arrangement whereby you may be responsible to your spouse 
 Wendala M. Napier  
 Managing Lawyer  
 Brampton Office
+
+> _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
