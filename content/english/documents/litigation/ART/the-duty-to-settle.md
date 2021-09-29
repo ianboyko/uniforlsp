@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "ART-duty"
 summary = ""
 title = "The Duty to Settle"
