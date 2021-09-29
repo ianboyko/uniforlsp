@@ -33,3 +33,5 @@ Brampton and Metro Offices
 
 Note:  
 Ms. Napier is a member of the Collaborative Family Law Association of Peel Halton and the Toronto Collaborative Association. See [collaborativepracticetoronto.com](https://collaborativepracticetoronto.com) for more information, a list of lawyers, a sample contract and “ground rules”.
+
+> _Disclaimer: This article is intended for general information only and not to provide specific legal advice. There is no attorney-client relationship established by reading this article. It does not replace competent legal advice from a lawyer who is licensed to practice in your jurisdiction._
