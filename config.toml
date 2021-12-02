@@ -71,7 +71,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # github = "username"
   # gitlab = "username"
   # bitbucket = "username"
-  email = "information@uniforlsp.com"
+  # email = "information@uniforlsp.com"
 
 
 [[Params.widgets.social.custom]]
