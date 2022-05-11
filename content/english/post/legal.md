@@ -124,6 +124,7 @@ menu:
 
 #### But for the Plan
 
+* [But for The Plan (Check Property Ownership Documentation NOW!)](/documents/wills_estates/BFTP/BFTP-ownership/) [(or PDF)](/uploads/bftp-ownership.pdf)
 * [But for the Plan (Lost Will Validated: $300,000 Charitable Gift Saved)](/pdf/But%20for%20the%20Plan,%20Reaume,%20Lost%20Will%20Validated%20for%20April%202021%20Committee%20Meeting.pdf)
 * [But for the Plan (Estate Work Costs Much Less at the Plan)](/pdf/But%20for%20the%20Plan%202013%20Ted.pdf)
 * [But for the Plan (Making a Will? Check the Title to Your Real Estate)](/pdf/but%20for%20the%20Plan%202017%20George%20Vona%20Wills%20and%20Estates.pdf)
