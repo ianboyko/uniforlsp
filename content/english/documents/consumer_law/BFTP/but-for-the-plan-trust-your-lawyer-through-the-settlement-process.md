@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-settlement"
 summary = ""
 title = "But for The Plan (Trust Your Lawyer Through the settlement process)"
