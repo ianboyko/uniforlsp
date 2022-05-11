@@ -24,6 +24,7 @@ menu:
 
 #### But for the plan
 
+* [But for The Plan (Trust Your Lawyer Through the Settlement Process)](/documents/consumer_law/BFTP/BFTP-settlement/) [(or PDF)](/uploads/bftp-settlement.pdf)
 * [But for The Plan (Collection Agency Letters-Don 't Take Them at Face Value)](/documents/consumer_law/BFTP/BFTP-collection/) [(or PDF)](/pdf/2018%20Jonathon%20-%20Collection%20Agency%20Letters.pdf)
 * [But for The Plan (Trailer Parks in the United States - Sometimes a Canadian Lawyer Can Help)](/documents/consumer_law/BFTP/BFTP-trailer/) [(or PDF)](/pdf/BUT%20FOR%20THE%20PLAN,%20Trailer%20Parks%20in%20the%20United%20States.pdf)
 * [But for The Plan (Renovation Issues and Contractors Who Walk Away)](/documents/consumer_law/BFTP/BFTP-renovation/) [(or PDF)](/pdf/BUT%20FOR%20THE%20PLAN%202019%20Bill%20-%20Renovation%20Issues.pdf)
