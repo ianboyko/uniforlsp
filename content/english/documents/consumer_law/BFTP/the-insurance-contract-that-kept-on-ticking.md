@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 slug = "BFTP-ticking"
 summary = ""
 title = "The Insurance Contract That “Kept On Ticking”"
