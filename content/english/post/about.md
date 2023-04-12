@@ -137,7 +137,7 @@ The Unifor Legal Services Plan is funded by contributions from the Corporate Spo
 * PepsiCo Foods Canada Inc.
 * Qualtech Seating
 * Securitas Canada Limited
-* TRW Kelsey-Hayes Canada
+* ZF(TRW Kelsey-Hayes Canada)
 * Unifor
 * Windsor Modules
 
