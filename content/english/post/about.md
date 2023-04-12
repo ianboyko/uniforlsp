@@ -40,7 +40,7 @@ Staff Offices are law offices owned and operated by the Plan. Eligible Participa
 ### Head Office
 
 Suite 600  
-1 St. Clair Avenue East  
+1 St. Clair Avenue West  
 Toronto, Ontario  
 M4V 3C3  
 (416) 960-2410  
