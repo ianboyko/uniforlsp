@@ -95,3 +95,225 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
 
+  - name: 'family_law'
+    label: 'Family Law'
+    folder: 'content/english/documents/family_law/BFTP'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'family_law_art'
+    label: 'Family Law-art'
+    folder: 'content/english/documents/family_law/ART'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+  - name: 'immigration'
+    label: 'Immigration'
+    folder: 'content/english/documents/immigration/BFTP'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'immigration_art'
+    label: 'Immigration-art'
+    folder: 'content/english/documents/immigration/ART'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+  - name: 'litigation'
+    label: 'Litigation'
+    folder: 'content/english/documents/litigation/BFTP'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'litigation_art'
+    label: 'Litigation-art'
+    folder: 'content/english/documents/litigation/ART'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+  - name: 'motor_vehicle'
+    label: 'Motor Vehicle'
+    folder: 'content/english/documents/motor_vehicle/BFTP'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'motor_vehicle_art'
+    label: 'Motor Vehicle-art'
+    folder: 'content/english/documents/motor_vehicle/ART'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+  - name: 'real_estate'
+    label: 'Real Estate'
+    folder: 'content/english/documents/real_estate/BFTP'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'real_estate_art'
+    label: 'Real Estate-art'
+    folder: 'content/english/documents/real_estate/ART'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+  - name: 'wills_estates'
+    label: 'Wills Estates'
+    folder: 'content/english/documents/wills_estates/BFTP'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'wills_estates_art'
+    label: 'Wills Estates-art'
+    folder: 'content/english/documents/wills_estates/ART'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
