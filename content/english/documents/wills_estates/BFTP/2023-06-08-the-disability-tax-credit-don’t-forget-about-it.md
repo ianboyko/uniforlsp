@@ -5,7 +5,7 @@ description: The Disability Tax Credit
 summary: The Disability Tax Credit
 slug: bftp-disability
 translationKey: bftp-disability
-weight: "1"
+weight: "10"
 toc: "false"
 linktitle: bftp-disability
 ---
