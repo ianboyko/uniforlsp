@@ -1,11 +1,13 @@
 ---
 summary: DTC
 toc: "false"
-slug: "bftp-disability"
-title: "The Disability Tax Credit: Do not Forget About It"
+slug: bftp-disability
+title: "The Disability Tax Credit: Do not Forget About It !"
 date: 2023-06-08
 description: The Disability Tax Credit
 translationKey: BFTP-DTC
+weight: "1"
+linktitle: na
 ---
 > **The Disability Tax Credit: Don’t Forget About It**
 
