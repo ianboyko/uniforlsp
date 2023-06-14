@@ -64,7 +64,7 @@ menu:
 * [Separating From Your Spouse: Matters to Consider](/documents/family_law/ART/ART-separating/) [(or PDF)](/pdf/Separating%20From%20Spouse%20Matters%20to%20Consider.pdf)
 
 #### But for the Plan
-* [But for The Plan (Recovering Support Arrears Sometimes Takes Persistence)](/documents/family_law/BFTP/BFTP-recovering support/)
+
 * [But for The Plan (Separation Agreements - Subsequent Events May Affect the Original Obligations)](/documents/family_law/BFTP/BFTP-separation/) [(or PDF)](/pdf/But%20for%20the%20Plan%202019%20Ron%20-%20Sep%20Agreee%20-%20Subsequent%20Events%20May%20Affect.pdf)
 * [But for The Plan (Clearing Up Pension and Bankruptcy Issues)](/documents/family_law/BFTP/BFTP-clearing/) [(or PDF)](/pdf/But%20for%20the%20Plan%202015%20Paul%20Family%20Law.pdf)
 * [But for The Plan (Child Support - From Self-Represented Litigant to Believer in the Plan)](/documents/family_law/BFTP/BFTP-self/) [(or PDF)](/pdf/But%20for%20the%20Plan%202014%20Wendy%20Child%20Support.pdf)
@@ -132,7 +132,7 @@ menu:
 * [But for the Plan (Estate Work Costs Much Less at the Plan)](/pdf/But%20for%20the%20Plan%202013%20Ted.pdf)
 * [But for the Plan (Making a Will? Check the Title to Your Real Estate)](/pdf/but%20for%20the%20Plan%202017%20George%20Vona%20Wills%20and%20Estates.pdf)
 * [But for the Plan (Estate Debts - Collection Agency Letters - Limitations Act Defences)](/pdf/BUT%20FOR%20THE%20PLAN%202018%20Michael%20-%20Estate%20Debts.pdf)
-* [But for the Plan (Estates-Estranged Daughter)](/pdf/But%20for%20the%20Plan%202016%20Jonathon-Estates-Estranged%20Daughter.pdf)  \[
+* [But for the Plan (Estates-Estranged Daughter)](/pdf/But%20for%20the%20Plan%202016%20Jonathon-Estates-Estranged%20Daughter.pdf)  [
 * [But for the Plan (Estates-Only the Estate is Obliged to Pay for the Debts of the Deceased)](/pdf/But%20for%20the%20Plan%202016%20Bill%20-%20Estates%20-%20Not%20obliged%20to%20pay%20debts.pdf)
 * [But for the Plan (Estates-The Joint Account May Not Belong to the Named Survivor)](/pdf/But%20for%20the%20Plan%202016%20Bill%20-%20estates%20-%20Joint%20Accounts.pdf)
 * [But for the Plan (Estate Work -  "Probate Fees " Avoided)](/pdf/But%20for%20the%20Plan%202013%20Michael.pdf)
