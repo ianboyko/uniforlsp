@@ -1,14 +1,15 @@
 ---
 title: Recovering Support Arrears Sometimes Takes Persistence
-date: 2023-06-14T19:12:35.301Z
+date: 2023-06-14
 description: Recovering Support Arrears
-summary: Recovering Support Arrears
-slug: BFTP-recovering_support
-translationKey: BFTP-recovering support
+summary: "Recovering Support Arrears"
+slug: bftp-recovering-support
+translationKey: BFTP-recovering-support
 weight: "10"
 toc: "false"
-linktitle: BFTP-recovering support
+linktitle: BFTP-recovering-support
 ---
+
 #### Recovering Support Arrears Sometimes Takes Persistence
 
 Ms. Saint (aptly so‐named for a shift‐working single Mom with 3 children, one of whom had special needs), came into our Windsor Staff Office for a Will and Powers of Attorney. She also wanted a lawyer to commission her affidavit regarding about $4,200 in arrears of child support, owing to her from their father.
