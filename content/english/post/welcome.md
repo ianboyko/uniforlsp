@@ -3,8 +3,8 @@ title: Welcome
 date: 2021-03-08
 description: Introduction to the Unifor Legal Services Plan.
 summary: Introduction to the Unifor Legal Services Plan.
-slug: Welcome
-translationKey: welcome
+slug: WELCOME
+translationKey: WELCOME
 weight: "3"
 toc: "true"
 linktitle: Welcome
