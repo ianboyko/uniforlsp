@@ -335,7 +335,7 @@ collections:
 
 
   - name: 'Welcome pages'
-    label: 'welcomepages'
+    label: 'Home Page English'
     folder: 'content/english/'
     create: false
     editor:
@@ -348,7 +348,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'Welcome pages French'
-    label: 'welcomepagesfrench'
+    label: 'Home Page french'
     folder: 'content/french/'
     create: false
     editor:
