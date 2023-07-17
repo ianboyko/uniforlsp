@@ -1,13 +1,18 @@
 ---
-title: Home
-description: Introduction to the Unifor Legal Services Plan.
+title: tHome
 date: 2021-03-08
-weight: "1"
+description: Introduction to the Unifor Legal Services Plan.
+summary: Welcome! The Unifor Legal Services Plan exists to provide quality
+  personal legal services at affordable prices to eligible members of Unifor and
+  to their spouses and dependents.
+slug: home
 translationKey: home
+weight: "1"
+toc: "TRUE"
+linktitle: home
 menu:
   main:
     weight: 1
-
 ---
 
 Welcome! The Unifor Legal Services Plan exists to provide quality personal legal services at affordable prices to [eligible members](/post/faq/#4-who-is-eligible) of Unifor and to their spouses and dependents.
