@@ -334,3 +334,15 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
 
+  - name: 'Welcome pages'
+    label: 'welcomepage'
+    folder: 'content/english/'
+    create: false
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
