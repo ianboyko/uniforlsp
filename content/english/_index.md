@@ -1,5 +1,5 @@
 ---
-title: Home
+title: tHome
 date: 2021-03-08
 description: Introduction to the Unifor Legal Services Plan.
 summary: Welcome! The Unifor Legal Services Plan exists to provide quality
