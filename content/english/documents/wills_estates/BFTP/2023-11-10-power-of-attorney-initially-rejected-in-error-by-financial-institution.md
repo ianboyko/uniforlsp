@@ -31,6 +31,6 @@ Less than a month later, the financial institution (albeit reluctantly) accepted
 
 But for the Plan, would our client have bothered to pursue the rejection, or would all three of her children have just agreed to the major inconvenience of attending together, every time?
 
-Submitted by Michael Maddalena
-Managing Lawyer,
+Submitted by Michael Maddalena, 
+Managing Lawyer,  
 St. Catharines Office
