@@ -23,16 +23,13 @@ Our now distraught client contacted us for help. Michael Maddalena, the Managing
 
 > *“This clause has been part of our standard precedent for many years, and we have never encountered any difficulty with it, until now.”*
 
-Michael also explained that this was a matter of legal interpretation, not branch policy or discretion, and
-asked that the matter be referred to their legal counsel for clarification.\
+Michael also explained that this was a matter of legal interpretation, not branch policy or discretion, and asked that the matter be referred to their legal counsel for clarification.
 
-Less than a month later, the financial institution (albeit reluctantly) accepted the authority conferred by
-the POA document.
+Less than a month later, the financial institution (albeit reluctantly) accepted the authority conferred by the POA document.
 
 > *"**One lawyer’s letter did the trick!**"*
 
-But for the Plan, would our client have bothered to pursue the rejection, or would all three of her
-children have just agreed to the major inconvenience of attending together, every time?
+But for the Plan, would our client have bothered to pursue the rejection, or would all three of her children have just agreed to the major inconvenience of attending together, every time?
 
 Submitted by Michael Maddalena
 Managing Lawyer,
