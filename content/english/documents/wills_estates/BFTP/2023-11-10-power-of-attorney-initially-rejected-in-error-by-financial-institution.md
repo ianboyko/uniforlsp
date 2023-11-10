@@ -32,7 +32,7 @@ the POA document.
 > *"**One lawyer’s letter did the trick!**"*
 
 But for the Plan, would our client have bothered to pursue the rejection, or would all three of her
-children have just agreed to the major inconvenience of attending together, every time?\
+children have just agreed to the major inconvenience of attending together, every time?
 
 Submitted by Michael Maddalena
 Managing Lawyer,
