@@ -127,7 +127,7 @@ menu:
 
 #### But for the Plan
 
-* [﻿But for The Plan (Power of Attorney Initially Rejected - in Error- By Financial Institution)](/documents/wills_estates/BFTP/bftp-poa/)
+* [﻿But for The Plan (Power of Attorney Initially Rejected - in Error- By Financial Institution)](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-poa/)
 * [But for The Plan (The Disability Tax Credit: Don’t Forget About It)](/documents/wills_estates/BFTP/bftp-disability/)
 * [But for The Plan (Check Property Ownership Documentation NOW!)](/documents/wills_estates/BFTP/BFTP-ownership/) [(or PDF)](/uploads/bftp-ownership.pdf)
 * [But for the Plan (Lost Will Validated: $300,000 Charitable Gift Saved)](/pdf/But%20for%20the%20Plan,%20Reaume,%20Lost%20Will%20Validated%20for%20April%202021%20Committee%20Meeting.pdf)
