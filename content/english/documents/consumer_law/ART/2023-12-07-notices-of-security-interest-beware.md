@@ -9,8 +9,6 @@ weight: "10"
 toc: "false"
 linktitle: art-nosi
 ---
-**NOTICES OF SECURITY INTEREST: BEWARE**
-
 **Do Not Sign Any Contracts From Door-to-Door Salespeople**
 
 I hope that this alerts you to the abuse of a legal device that is often used by door to door scammers.  The legal name of this device is: Notice of Security Interest.( NOSI for short).  They can be registered on the title to your home . The NOSI advises anyone  searching your title that a third party owns  equipment or materials attached to your home such as a furnace, or even a hot water tank.  The NOSI then forms a lien on your title.
