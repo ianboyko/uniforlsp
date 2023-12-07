@@ -9,7 +9,7 @@ weight: "10"
 toc: "false"
 linktitle: art-nosi
 ---
-> **NOTICES OF SECURITY INTEREST: BEWARE**
+ **NOTICES OF SECURITY INTEREST: BEWARE**
 
 **Do Not Sign Any Contracts From Door-to-Door Salespeople**
 
