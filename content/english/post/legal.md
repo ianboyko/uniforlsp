@@ -120,7 +120,6 @@ menu:
 
 #### Articles
 
-* [Estates - Plan Coverage](/pdf/Estates%20Plan%20Coverage%202018,%20July%201st%20revision.pdf)
 * [A Practical Guide for Planning Your Will](/pdf/A%20practical%20guide%20for%20planning%20your%20will.pdf)
 * [Instructions to Wills Clients](/pdf/01.Instructions%20to%20Will%20Clients%202018.pdf)
 * [Instructions to Estate Trustees](/pdf/Instructions%20to%20estate%20trustees.pdf)
