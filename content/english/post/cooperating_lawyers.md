@@ -16,7 +16,7 @@ Canadian lawyers (as well as Quebec notaries) who are considering affiliation wi
 
 If you would like to become a Co-operating Lawyer, please complete and sign two (2) copies of the Agreement and two (2) copies of Appendix "A" and return them by fax or mail to our [Head Office](/post/about/#head-office). One copy will be returned to you once it has been signed at this office.  
 
-* [Co-operating lawyer agreement](/img/2024-co-operating-lawyer-agreement.pdf)
-* [Benefit schedule](/img/benefit-schedule.pdf)
+* [Co-operating Lawyer Agreement](/img/2024-co-operating-lawyer-agreement.pdf)
+* [Benefit Schedule](/img/benefit-schedule.pdf)
 
 The Plan has more than 700 Co-operating Lawyers and Notaries in locations across the country. For further information [contact us](/post/about/#contact-us) or call 1-800-268-7573.
