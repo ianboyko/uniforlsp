@@ -142,6 +142,7 @@ The Unifor Legal Services Plan is funded by contributions from the Corporate Spo
 * ZF(TRW Kelsey-Hayes Canada)
 * Unifor
 * Windsor Modules
+* Hitachi ABB Power Grids
 
 <!-- ### Co-operating lawyers
 
