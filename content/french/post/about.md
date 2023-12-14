@@ -1,17 +1,14 @@
 ---
 title: A propos
-linktitle: A propos
-# description: About Unifor Legal Services 
 date: 2021-05-06
-# categories:
-#   - ""
-# tags:
-#   - ""
-menu: main
-weight: 3
+description: A propos
+summary: A propos
+slug: about
 translationKey: about
+weight: 3
 toc: true
-
+linktitle: A propos
+menu: main
 ---
 
 ### A propos
@@ -149,11 +146,13 @@ Le Régime de services juridiques UNIFOR est financé par les contributions des 
 
 - Securitas Canada Limited  
 
-- TRW Kelsey-Hayes Canada  
+- ZF(TRW Kelsey-Hayes Canada)
 
 - Unifor  
 
-- Windsor Modules   
+- Windsor Modules
+
+- Hitachi ABB Power Grids
 
   
 
