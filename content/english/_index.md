@@ -28,6 +28,7 @@ The material included on the Unifor Legal Services Plan website (uniforlsp.com) 
 
 [Download here](/pdf/privacy_policy-en.pdf).
 
-## Customer service accessibility policy
+## Accessibility
 
-[Download here](/pdf/Customer%20Service%20Accessibility%20Policy-en.pdf).
+[Accessibility Plan.](/pdf/Customer%20Service%20Accessibility%20Policy-en.pdf)
+[Accessibility Plan](/pdf/Customer%20Service%20Accessibility%20Policy-en.pdf).
