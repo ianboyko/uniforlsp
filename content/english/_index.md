@@ -30,5 +30,5 @@ The material included on the Unifor Legal Services Plan website (uniforlsp.com) 
 
 ## Accessibility
 
-[Accessibility Plan.](/pdf/Customer%20Service%20Accessibility%20Policy-en.pdf)
+[Accessibility Plan.](/img/2024-co-operating-lawyer-agreement.pdf)
 [Accessibility Plan](/pdf/Customer%20Service%20Accessibility%20Policy-en.pdf).
