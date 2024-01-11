@@ -31,5 +31,3 @@ The material included on the Unifor Legal Services Plan website (uniforlsp.com) 
 ## Accessibility
 
 [Accessibility Plan 2024](/img/uniforlsp-2024-multi-year-accessibility-plan.pdf).
-
-[Accessibility Plan](/pdf/Customer%20Service%20Accessibility%20Policy-en.pdf).
