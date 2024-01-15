@@ -111,11 +111,11 @@ The Plan welcomes any feedback and/or questions regarding this policy. Any compl
 
 **Individuals may contact the Plan in person, by phone, in writing, or by email as follows:** 
 
->**Jennifer Kalant, LL.B.**  
-**Assistant to the Executive Director**  
-**Suite 600 ‐ 1 St. Clair Ave. West**  
-**Toronto ON M4V 3C3**  
-**Phone: 1‐800‐268‐7573 or 416‐960‐2410**  
-**Email: jkalant@uniforlsp.com**  
+>**Jennifer Kalant, LL.B.**\
+**Assistant to the Executive Director**\
+**Suite 600 ‐ 1 St. Clair Ave. West**\
+**Toronto ON M4V 3C3**\
+**Phone: 1‐800‐268‐7573 or 416‐960‐2410**\
+**Email: jkalant@uniforlsp.com**\
 
 *January 2024*
