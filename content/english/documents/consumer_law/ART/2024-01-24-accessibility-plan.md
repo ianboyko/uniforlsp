@@ -17,11 +17,11 @@ Unifor Legal Services Plan is committed to compliance with the provisions of the
 
 This policy does not apply outside of Ontario.
 
-### Statement of Commitment
+#### Statement of Commitment
 
 > The Plan is committed to maintaining an accessible environment for persons with disabilities in the delivery of its services and treating all people in a way that allows them to maintain their dignity and independence. We will do so by preventing and removing barriers to accessibility and complying with the AODA and its Regulations.
 
-### Accessible Client Service
+#### Accessible Client Service
 
 The Plan will use reasonable efforts to ensure that its services to persons with disabilities are consistent with the following principles:
 
@@ -37,11 +37,11 @@ The Plan will use reasonable efforts to ensure that its services to persons with
 * Ensure that persons with disabilities who are accompanied by a service animal are permitted to enter the premises with the animal unless the animal is excluded by law from the premises. If the animal is excluded by law, the Plan will provide arrangements to the person with a disability to access Plan services.
 * Ensure that persons with disabilities who are accompanied by a support person are permitted to enter Plan premises with their support person and have access to their support person unless it is determined that a conflict of interest will arise. 
 
-### Notice of Temporary Disruption
+#### Notice of Temporary Disruption
 
 The Plan will notify clients in the event of a planned or unexpected disruption in the facilities usually used by persons with disabilities. This notice will include any known information about the reason for the disruption, its anticipated duration, if known and any available alternative, if available. Notice will be communicated by such means as is reasonable in the circumstances.
 
-### Accessible Emergency Information
+#### Accessible Emergency Information
 
 The Plan will provide clients with publicly available emergency information in an accessible format upon request. We will develop and maintain individualized emergency response information for employees with disabilities if this information is necessary and the Plan has been made aware of the need for such an accommodation due to the employee’s disability.
 
@@ -111,11 +111,11 @@ The Plan welcomes any feedback and/or questions regarding this policy. Any compl
 
 **Individuals may contact the Plan in person, by phone, in writing, or by email as follows:** 
 
->**Jennifer Kalant, LL.B.**\
-**Assistant to the Executive Director**\
-**Suite 600 ‐ 1 St. Clair Ave. West**\
-**Toronto ON M4V 3C3**\
-**Phone: 1‐800‐268‐7573 or 416‐960‐2410**\
-**Email: jkalant@uniforlsp.com**\
+> **Jennifer Kalant, LL.B.**\
+> **Assistant to the Executive Director**\
+> **Suite 600 ‐ 1 St. Clair Ave. West**\
+> **Toronto ON M4V 3C3**\
+> **Phone: 1‐800‐268‐7573 or 416‐960‐2410**\
+> **Email: jkalant@uniforlsp.com**\
 
 *January 2024*
