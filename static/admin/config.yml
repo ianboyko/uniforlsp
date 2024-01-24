@@ -19,7 +19,7 @@ collections:
       - { label: 'slug', name: 'slug', widget: 'string' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
       - { label: 'Weight', name: 'weight', widget: 'string'}
-      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Table of Contents', name: 'include_toc', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
