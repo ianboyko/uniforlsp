@@ -6,7 +6,7 @@ summary: Accessibility Plan
 slug: acc-plan
 translationKey: acc-plan
 weight: "10"
-toc: "true"
+toc: "false"
 linktitle: acc-plan
 ---
 ## UNIFOR LEGAL SERVICES PLAN
