@@ -6,12 +6,13 @@ summary: Accessibility Plan
 slug: acc-plan
 translationKey: acc-plan
 weight: "10"
+toc: "false"
 include_toc: "false"
 linktitle: acc-plan
 ---
 ## UNIFOR LEGAL SERVICES PLAN
 
-### Multi‐Year Accessibility Plan
+### Multi‐Year Accessibility Plan and Policies
 
 Unifor Legal Services Plan is committed to compliance with the provisions of the Accessibility for Ontarians with Disabilities Act (“AODA”) and the requirements of the Customer Service Standard Regulation and the Integrated Accessibility Standards Regulation (the “Regulations”)
 
@@ -101,7 +102,7 @@ The Plan will meet the Accessibility Standards for the Design of Public Spaces, 
 ### Policy Access
 
 The Plan will notify persons to whom it provides services of its policies, by posting the information at a conspicuous place on the Plan’s premises, on the Plan’s website or by such method as is reasonable in the circumstances.
-The Plan will provide a copy of this document to persons with a disability when required to do so under this policy. The information in this document will be provided in a format that takes the persons disability into account.
+The Plan will provide a copy of this document to persons with a disability when required to do so under this policy. The information in this document will be provided in a format that takes the person's disability into account.
 Any Plan policy that does not respect and promote the dignity and independence of persons with disabilities will be modified or removed.
 
 ### Contact
@@ -111,11 +112,11 @@ The Plan welcomes any feedback and/or questions regarding this policy. Any compl
 
 **Individuals may contact the Plan in person, by phone, in writing, or by email as follows:** 
 
->**Jennifer Kalant, LL.B.**\
-**Assistant to the Executive Director**\
-**Suite 600 ‐ 1 St. Clair Ave. West**\
-**Toronto ON M4V 3C3**\
-**Phone: 1‐800‐268‐7573 or 416‐960‐2410**\
-**Email: jkalant@uniforlsp.com**\
+> **Jennifer Kalant, LL.B.**\
+> **Assistant to the Executive Director**\
+> **Suite 600 ‐ 1 St. Clair Ave. West**\
+> **Toronto ON M4V 3C3**\
+> **Phone: 1‐800‐268‐7573 or 416‐960‐2410**\
+> **Email: jkalant@uniforlsp.com**\
 
 *January 2024*
