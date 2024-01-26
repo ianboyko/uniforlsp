@@ -32,4 +32,4 @@ The material included on the Unifor Legal Services Plan website (uniforlsp.com) 
 
 [A﻿ccessibility Plan](/documents/consumer_law/ART/acc-plan/)
 
-[Accessibility Plan for PDF](/img/uniforlsp-2024-multi-year-accessibility-plan.pdf)
+[Accessibility Plan for PDF](/img/2024-acc-plan.pdf)
