@@ -6,7 +6,7 @@ summary: Accessibility Plan
 slug: acc-plan
 translationKey: acc-plan
 weight: "10"
-toc: no
+toc: "false"
 include_toc: "false"
 linktitle: acc-plan
 ---
