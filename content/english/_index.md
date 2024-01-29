@@ -24,6 +24,10 @@ The Plan is funded by General Motors of Canada Ltd., Ford Motor Company of Canad
 
 The material included on the Unifor Legal Services Plan website (uniforlsp.com) is for informational purposes only. It is not legal advice, nor should application of Plan eligibility and coverage rules to any particular person or scenario be inferred from information displayed on this website. Persons requiring such information should contact one of our [Intake Centres](/post/about/#staff-offices) which will inform them of their specific coverage entitlements (if any) and refer them to a lawyer of their choosing (if they are eligible for such a referral). The Unifor Legal Services Plan is not responsible for any third party content that is accessible through this website.
 
+## T﻿ax Filing Alert
+
+[Y﻿ou may want to see an accountant or tax preparer for your 2023 taxes](/documents/tax-alert/)
+
 ## Privacy policy
 
 [Download here](/pdf/privacy_policy-en.pdf).
