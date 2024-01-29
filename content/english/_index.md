@@ -25,9 +25,9 @@ The Plan is funded by General Motors of Canada Ltd., Ford Motor Company of Canad
 The material included on the Unifor Legal Services Plan website (uniforlsp.com) is for informational purposes only. It is not legal advice, nor should application of Plan eligibility and coverage rules to any particular person or scenario be inferred from information displayed on this website. Persons requiring such information should contact one of our [Intake Centres](/post/about/#staff-offices) which will inform them of their specific coverage entitlements (if any) and refer them to a lawyer of their choosing (if they are eligible for such a referral). The Unifor Legal Services Plan is not responsible for any third party content that is accessible through this website.
 
 ## T﻿ax Filing Alert
-*  A﻿re you on title to property with you child or your parent?
+*  A﻿re you on title to property with your child or your parent?
 *  A﻿re you on a bank account with your child or your parent?
-*  I﻿f so, you may be required to file a T3 tax return for 2023.\
+*  I﻿f so, you may be required to file a T3 tax return for 2023.
 
 [Y﻿ou may want to see an accountant or tax preparer for your 2023 taxes](/documents/tax-alert/)
 
