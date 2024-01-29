@@ -27,7 +27,7 @@ The material included on the Unifor Legal Services Plan website (uniforlsp.com) 
 ## T﻿ax Filing Alert
 *  A﻿re you on title to property with you child or your parent?
 *  A﻿re you on a bank account with your child or your parent?
-*  I﻿f so, you may be required to file a T3 tax return for 2023.
+*  I﻿f so, you may be required to file a T3 tax return for 2023.\
 
 [Y﻿ou may want to see an accountant or tax preparer for your 2023 taxes](/documents/tax-alert/)
 
