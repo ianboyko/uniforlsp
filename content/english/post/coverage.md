@@ -1,13 +1,14 @@
 ---
-title: Coverage
-date: 2021-03-13
-description: Find out what is covered by the LSP.
 summary: Coverage
+toc: "false"
+title: Coverage
+description: Find out what is covered by the LSP.
 slug: coverage
 translationKey: coverage
-weight: "4"
-toc: "false"
 translationkey: coverage
+date: 2021-03-13
+weight: "4"
+include_toc: "false"
 linktitle: Coverage
 menu:
   main:
@@ -19,7 +20,7 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
 
 ## Entry-Level Benefits
 
-[Download](/pdf/Benefit%20Schedule%20(ENTRY)%202020_01_01.pdf)
+[Download](/img/2024_01-benefit-schedule-entry.pdf)
 
 * Wills and Estates (includes Powers of Attorney)
 * Summary Advice
