@@ -23,7 +23,7 @@ La cédule des bénéfices est une list détaillée des services et des frais. E
   - les transactions immobilieres et appels sont exclus    
 
 ## Forfait "Couverture moyenne" des bénéfices
-[Télécharger](/pdf/FRENCH%20Benefit%20Schedule%20(MID-LEVEL)%202020_01_01.pdf)  
+[Télécharger](/img/2024_01-french-benefit-schedule-mid.pdf)  
 - Testaments et Vérifications (incluant les procurations et mandats)
 - Droit Immobilier
 - Opinion sommaire
