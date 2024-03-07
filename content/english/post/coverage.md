@@ -41,7 +41,7 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
 
 ## Full-Benefit Package
 
-[Download](/pdf/Benefit%20Schedule%20(FULL)%202020_07_01.pdf)
+[Download](/img/2024_01-benefit-schedule-full.pdf)
 
 * Wills and Estates (includes Powers of Attorney)
 * Real Estate
