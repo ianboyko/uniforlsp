@@ -1,12 +1,13 @@
 ---
+summary: Help navigate legal issues with these resources.
+toc: true
 title: Legal Resources
 date: 2021-03-18
 description: Legal resources organized by category.
-summary: Help navigate legal issues with these resources.
 slug: LEGAL
 translationKey: LEGAL
 weight: "6"
-toc: true
+include_toc: "false"
 lead: The following documents, written by our own lawyers, give you information
   about a variety of legal issues and situations.
 linktitle: Legal
@@ -26,6 +27,8 @@ menu:
 
 #### But for the plan
 
+* [But for The Plan (Car Trouble)]
+(/documents/consumer_law/BFTP/BFTP-cartrouble/)
 * [But for The Plan (The Insurance Contract That “Kept On Ticking”)](/documents/consumer_law/BFTP/BFTP-ticking/) [(or PDF)](/uploads/bftp-ticking.pdf)
 * [But for The Plan (Trust Your Lawyer Through the Settlement Process)](/documents/consumer_law/BFTP/BFTP-settlement/) [(or PDF)](/uploads/bftp-settlement.pdf)
 * [But for The Plan (Collection Agency Letters-Don 't Take Them at Face Value)](/documents/consumer_law/BFTP/BFTP-collection/) [(or PDF)](/pdf/2018%20Jonathon%20-%20Collection%20Agency%20Letters.pdf)
