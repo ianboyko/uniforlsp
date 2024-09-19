@@ -17,7 +17,7 @@ Door-to-door scammers mislead homeowners, especially the elderly, into thinking 
 \
 Until recently, a legal document called a **Notice of Security Interest (“NOSI”)**, could be registered as a lien on title, making it harder for homeowners to sell or remortgage their homes. But new Ontario legislation has changed this:
 
-   **1) NOSI registrations for consumer goods are now prohibited, and** 
+   **1) NOSI registrations for consumer goods are now prohibited, and** \
    **2) Existing NOSI’s for consumer goods can be removed from the title of homes.**
 
 These changes reduce the power that scammers once had. They can no longer use a NOSI to prevent you from selling or refinancing your home. **The NOSI still has to be deleted before, or at the same time as, the homeowner sells or re-mortgages.** The process is fairly simple, but a lawyer must do it, to certify that the deletion is valid. **Also, deleting the NOSI does not cancel the contract.** The scammer can still demand payment, and the homeowner will need to negotiate the amount owed to get out of the contract.\
