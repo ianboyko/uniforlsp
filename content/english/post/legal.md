@@ -20,7 +20,6 @@ menu:
 #### Articles
 
 * [Door-to-Door Salespeople: Beware](/documents/consumer_law/ART/art-nosi2/)
-* [NOTICES OF SECURITY INTEREST: BEWARE](/documents/consumer_law/ART/art-nosi/)
 * [Protect Your Credit Rating](/documents/consumer_law/ART/protect-your-credit-rating/) [(or PDF)](/pdf/Protect_your_credit_rating-en.pdf)
 * [Debt Problems? A Credit Counsellor Might Help](/documents/consumer_law/ART/debt-problems/) [(or PDF)](/pdf/Debt_problems-en.pdf)
 * [Ontario's Consumer Protection Act](/documents/consumer_law/ART/ont-cp-act/) [(or PDF)](/pdf/Ontario_Consumer_Protection_Act-en.pdf)
