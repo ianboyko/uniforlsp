@@ -9,7 +9,7 @@ weight: "10"
 include_toc: "false"
 linktitle: bftp-guardianship
 ---
-\*﻿\*Guardianship Application Required if there are No Powers of Attorney\*\*
+
 
 One of the best estate planning tools is to have properly drafted and signed Powers of Attorney, for both Personal Care and Property. These two documents ensure that someone is authorized to make health care and/or financial decisions on your behalf while you are alive, should the need arise (e.g., mental incapacity).
 
