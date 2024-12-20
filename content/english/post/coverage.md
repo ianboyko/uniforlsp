@@ -20,7 +20,7 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
 
 ## Entry-Level Benefits
 
-[Download](/img/2024_01-benefit-schedule-entry.pdf)
+[Download](/img/2025_01-benefit-schedule-entry.pdf)
 
 * Wills and Estates (includes Powers of Attorney)
 * Summary Advice
@@ -30,7 +30,7 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
 
 ## Mid-Level Benefits
 
-[Download](/img/2024_01-benefit-schedule-mid.pdf)
+[Download](/img/2025_01-benefit-schedule-mid.pdf)
 
 * Wills and Estates (includes Powers of Attorney)
 * Real Estate
@@ -41,7 +41,7 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
 
 ## Full-Benefit Package
 
-[Download](/img/2024_01-benefit-schedule-full.pdf)
+[Download](/img/2025_01-benefit-schedule-full.pdf)
 
 * Wills and Estates (includes Powers of Attorney)
 * Real Estate
@@ -54,5 +54,5 @@ The Benefit Schedule is a detailed list of services and fees. It only applies to
 
 The following documents contain additional coverage information about specific areas of law. Some of the terminology may be different for the province in which you live. If you have a legal problem, please call your nearest Intake Centre immediately, and we will refer you to a lawyer who will answer your questions.
 
-[Divorces and Domestic Contracts](/img/divorces-and-domestic-contracts.pdf)\
-[Estates Plan Coverage](/img/estates-plan-coverage.pdf)
+[Divorces and Domestic Contracts](/img/2025-divorces-and-domestic-contracts.pdf)\
+[Estates Plan Coverage](/img/2025-estates-plan-coverage.pdf)
