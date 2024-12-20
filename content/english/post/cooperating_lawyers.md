@@ -19,5 +19,5 @@ If you would like to become a Co-operating Lawyer, please complete and sign two 
 
 * [Co-operating Lawyer Agreement](/img/2025-co-operating-lawyer-agreement.pdf)
 * [Benefit Schedule](/img/2025_1-benefit-schedule-full.pdf)
-
+ ﻿
 The Plan has more than 700 Co-operating Lawyers and Notaries in locations across the country. For further information [contact us](/post/about/#contact-us) or call 1-800-268-7573.
