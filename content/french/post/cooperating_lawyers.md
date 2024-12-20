@@ -17,6 +17,6 @@ Les avocats au Canada (tout comme les notaires du Québec) qui ont conclu une co
 
 * [CONTRAT DE L'AVOCAT(E) COOPÉRANTE(E)](/img/2025-contrat-de-lavocat-cooperant.pdf)
 * [CONTRAT DU (DE LA) NOTAIRE COOPÉRANTE(E)](/img/2025-contrat-cn-notaire.pdf)
-* [Cédule des Bénéfices](/img/cedule-des-benefices2.pdf)
+* [Cédule des Bénéfices](/img/2025_01-french-benefit-schedule-full.pdf)
 
 Si vous souhaitez devenir un avocat ou un notaire coopérant, veuillez remplir et signer deux (2) copies de l'entente et deux (2) copies de l'annexe "A" et les retourner par télécopieur ou par la poste à notre siège social. Un exemplaire vous sera retourné une fois qu'il aura été signé à ce bureau.
