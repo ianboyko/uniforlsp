@@ -110,7 +110,7 @@ menu:
 
 #### But for the Plan
 
-* [But for The Plan (Negotiating Closing Date Extensions - "Due Diligence" Makes a Difference)](<https://uniforlsp.com/documents/real estate/BFTP/bftp-closingdate>)
+* [But for The Plan (Negotiating Closing Date Extensions - "Due Diligence" Makes a Difference)](<https://uniforlsp.com/documents/real_estate/BFTP/bftp-closingdate>)
 * [But for the Plan (Water in the Basement)](/pdf/But%20for%20the%20Plan%202012%20Nick.pdf)
 * [But for The Plan (Exclusive Listing Agreements - Get Legal Advice Before You Sign)](/pdf/But%20for%20the%20Plan%202017%20Real%20Estate%20Exclusive%20Listing%20Paul.pdf)
 * [But for the Plan (City Expropriation - Street Widening)](/pdf/But%20for%20the%20Plan%202011%20Nick.pdf)
