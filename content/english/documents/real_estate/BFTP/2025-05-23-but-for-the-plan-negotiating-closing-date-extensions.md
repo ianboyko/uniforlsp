@@ -32,7 +32,7 @@ After much back and forth, the Buyer relented and agreed to forward not $20,000,
 
 But for the Plan, the Seller might not have known how much cash the Buyer had available for an additional deposit, and would have settled for less security and less compensation.  Now, for the rest of the story! The Buyer did close on the new closing date, and the Seller did receive an additional $2,500 for their troubles.
 
-*Submitted by Amy Jephson
-Staff Lawyer
-Oshawa Office
-March 18, 2025*
+*Submitted by Amy Jephson*\
+*Staff Lawyer*\
+*Oshawa Office*\
+*March 18, 2025*
