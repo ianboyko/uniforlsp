@@ -57,7 +57,7 @@ menu:
 
 #### Articles
 
-* [Tips for Keeping Your Family Lawyer's Fees Down](/documents/family_law/ART/ART-tips/) [(or PDF)](/pdf/2016%20Tips%20For%20Keeping%20Your%20Family%20Lawyer's%20Legal%20Fees%20Down.pdf)
+* Tips for Keeping Your Family Lawyer's Fees Down [(or PDF)](/pdf/2016%20Tips%20For%20Keeping%20Your%20Family%20Lawyer's%20Legal%20Fees%20Down.pdf)
 * [Pension Division: The New Reality](/documents/family_law/ART/ART-pension/) [(or PDF)](/pdf/Pension%20Division.pdf)
 * [Spousal Support and Early Retirement](/documents/family_law/ART/ART-spousal/) [(or PDF)](/pdf/2015%20Wendy%20Spousal%20Support%20%20and%20Early%20Rtirement.pdf)
 * [A Short Common Law Relationship Can Change Pension Rights](/documents/family_law/ART/ART-short/) [(or PDF)](/pdf/2019%20Wendy%20A%20Short%20Common%20Law%20Relationship.pdf)
@@ -110,6 +110,7 @@ menu:
 
 #### But for the Plan
 
+* [But for The Plan (Negotiating Closing Date Extensions - "Due Diligence" Makes a Difference)](<https://uniforlsp.com/documents/real estate/BFTP/bftp-closingdate>)
 * [But for the Plan (Water in the Basement)](/pdf/But%20for%20the%20Plan%202012%20Nick.pdf)
 * [But for The Plan (Exclusive Listing Agreements - Get Legal Advice Before You Sign)](/pdf/But%20for%20the%20Plan%202017%20Real%20Estate%20Exclusive%20Listing%20Paul.pdf)
 * [But for the Plan (City Expropriation - Street Widening)](/pdf/But%20for%20the%20Plan%202011%20Nick.pdf)
