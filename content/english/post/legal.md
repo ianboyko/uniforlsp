@@ -110,7 +110,7 @@ menu:
 
 #### But for the Plan
 
-* [But for The Plan (Negotiating Closing Date Extensions - "Due Diligence" Makes a Difference)](https://uniforlsp.com/documents/real_estate/BFTP/bftp-closingdate) \[(or PDF)]
+* [But for The Plan (Negotiating Closing Date Extensions - "Due Diligence" Makes a Difference)](https://uniforlsp.com/documents/real_estate/BFTP/bftp-closingdate) [(or PD)](/img/closingdate.pdf)
 * [But for the Plan (Water in the Basement)](/pdf/But%20for%20the%20Plan%202012%20Nick.pdf)
 * [But for The Plan (Exclusive Listing Agreements - Get Legal Advice Before You Sign)](/pdf/But%20for%20the%20Plan%202017%20Real%20Estate%20Exclusive%20Listing%20Paul.pdf)
 * [But for the Plan (City Expropriation - Street Widening)](/pdf/But%20for%20the%20Plan%202011%20Nick.pdf)
@@ -130,7 +130,7 @@ menu:
 
 #### But for the Plan
 
-* [﻿But for The Plan (Guardianship Application Required if No Powers of Attorney)](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-guardianship/)﻿ [(or PDF)](/img/closingdate.pdf)
+* [﻿But for The Plan (Guardianship Application Required if No Powers of Attorney)](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-guardianship/)﻿
 * [﻿But for The Plan (Power of Attorney Initially Rejected - in Error- By Financial Institution)](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-poa/)
 * [But for The Plan (The Disability Tax Credit: Don’t Forget About It)](/documents/wills_estates/BFTP/bftp-disability/)
 * [But for The Plan (Check Property Ownership Documentation NOW!)](/documents/wills_estates/BFTP/BFTP-ownership/) [(or PDF)](/uploads/bftp-ownership.pdf)
