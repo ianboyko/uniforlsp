@@ -25,7 +25,7 @@ Three days before the trial, D. and his lawyer from the Oakville office attended
 
 But for the Plan benefit, would D. have waited a lot longer to seek help, and found himself with ongoing support issues hanging over his head, maybe even well into his retirement?
 
-*Submitted by Peter Kazman,
-Managing Lawyer,
-Oakville Office
+*Submitted by Peter Kazman,\
+Managing Lawyer,\
+Oakville Office\
 April 15.2025*
