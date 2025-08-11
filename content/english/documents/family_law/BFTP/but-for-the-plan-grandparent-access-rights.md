@@ -1,14 +1,16 @@
-+++
-date = ""
-description = ""
-slug = "BFTP-access"
-summary = ""
-title = "But for The Plan (Grandparent Access Rights)"
-toc = false
-translationKey = "BFTP-access"
-
-+++
-Ethel (not her real name), a widow in her 70’s, is the surviving spouse of a CAW Legal Services Plan member. She came to our Oshawa office because of her two year old granddaughter, whom she had never seen.
+---
+summary: Access
+toc: false
+title: But for The Plan (Grandparent Access Rights)
+date: 2025-08-11T20:20:56.548Z
+description: Access
+slug: BFTP-access
+translationKey: BFTP-access
+weight: "10"
+include_toc: "false"
+linktitle: BFTP-access
+---
+Ethel (not her real name), a widow in her 70’s, is the surviving spouse of a Unifor Legal Services Plan member. She came to our Oshawa office because of her two year old granddaughter, whom she had never seen.
 
 Ethel’s son was the biological father of the child, but he and the mother did not live together, and he did not have visitation rights (“access”) to the child. Ethel’s attempts to see her granddaughter had been at first ignored and then later refused by the mother, even with mutual friends attempting to facilitate contact.
 
@@ -18,8 +20,8 @@ Shortly after the mother was served with a Court Application, she retained a law
 
 Our client is thrilled, and so is her granddaughter. We know, because Ethel has been showing us the pictures.
 
-Had it not been for the CAW Legal Services Plan, this beautiful and important relationship may have never begun.
+Had it not been for the Unifor Legal Services Plan, this beautiful and important relationship may have never begun.
 
-Submitted by Donna Wormington,  
-Staff Lawyer  
+Submitted by Donna Wormington,\
+Staff Lawyer\
 Oshawa Office
