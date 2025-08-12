@@ -27,7 +27,7 @@ menu:
 
 #### But for the plan
 
-* [But for The Plan (Consumers Beware)](/documents/consumer_law/BFTP/BFTP-beware/)
+* [But for The Plan (Consumers Beware)](/documents/consumer_law/BFTP/BFTP-consumers_beware/)
 * [But for The Plan (Car Trouble)](/documents/consumer_law/BFTP/BFTP-cartrouble/)
 * [But for The Plan (The Insurance Contract That “Kept On Ticking”)](/documents/consumer_law/BFTP/BFTP-ticking/)
 * [But for The Plan (Trust Your Lawyer Through the Settlement Process)](/documents/consumer_law/BFTP/BFTP-settlement/) [(or PDF)](/uploads/bftp-settlement.pdf)
