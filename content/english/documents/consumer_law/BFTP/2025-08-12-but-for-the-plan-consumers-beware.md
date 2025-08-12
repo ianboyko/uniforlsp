@@ -21,6 +21,6 @@ Ontario’s Consumer Protection Act, is the main piece of legislation that provi
 
    > If you enter into a consumer contract and are not sure if it is valid\
    >            or if you wish to cancel it\
-   > contact your Unifor Legal Services Plan office immediately!\
+   > contact your Unifor Legal Services Plan office immediately!
 
 *﻿August 2025*
