@@ -78,7 +78,7 @@ menu:
 * [But for The Plan (Child Support for Dad)](/documents/family_law/BFTP/BFTP-dad/) [(or PDF)](/pdf/But%20for%20the%20Plan%202009%20John.pdf)
 * [But for The Plan (Child Support for Older Children)](/documents/family_law/BFTP/BFTP-older/) [(or PDF)](/pdf/But%20for%20the%20Plan%20September%20Wendy%202008.pdf)
 * [But for The Plan (Matrimonial Swimming Pool)](/documents/family_law/BFTP/BFTP-pool/) [(or PDF)](/pdf/But%20for%20the%20Plan%20November%202008.pdf)
-* [But for The Plan (Grandparent Access Rights)](/documents/family_law/BFTP/BFTP-access/) [(or PDF)](/pdf/But%20for%20the%20Plan%202010%20Donna%20Grandparents.pdf)
+* [But for The Plan (Grandparent Access Rights)](/documents/family_law/BFTP/BFTP-access/) [(or PDF)](/img/2025-fam-access.pdf)
 
 ### Immigration
 
