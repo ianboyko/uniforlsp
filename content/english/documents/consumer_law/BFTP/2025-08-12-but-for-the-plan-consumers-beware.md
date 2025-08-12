@@ -3,11 +3,11 @@ title: But for The Plan (Consumers Beware)
 date: 2025-08-12T14:03:30.200Z
 description: But for The Plan (Consumers Beware)
 summary: But for The Plan (Consumers Beware)
-slug: BFTP-beware
-translationKey: BFTP-beware
+slug: BFTP-consumers_beware
+translationKey: BFTP-consumers_beware
 weight: "10"
 include_toc: "false"
-linktitle: BFTP-beware
+linktitle: BFTP-consumers_beware
 ---
 Ontario’s Consumer Protection Act, is the main piece of legislation that provides some protection to consumers in their dealings with businesses. Unifor members should be aware of the following:
 
