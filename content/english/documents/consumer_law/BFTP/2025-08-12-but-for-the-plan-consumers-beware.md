@@ -19,6 +19,8 @@ Ontario’s Consumer Protection Act, is the main piece of legislation that provi
 
    It is important to contact a lawyer within a few days of signing the consumer contract, to be advised of your rights under the Consumer Protection Act.
 
-   > If you enter into a consumer contract and are not sure if it is valid
-   >            or if you wish to cancel it
-   > contact your Unifor Legal Services Plan office immediately!
+   > If you enter into a consumer contract and are not sure if it is valid\
+   >            or if you wish to cancel it\
+   > contact your Unifor Legal Services Plan office immediately!\
+
+*﻿August 2025*
