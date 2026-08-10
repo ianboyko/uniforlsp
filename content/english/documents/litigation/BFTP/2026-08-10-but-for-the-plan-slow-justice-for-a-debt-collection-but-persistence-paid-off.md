@@ -10,8 +10,6 @@ weight: "10"
 include_toc: "false"
 linktitle: bftp-dcp
 ---
-*Slow Justice for a Debt Collection - But Persistence Paid Off*
-
 Mr. N. came to our Oshawa office with a difficult dilemma. His son-in law, D, now separated from his daughter, had not fully repaid him for loans advanced to in the previous two years.
 
 He instructed Bob Banik to start a lawsuit. When D did not file a defence Bob quickly obtained a “default” judgment for about $91,400 plus costs and interest, and filed a Writ of seizure and sale against D’s interest in the former matrimonial home (which was also the subject of a separate family law dispute).
