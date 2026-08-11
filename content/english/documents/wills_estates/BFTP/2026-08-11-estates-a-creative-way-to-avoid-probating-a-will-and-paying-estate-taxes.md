@@ -1,8 +1,8 @@
 ---
-title: Estates - A Creative Way to avoid Probating a Will and Paying Estate Taxes
+title: Estates - A Creative Way to Avoid Probating a Will and Paying Estate Taxes
 date: 2026-08-11T15:02:52.082Z
-description: Estates - A Creative Way to avoid Probating a Will and Paying Estate Taxes
-summary: Estates - A Creative Way to avoid Probating a Will and Paying Estate Taxes
+description: Estates - A Creative Way to Avoid Probating a Will and Paying Estate Taxes
+summary: Estates - A Creative Way to Avoid Probating a Will and Paying Estate Taxes
 slug: bftp-estatesprobate
 translationKey: bftp-estatesprobate
 weight: "10"
