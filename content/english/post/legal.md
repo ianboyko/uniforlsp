@@ -133,6 +133,7 @@ menu:
 
 #### But for the Plan
 
+* [﻿But for The Plan (Estates - A Creative Way to Avoid Probating a Will and Paying Estate Taxes)](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-estatesprobate/)﻿
 * [L﻿itigation: Successful Defence of a Support Claim Against an Estate](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-estatelitigation) ([or PDF](/img/estatelitigation.pdf))
 * [﻿But for The Plan (Guardianship Application Required if No Powers of Attorney)](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-guardianship/)﻿
 * [﻿But for The Plan (Power of Attorney Initially Rejected - in Error- By Financial Institution)](https://uniforlsp.com/documents/wills_estates/BFTP/bftp-poa/)
