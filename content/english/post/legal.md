@@ -107,7 +107,7 @@ menu:
 
 #### Articles
 
-* [Dealing With Small, Private Lenders Can Be Very Complicated](/pdf/2019%20Frank-Dealing%20With%20Neighbours.pdf)
+* [Dealing With Small, Private Lenders Can Be Very Complicated](/img/2026-dealing-with-small-lenders.pdf)
 * [Dealing with Neighbours](/pdf/2019%20Frank-Dealing%20With%20Neighbours.pdf)
 * [Two Types of Co-Ownership in Real Estate](/pdf/Two%20types%20of%20Co-Ownership%20in%20Real%20Estate.pdf)
 * [Protect Yourself From the Builder's Big Bite](/pdf/Protect%20yourself%20from%20the%20Builders%20big%20bite.pdf)
