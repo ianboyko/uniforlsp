@@ -107,14 +107,14 @@ menu:
 
 #### Articles
 
-* [Dealing with Neighbours](/pdf/2019%20Frank-Dealing%20With%20Neighbours.pdf)  [But for the Plan (Real Estate Sale - When the Buyer Can 't Close on Time)](/pdf/But%20for%20the%20Plan%202018%20Gorycki%20and%20Banik.pdf)
+* [Dealing with Neighbours](/pdf/2019%20Frank-Dealing%20With%20Neighbours.pdf)
 * [Two Types of Co-Ownership in Real Estate](/pdf/Two%20types%20of%20Co-Ownership%20in%20Real%20Estate.pdf)
 * [Protect Yourself From the Builder's Big Bite](/pdf/Protect%20yourself%20from%20the%20Builders%20big%20bite.pdf)
 * [Mortgage in Default? Don 't Hand Over Your Keys to the Bank](/pdf/Mortgage%20in%20Default.pdf)
 
 #### But for the Plan
 
-* [But for The Plan (Negotiating Closing Date Extensions - "Due Diligence" Makes a Difference)](https://uniforlsp.com/documents/real_estate/BFTP/bftp-closingdate) [(or PD)](/img/closingdate.pdf)
+* [But for The Plan (Negotiating Closing Date Extensions - "Due Diligence" Makes a Difference)](https://uniforlsp.com/documents/real_estate/BFTP/bftp-closingdate) [(or PDF)](/img/closingdate.pdf)
 * [But for the Plan (Real Estate Sale - When the Buyer Can 't Close on Time)](/pdf/But%20for%20the%20Plan%202018%20Gorycki%20and%20Banik.pdf)
 * [But for the Plan (Water in the Basement)](/pdf/But%20for%20the%20Plan%202012%20Nick.pdf)
 * [But for The Plan (Exclusive Listing Agreements - Get Legal Advice Before You Sign)](/pdf/But%20for%20the%20Plan%202017%20Real%20Estate%20Exclusive%20Listing%20Paul.pdf)
